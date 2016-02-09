@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Except our theme and some GitHub stuff
+!.gitignore
+!README.txt
+!crometrics
+!crometrics/**/*
