@@ -1,0 +1,554 @@
+// Import Bootstrap Compass integration
+@import "bootstrap-compass";
+@import "compass/css3/transform";
+
+// Import custom Bootstrap variables
+@import "bootstrap-variables";
+
+// Import Bootstrap for Sass
+@import "bootstrap";
+
+// Import Fonts
+@import url(http://fonts.googleapis.com/css?family=Libre+Baskerville);
+@import url(http://fonts.googleapis.com/css?family=Hind:400,700);
+
+/* Additional CSS */
+
+// Breakpoints
+$breakpoint-mobile-sm: 479px;
+$breakpoint-mobile: 767px;
+$breakpoint-desktop-sm: 991px;
+
+// Generic elements
+html { font-size: $font-size-base; }
+
+body {
+  font-size: $font-size-base;
+  color: $gray;
+  padding-top: 63px;
+}
+
+h1, h2 {
+  font-family: $font-family-serif;
+  color: $gray-darker;
+}
+
+h1 {
+  line-height: 1.43em;
+}
+
+h2 { line-height: 1.38em; letter-spacing:-.5px; }
+
+.sub-h2 {
+  margin-top: -10px;
+}
+
+h3 {
+  font-weight: bold;
+  color: $gray;
+  letter-spacing: .2em;
+  &:first-child { margin: 0; }
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+h4 {
+  font-style: italic;
+}
+
+p { line-height: 1.87em; }
+
+.highlight-blue {
+  color: $brand-primary;
+  font-weight: 600;
+}
+
+img {
+  max-width: 100%;
+}
+
+// Text
+.text-light-gray { color: $gray-light!important; }
+
+// Buttons
+.btn {
+  font-family: $font-family-sans-serif;
+  font-size: $font-size-base - 1;
+  font-weight: bold;
+  padding-top: 8px; // Corrects for text not being naturally vertically aligned in its line-height
+  padding-bottom: 5px;
+  &.btn-lg {
+    padding-top: 12px;
+    padding-bottom: 9px;
+  }
+}
+
+// --------------------------------------------
+// Page specific fixes
+// Fix weird right-gutter problem on ALL the following pages:
+.page-clients,
+.page-optimizely {
+  .row {
+    max-width: 100% !important;
+    margin: 0 !important;
+  }
+
+  .container {
+    max-width: 100% !important;
+  }
+}
+
+// Exceptions for individual pages:
+.page-clients {
+  @media screen and (max-width: $breakpoint-mobile) {
+    .testimonials-wrapper {
+      padding: 0;
+    }
+  }
+}
+// --------------------------------------------
+
+
+
+// Containers
+
+.container {
+  padding: 70px;
+  @media screen and (max-width: $breakpoint-mobile) {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+.container, [class*="col-"] > {
+  h1, h2 {
+    &:first-child {
+      margin-top: 0;
+      margin-bottom: 37px;
+    }
+  }
+}
+
+.container-fluid {
+  padding-top:70px;
+  padding-bottom:70px;
+  @media screen and (max-width: $breakpoint-mobile) {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.container-fluid .container {
+  padding-top: 0;
+  padding-bottom: 0;
+  @media screen and (max-width: $breakpoint-mobile) {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+.navbar .container {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+hr.small { width: 50px; border-top-width: 2px; }
+hr.brown { border-top-color: $brand-brown; }
+h2.gray { border-top-color: $gray; }
+
+// Lists
+ul {
+  padding-left:1.25rem; // Get bullets flush with the left side of the container if possible
+  &.list-circle {
+    list-style-type:circle;
+  }
+  li {
+    margin-bottom: 1em;
+  }
+}
+
+// Navbar
+
+.navbar-inverse {
+  .navbar-nav > li {
+    margin-bottom: 0;
+    .btn {
+      border: 2px solid transparent;
+      &.btn-primary {
+        border: 2px solid #ffffff;
+        color:#ffffff;
+        background: transparent;
+      }
+    }
+    a:hover {
+      background: darken($brand-primary,15%);
+      .btn {
+        color:#ffffff;
+      }
+    }
+  }
+  .navbar-toggle {
+    border-color: transparent;
+    &:hover { background-color:transparent; }
+  }
+}
+
+.navbar-brand {
+  padding-top: ($navbar-height - 18) / 2;
+  padding-bottom: ($navbar-height - 18) / 2;
+}
+
+// Hero
+
+.jumbotron {
+  background-image: url(../images/hero-bg.jpg);
+  background-size: cover;
+  margin-bottom: 0;
+  min-height:630px;
+  color:#ffffff;
+  text-align: center;
+
+  &.jumbo2 {
+    background-image: url(../images/hero-bg2.jpg);
+  }
+
+  .container {
+    background-color: rgba(29,29,29,0.4);
+    padding: 2.2em 4em;
+    margin: auto;
+    max-width: 90%;
+    width: 861px;
+
+    @media screen and (max-width: $breakpoint-mobile) {
+      max-width: 100%;
+      width: auto;
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+  }
+
+  h1, p {
+    margin-top:0;
+    margin-bottom: 37px;
+  }
+
+  h1 {
+    font-size: 1.9em;
+  }
+
+  p { font-size:18px; line-height: 1.78em; }
+}
+
+.btn-orange {
+  color: $btn-orange-color;
+  background: $btn-orange-bg;
+  border-color: $btn-orange-border;
+  &:hover {
+    background: darken($btn-orange-bg, 10%);
+  }
+}
+
+// Columns
+
+.bg-gray-lighter {
+  background-color:$gray-lighter;
+}
+.bg-gray-dark {
+  background-color:$gray-dark;
+}
+.bg-gray-darker {
+  background-color:$gray-darker;
+}
+.bg-gray {
+  background-color:$gray;
+}
+
+.bg-gray, [class*="bg-gray-dark"] {
+  h2, h3, p, ul {
+    color:#ffffff;
+  }
+}
+
+.divider {
+  text-align: center;
+  hr {
+    display: inline-block;
+    vertical-align: 11px;
+    margin-left:10px;
+    margin-right:10px;
+  }
+  font-family:$font-family-serif;
+  font-size: 48px;
+}
+
+.container, .container-fluid {
+  & > .row > * {
+    margin-top: 68px;
+  }
+  & > .row:first-child {
+    margin-top: -68px;
+  }
+}
+
+.attribution { font-size: 0.87rem; }
+
+.lrpad10 {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+
+// Page Elements
+
+.panel {
+  padding: 15px;
+  border: 1px solid #e4e5e0;
+  font-family: sans-serif;
+
+  h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    margin-top: 10px;
+    font-family: inherit;
+  }
+
+  h1 {
+    font-size: 2rem;
+    color: $brand-primary;
+    font-weight: bold;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+    color: $brand-primary;
+    margin-top: 0;
+  }
+}
+
+@media screen and (max-width: $breakpoint-desktop-sm) {
+  .panel p {
+    text-align: center;
+  }
+
+  body.page-clients {
+    .panel {
+      min-height: 150px !important;
+      margin: -50px 35px 0;
+    }
+  }
+}
+
+body.page-clients {
+  .panel {
+    min-height: 400px;
+  }
+
+  .ten-line-wrapper-col {
+    padding-right: 0;
+  }
+}
+
+.infobar {
+  background: $brand-primary;
+  padding: 20px 20px 10px;
+  border-radius: 6px;
+  color: white;
+  overflow: hidden;
+  margin-bottom: 25px;
+}
+
+.cblock {
+  float: left;
+  line-height: 1;
+  margin-right: 25px;
+}
+
+.cblock.nps-scale {
+  font-size: 26px;
+  line-height: 1.6;
+
+  @media screen and (max-width: $breakpoint-mobile-sm) {
+    font-size: 16px;
+    line-height: 2.3;
+  }
+}
+
+.vdivide {
+  border-right: 1px solid white;
+  width: 1px;
+  height: 36px;
+}
+
+.ten-line {
+  background: url(../images/10-line.png) no-repeat;
+  min-height: 100px;
+}
+
+.testimonial-block {
+  background: white;
+  padding: 25px;
+  border-radius: 4px;
+  overflow: auto;
+  margin-bottom: 20px;
+
+  &:before {
+    content: url(../images/testimonial-quote-arrow);
+    position: absolute;
+    left: 22px;
+    top: 10px;
+  }
+}
+
+.testimonial-quote {
+  float: right;
+}
+
+.client-logos-container h3 {
+  margin-bottom: 40px;
+}
+
+.client-logos {
+  text-align: center;
+  margin-top: 5px !important;
+
+  img {
+    padding: 10px;
+    margin: 0 20px;
+  }
+}
+
+.extra-margin-tb {
+  margin: 40px 0;
+}
+
+.center {
+  text-align: center;
+}
+
+.clearboth {
+  clear: both;
+}
+
+.keyline-hr {
+  border-top: 1px solid #ccc;
+  width: 30%;
+}
+
+// Footer
+
+footer {
+  text-align: center;
+
+  .container {
+    padding: 35px;
+    @media screen and (max-width: $breakpoint-mobile) {
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+    & > div {
+      color: $gray-light;
+      font-size:14px;
+      a, a:link, a:hover, a:active, a:visited {
+        text-decoration: underline;
+        color: $gray-light;
+      }
+      a:hover { color: #ffffff; }
+    }
+  }
+  .navbar-nav {
+    float: none;
+    display: inline-block;
+    a {
+      color:$brand-brown;
+      text-transform: uppercase;
+      font-size:14px;
+      &:hover {
+        background: none;
+        color: lighten($brand-brown, 25%);
+      }
+    }
+  }
+}
+
+// Contact Form
+.modal-header > p {
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+#contact-form {
+  .success,
+  .error,
+  .empty {
+    display: none;
+    text-align: left;
+  }
+
+  .error,
+  .empty {
+    position: relative;
+    color: red;
+    font-size: 11px;
+    top: 0px;
+    left: 10px;
+  }
+
+  .success,
+  .success strong {
+    color: #3c763d;
+  }
+
+  label {
+    display: block;
+    input, textarea {
+      font-weight: 400;
+    }
+  }
+
+  textarea { resize: vertical; }
+
+  .glyphicon { display: none; }
+
+  .has-error.has-feedback .glyphicon-remove { display: block; }
+  .has-success.has-feedback .glyphicon-ok { display: block; }
+}
+
+
+// Team Page
+// ------------------------------------------------------------
+
+.image-circle-mask-wrapper {
+  border: 7px solid #e4e5e0;
+  border-radius: 50%;
+  overflow: hidden;
+  height: 290px;
+  width: 290px;
+  margin: 0 auto;
+}
+
+.team-bio-div {
+  margin-top: 10px !important;
+  margin-bottom: 50px !important;
+}
+
+.team-category {
+  padding: 80px 0;
+}
+
+.team-name {
+  margin: 25px 0 0 !important;
+  text-transform: uppercase;
+}
+
+// End Team Page
+// ------------------------------------------------------------
+
+
+// Animate almost everything
+* {
+  -webkit-transition: all 0.3s ease, font-size 0, height 0;
+  -moz-transition: all 0.3s ease, font-size 0, height 0;
+  -o-transition: all 0.3s ease, font-size 0, height 0;
+  transition: all 0.3s ease, font-size 0, height 0;
+}

@@ -1,0 +1,9 @@
+test:
+  override:
+    - echo "no tests"
+
+deployment:
+  staging:
+    branch: master
+    commands:
+      - ./bin/stage.sh
