@@ -2,14 +2,14 @@
 
 This is the official repository for the crometrics.com WordPress theme.
 
-### GitHub Workflow
+### About
 
-Host: **WPEngine**
+* Host: **WPEngine**
+* Production: http://crometrics.com/
+* Staging: http://crometrics.staging.wpengine.com/
+* circleci: https://circleci.com/gh/CROmetrics/crometrics.com
 
-##### Pulling
-You cannot pull a repo from WPEngine. You can only pull the repo from GitHub. To do so, simply clone this repo into a pre-created WordPress install. The specific directory is located under:
+Push to GitHub and it will auto-deploy to WPEngine staging via circleci
 
-    YourWordPressDirectory/wp-content/themes
-
-##### Deploying
-The only way to push to WPEngine is with an autodeploy process.
+##### Workflow
+Create a pull request to master, and your change will be submitted after review.
