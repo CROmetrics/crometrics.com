@@ -39,4 +39,5 @@ h1.entry-title      { font-size: 1.07rem; color:#fff; margin:0 !important; }
 @media (max-width:768px) {
   .left_blog { width:100%; float:left; padding: 1em; }
   .right_blog { display:none; }
+  header.entry-header > .container-fluid { padding-left: 1em; padding-right: 1em; }
 }
