@@ -26,10 +26,17 @@ body.page-template-our_clients .panel { min-height: 400px; }
 .left_blog          { width:60%; float:left; }
 .left_blog h3:first-child      {  margin:0 0 15px 0;  }
 .left_blog h3      { margin:0 0 15px 0; }
-.right_blog         { width:25%; float:right; }    
+.right_blog         { width:25%; float:right; }
 
 .right_blog h1.widget-title { font-size: 1.07rem; margin:0 0 15px 0; }
 .right_blog  ul li          { margin:0; }
 .bloglist           { margin:0 0 30px 0;  }
 
 h1.entry-title      { font-size: 1.07rem; color:#fff; margin:0 !important; }
+
+/* responsive */
+
+@media only screen and (max-device-width: 480px) {
+  .left_blog          { width:100%; float:left; padding: 1em; }
+  .right_blog         { display:none; }
+}
