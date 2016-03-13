@@ -48,14 +48,14 @@ get_header(); ?>
 
   <div class="container">
     <div class="row">
-   		
+
    	  <!-- Product Management column -->
       <div class="col-md-6 team-bio-div">
         <div class="center">
           <h3 class="team-category uppercase"><?php the_field( "product_title" ); ?></h3>
         </div>
-        
-<?php if( get_field('product_management_strip') ): ?>							 
+
+<?php if( get_field('product_management_strip') ): ?>
 		<?php $i=1; while( has_sub_field('product_management_strip') ): ?>
         <div>
           <div class="image-circle-mask-wrapper">
@@ -69,11 +69,11 @@ get_header(); ?>
             <?php the_sub_field('content'); ?>
           </div>
         </div>
-		<?php $i++; endwhile; ?>		                
-<?php endif; ?>          
-        
+		<?php $i++; endwhile; ?>
+<?php endif; ?>
+
       </div>
-        
+
         <!-- Add new product managers here
         <div>
           <div class="image-circle-mask-wrapper">
@@ -94,12 +94,12 @@ get_header(); ?>
         <div class="center">
           <h3 class="team-category uppercase"><?php the_field( "engineering_title" ); ?></h3>
         </div>
-        
-<?php if( get_field('engineering_strip') ): ?>							 
+
+<?php if( get_field('engineering_strip') ): ?>
 		<?php $i=1; while( has_sub_field('engineering_strip') ): ?>
         <div>
           <div class="image-circle-mask-wrapper">
-            <img src="<?php the_sub_field('image'); ?>" style="width:300px; <?php if($i==1){?>margin: -40px 0 0 0;<?php }?>"/>
+            <img src="<?php the_sub_field('image'); ?>" style="width:300px; <?php if($i==2){?>margin: -40px 0 0 0;<?php }?>"/>
           </div>
           <div class="center">
             <h2 class="team-name"><?php the_sub_field('name'); ?></h2>
@@ -109,10 +109,10 @@ get_header(); ?>
             <?php the_sub_field('content'); ?>
           </div>
         </div>
-        <?php $i++; endwhile; ?>		                
-<?php endif; ?>  
+        <?php $i++; endwhile; ?>
+<?php endif; ?>
 
-             
+
         <!-- Add new engineers here
         <div>
           <div class="image-circle-mask-wrapper">
@@ -127,7 +127,7 @@ get_header(); ?>
           </div>
         </div>
       -->
-      
+
       </div> <!-- /Engineering -->
     </div> <!-- /row -->
   </div> <!-- /container-->
