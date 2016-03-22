@@ -88,8 +88,8 @@ function twentyfourteen_post_nav() {
 			if ( is_attachment() ) :
 				previous_post_link( '%link', __( '<span class="meta-nav">Published In</span>%title', 'twentyfourteen' ) );
 			else :
-				previous_post_link( '%link', __( '<span class="meta-nav">Previous Post</span>%title', 'twentyfourteen' ) );
-				next_post_link( '%link', __( '<span class="meta-nav">Next Post</span>%title', 'twentyfourteen' ) );
+				previous_post_link( '%link', __( '<span class="meta-nav">Previous Post</span>', 'twentyfourteen' ) );
+				next_post_link( '%link', __( '<span class="meta-nav"> Next Post</span>', 'twentyfourteen' ) );
 			endif;
 			?>
 		</div><!-- .nav-links -->
