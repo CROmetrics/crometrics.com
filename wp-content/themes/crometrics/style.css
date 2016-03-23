@@ -41,3 +41,12 @@ h1.entry-title      { font-size: 1.07rem; color:#fff; margin:0 !important; }
   .right_blog { display:none; }
   header.entry-header > .container-fluid { padding-left: 1em; padding-right: 1em; }
 }
+
+/* CROmetrics custom styles */
+.prev-nav {
+    float: left;
+}
+
+.next-nav {
+    float: right;
+}
