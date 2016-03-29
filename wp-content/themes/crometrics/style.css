@@ -52,6 +52,10 @@ h1.entry-title      { font-size: 1.07rem; color:#fff; margin:0 !important; }
   font-size: 15px;
 }
 
+.bloglist {
+  border-bottom: 1px solid #a4a59f;
+}
+
 .bloglist h3 {
   font-size: 1.5rem;
 }
