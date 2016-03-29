@@ -56,6 +56,10 @@ h1.entry-title      { font-size: 1.07rem; color:#fff; margin:0 !important; }
   font-size: 1.5rem;
 }
 
+.container-fluid h3 {
+  font-size: 1.5rem;
+}
+
 @media (max-width:768px) {
   .container-fluid {
     padding-left: 15px;
