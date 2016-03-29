@@ -76,4 +76,11 @@ h1.entry-title      { font-size: 1.07rem; color:#fff; margin:0 !important; }
   .group-blog > .container {
     padding: 30px 0;
   }
+  /* Padding for Jobs/ page
+  Should probably be site-wide but I don't have time
+  to QA a site-wide change today */
+  body.page-id-343 p {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
 }
