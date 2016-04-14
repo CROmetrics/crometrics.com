@@ -7707,7 +7707,7 @@ body.page-clients .ten-line-wrapper-col {
   margin-bottom: 20px;
 }
 .testimonial-block:before {
-  content: url(../images/testimonial-quote-arrow);
+  content: url(../images/testimonial-quote-arrow.png);
   position: absolute;
   left: 22px;
   top: 10px;
