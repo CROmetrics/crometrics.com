@@ -84,3 +84,12 @@ h1.entry-title      { font-size: 1.07rem; color:#fff; margin:0 !important; }
     padding-right: 15px;
   }
 }
+
+.navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {
+  max-height: 360px;
+}
+
+.navbar-nav > li > a {
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
