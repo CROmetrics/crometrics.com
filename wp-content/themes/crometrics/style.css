@@ -83,13 +83,14 @@ h1.entry-title      { font-size: 1.07rem; color:#fff; margin:0 !important; }
     padding-left: 15px;
     padding-right: 15px;
   }
+  /* Don't overflow mobile nav */
+  .navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {
+    max-height: 360px;
+  }
+
+  .navbar-nav > li > a {
+    padding-top: 6px;
+    padding-bottom: 6px;
+  }
 }
 
-.navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {
-  max-height: 360px;
-}
-
-.navbar-nav > li > a {
-  padding-top: 6px;
-  padding-bottom: 6px;
-}
