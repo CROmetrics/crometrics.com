@@ -43,6 +43,11 @@ h1.entry-title      { font-size: 1.07rem; color:#fff; margin:0 !important; }
 }
 
 /* CROmetrics custom styles */
+
+p {
+line-height: 1.7em;
+}
+
 .prev-nav {
   float: left;
 }
@@ -76,14 +81,32 @@ h1.entry-title      { font-size: 1.07rem; color:#fff; margin:0 !important; }
   .group-blog > .container {
     padding: 30px 0;
   }
-  /* Padding for Jobs/ page
+  /********* Padding for Jobs/ page
   Should probably be site-wide but I don't have time
-  to QA a site-wide change today */
+  to QA a site-wide change today ************************/
   body.page-id-343 p {
     padding-left: 15px;
     padding-right: 15px;
   }
-  /* Don't overflow mobile nav */
+  /********* Mobile view for Meet-the-team/ page*/
+
+/*get CN's head above the fold 5s */
+  body.page-id-17 .bg-gray-darker.container-fluid {
+    padding-top: 40px;
+    padding-bottom: 20px;
+  }
+  body.page-id-17 .bg-gray-darker.container-fluid h2 {
+    font-size: 1.25rem;
+  }
+  .image-circle-mask-wrapper {
+	max-width: 250px;
+	max-height: 250px;
+}
+
+/* end 768 styles */
+}
+
+  /******** Don't overflow mobile nav **********/
   .navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {
     max-height: 360px;
   }
@@ -93,4 +116,5 @@ h1.entry-title      { font-size: 1.07rem; color:#fff; margin:0 !important; }
     padding-bottom: 6px;
   }
 }
+
 
