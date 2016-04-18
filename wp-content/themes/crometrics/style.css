@@ -101,20 +101,14 @@ line-height: 1.7em;
   .image-circle-mask-wrapper {
 	max-width: 250px;
 	max-height: 250px;
-}
-
-/* end 768 styles */
-}
+  }
 
   /******** Don't overflow mobile nav **********/
   .navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {
     max-height: 360px;
   }
-
   .navbar-nav > li > a {
     padding-top: 6px;
     padding-bottom: 6px;
   }
-}
-
-
+} /* End 768 styles */
