@@ -41,7 +41,7 @@ h1.entry-title      { font-size: 1.07rem; color:#fff; margin:0 !important; }
   header.entry-header > .container-fluid { padding-left: 1em; padding-right: 1em; }
 }
 
-/* CROmetrics custom styles */
+/************* CROmetrics custom styles GLOBAL *************/
 
 p {
 line-height: 1.7em;
@@ -68,26 +68,117 @@ line-height: 1.7em;
   font-size: 1.5rem;
 }
 
+/* ---------- NAVBAR ---------- */
+
+body {padding-top: 60px;} /* fixes weird space after nav on some widths */
+
+.navbar {
+    border: 0;
+    min-height: 60px;
+}
+.navbar-brand {
+    padding: 22px 5px 0;
+    height: auto;
+}
+
+/* ---------- CLIENTS ---------- */
+
+.ten-line {
+     min-width: 52px;
+}
+
+.testimonial-block {
+     padding: 25px 35px;
+     font-size: 18px;
+     line-height: 1.5;
+}
+.testimonial-block .testimonial-quote {
+     font-size: 15px;
+     margin: 0;
+}
+
+
+/************* MOBILE (1064) *************/
+
+@media (max-width:1064px) {
+    .nav > li > a { padding: 10px 7px; }
+    /* prevents breaks */
+}
+
+
+
+/************* MOBILE (768) *************/
+
 @media (max-width:768px) {
-  .container-fluid {
+
+
+/* ---------- Mobile nav  ---------- */
+  .navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {
+    max-height: 360px;
+  }
+  .navbar-nav > li > a {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    /* prevents overflow */
+  }
+  .navigation {
     padding-left: 15px;
     padding-right: 15px;
   }
-  .navigation {
+
+  .container-fluid {
     padding-left: 15px;
     padding-right: 15px;
   }
   .group-blog > .container {
     padding: 30px 0;
   }
-  /********* Padding for Jobs/ page
+
+
+/* ---------- CLIENTS ---------- */
+
+body.page-template-our_clients .panel {
+    min-height: 0;
+    margin: -35px 0; /* fixes weird spacing between panels */
+}
+
+.testimonials-wrapper {
+    padding: 0; /* expands with because sits inside other columns */
+}
+
+.testimonials-wrapper .infobar {
+    margin: 0 -15px 25px;
+}
+.testimonials-wrapper .infobar .cblock {
+    margin-right: 19px;
+}
+.testimonials-wrapper .infobar .cblock.nps-scale {
+    margin: 0;
+}
+.testimonial-block {
+    padding: 15px;
+    font-size: 15px;
+}
+.testimonial-block:before {
+    content: none;
+}
+.testimonial-block .testimonial-quote {
+    font-size: 13px;
+    margin: 0;
+}
+
+
+
+/* ---------- Padding for Jobs/ page
   Should probably be site-wide but I don't have time
-  to QA a site-wide change today ************************/
+  to QA a site-wide change today ---------- */
+
   body.page-id-343 p {
     padding-left: 15px;
     padding-right: 15px;
   }
-  /********* Mobile view for Meet-the-team/ page*/
+
+/* ---------- Meet-the-team/ ---------- */
 
 /*get CN's head above the fold 5s */
   body.page-id-17 .bg-gray-darker.container-fluid {
@@ -102,12 +193,4 @@ line-height: 1.7em;
 	max-height: 250px;
   }
 
-  /******** Don't overflow mobile nav **********/
-  .navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {
-    max-height: 360px;
-  }
-  .navbar-nav > li > a {
-    padding-top: 6px;
-    padding-bottom: 6px;
-  }
 } /* End 768 styles */
