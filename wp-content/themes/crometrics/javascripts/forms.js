@@ -14,7 +14,7 @@
               notRequiredCl:'notRequired',
               successCl:'success',
               successShow:'4000',
-              mailHandlerURL:'bin/MailHandler.php',
+              mailHandlerURL:'/bin/MailHandler.php',
               ownerEmail:'#',
               stripHTML:true,
               smtpMailServer:'localhost',
