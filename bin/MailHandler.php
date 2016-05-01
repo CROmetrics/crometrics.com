@@ -1,5 +1,6 @@
 <?php
 	$owner_email = 'chris@crometrics.com';
+	$slack_email = 'v2p6g1n7t7z0v6h9@crometrics.slack.com';
 
     // Sanitize input.
     function trim_value(&$value) { $value = trim(strip_tags($value)); }
@@ -19,7 +20,14 @@
     $messageBody .= '<p>Goals: ' .$_POST['message'] . '</p>' . "\n";
 	
 	try{
+		// Mail Chris
 		if(!mail($owner_email, $subject, $messageBody, $headers)){
+			throw new Exception('mail failed');
+		}else{
+			echo 'mail sent';
+		}
+		// Mail Slack
+		if(!mail($slack_email, $subject, $messageBody, $headers)){
 			throw new Exception('mail failed');
 		}else{
 			echo 'mail sent';
