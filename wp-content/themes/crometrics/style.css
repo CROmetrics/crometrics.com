@@ -47,6 +47,12 @@ p {
 line-height: 1.7em;
 }
 
+.container-fluid h3 {
+  font-size: 1.5rem;
+}
+
+/**** BLOG STYLES***/
+
 .prev-nav {
   float: left;
 }
@@ -57,16 +63,27 @@ line-height: 1.7em;
 }
 
 .bloglist {
+  margin: 0 0 25px 0;
+  padding: 25px 0;
   border-bottom: 1px solid #a4a59f;
 }
 
 .bloglist h3 {
-  font-size: 1.5rem;
+  font-size: 1.75rem;
+  letter-spacing: .5px; 
 }
 
-.container-fluid h3 {
-  font-size: 1.5rem;
+.single-post .entry-title {
+   font-size: 2.25em;
+   letter-spacing: .75px;
 }
+
+.single-post .entry-meta a {
+   color: #fff;
+   text-transform: uppercase;
+}
+
+
 
 /* ---------- NAVBAR ---------- */
 
