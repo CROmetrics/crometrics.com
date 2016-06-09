@@ -98,7 +98,36 @@ body {padding-top: 60px;} /* fixes weird space after nav on some widths */
     height: auto;
 }
 
+/* ---------- HOMEPAGE ---------- */
+.home.page .center-block {max-width: 200px;}
+
+
 /* ---------- CLIENTS ---------- */
+
+body.page-template-our_clients .lrpad10 {padding: 0 5px;} /*make padding tighter than 10px */
+body.page-template-our_clients .panel {
+	min-height: 300px;
+	box-shadow: 0 0 3px rgba(0,0,0,.25);
+        border: 0;
+	/* background: #f3f3f3; */
+}
+
+body.page-template-our_clients h3 {
+	font-size: 1.5rem;
+}
+
+body.page-template-our_clients .panel h1 {
+	font-size: 2.1rem;
+}
+body.page-template-our_clients .panel h2 {
+	line-height: 1.2;
+	margin-bottom: 7px;
+}
+body.page-template-our_clients .panel p {
+	font-size: 13px;
+	line-height: 1.5;
+	text-align: center;
+}
 
 .ten-line {
      min-width: 52px;
@@ -113,6 +142,8 @@ body {padding-top: 60px;} /* fixes weird space after nav on some widths */
      font-size: 15px;
      margin: 0;
 }
+
+
 
 
 /************* MOBILE (1064) *************/
