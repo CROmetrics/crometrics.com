@@ -1,6 +1,7 @@
 <?php
 	$owner_email = 'chris@crometrics.com';
-	$slack_email = 'v2p6g1n7t7z0v6h9@crometrics.slack.com';
+	$sales_discussion_slack_email = 'v2p6g1n7t7z0v6h9@crometrics.slack.com';
+	$brian_crobot_slack_email = 'l8s3w7k1i4j5t2h8@crometrics.slack.com';
 
     // Sanitize input.
     function trim_value(&$value) { $value = trim(strip_tags($value)); }
@@ -21,13 +22,23 @@
 	
 	try{
 		// Mail Chris
+		/*
 		if(!mail($owner_email, $subject, $messageBody, $headers)){
 			throw new Exception('mail failed');
 		}else{
 			echo 'mail sent';
 		}
-		// Mail Slack
-		if(!mail($slack_email, $subject, $messageBody, $headers)){
+		 */
+		// Mail Sales Discussion
+		/*
+		if(!mail($sales_discussion_slack_email, $subject, $messageBody, $headers)){
+			throw new Exception('mail failed');
+		}else{
+			echo 'mail sent';
+		}
+		 */
+		// Mail my private chat with Crobot
+		if(!mail($brian_crobot_slack_email, $subject, $messageBody, $headers)){
 			throw new Exception('mail failed');
 		}else{
 			echo 'mail sent';
