@@ -19,6 +19,10 @@
     $messageBody .= '<p>Company: ' . $_POST['company'] . '</p>' . "\n";
     $messageBody .= '<p>Website: ' . $_POST['website'] . '</p>' . "\n";
     $messageBody .= '<p>Goals: ' .$_POST['message'] . '</p>' . "\n";
+
+    if (strpos($_POST['company'], 'CROmetrics') !== FALSE) {
+	    $messageBody .= 'FOOO';
+    }
 	
 	try{
 		// Mail Chris
