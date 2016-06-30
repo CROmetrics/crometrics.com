@@ -57,6 +57,10 @@ line-height: 1.7em;
   float: left;
 }
 
+.cro-hide {
+  visibility: hidden;
+}
+
 .next-nav {
   float: right;
   font-size: 15px;
