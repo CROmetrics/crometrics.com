@@ -62,10 +62,6 @@ line-height: 1.7em;
   font-size: 15px;
 }
 
-.screen-reader-text {
-  visibility: hidden;
-}
-
 .bloglist {
   margin: 0 0 25px 0;
   padding: 25px 0;
