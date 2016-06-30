@@ -82,7 +82,7 @@ function twentyfourteen_post_nav() {
 
 	?>
 	<nav class="navigation post-navigation" role="navigation">
-		<h1 class="screen-reader-text"><?php _e( 'Post navigation', 'twentyfourteen' ); ?></h1>
+		<h1 class="screen-reader-text cro-hide"><?php _e( 'Post navigation', 'twentyfourteen' ); ?></h1>
 		<div class="nav-links">
 			<?php
 			if ( is_attachment() ) :
