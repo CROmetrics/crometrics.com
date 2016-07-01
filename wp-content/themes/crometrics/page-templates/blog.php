@@ -36,7 +36,7 @@ get_header(); ?>
         <?php global $wp_query;
         $wp_query = new WP_Query("post_type=post&post_status=publish");?>
         <?php while (have_posts()) : the_post(); ?> 
-           <div class="bloglist"> <h3><?php the_title(); ?></h3>
+           <div class="bloglist"> <h3 class="blog-page-blog-excerpt-header"><?php the_title(); ?></h3>
             <?php the_excerpt(); ?> </div>  
         <?php endwhile; wp_reset_query(); ?> 
     </div>
