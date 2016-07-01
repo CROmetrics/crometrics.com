@@ -87,6 +87,13 @@ line-height: 1.7em;
    text-transform: uppercase;
 }
 
+.cro-blog-post-link:hover {
+  color: #167ABD;
+}
+
+.cro-blog-post-link h3:hover {
+  color: #167ABD;
+}
 
 
 /* ---------- NAVBAR ---------- */
