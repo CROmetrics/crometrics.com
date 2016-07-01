@@ -216,11 +216,7 @@ if ( ! function_exists( 'twentyfourteen_excerpt_more' ) && ! is_admin() ) :
  * @return string Filtered Read More excerpt link.
  */
 function twentyfourteen_excerpt_more( $more ) {
-	$link = sprintf( '<a href="%1$s" class="more-link">%2$s</a>',
-		esc_url( get_permalink( get_the_ID() ) ),
-			/* translators: %s: Name of current post */
-			sprintf( __( 'Continue reading %s <span class="meta-nav">&rarr;</span>', 'twentyfourteen' ), '<span class="screen-reader-text cro-template-tags-2">' . get_the_title( get_the_ID() ) . '</span>' )
-		);
+	$link = sprintf( '<a href="%1$s" class="more-link">Continue reading</a>', esc_url( get_permalink( get_the_ID() ) ));
 	return ' &hellip; ' . $link;
 }
 add_filter( 'excerpt_more', 'twentyfourteen_excerpt_more' );
