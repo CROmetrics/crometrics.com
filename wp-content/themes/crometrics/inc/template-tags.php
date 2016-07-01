@@ -216,7 +216,7 @@ if ( ! function_exists( 'twentyfourteen_excerpt_more' ) && ! is_admin() ) :
  * @return string Filtered Read More excerpt link.
  */
 function twentyfourteen_excerpt_more( $more ) {
-	$link = sprintf( '<a href="%1$s" class="more-link">Continue reading</a>', esc_url( get_permalink( get_the_ID() ) ));
+	$link = sprintf( '<a href="%1$s" class="more-link">Continue reading &rarr;</a>', esc_url( get_permalink( get_the_ID() ) ));
 	return ' &hellip; ' . $link;
 }
 add_filter( 'excerpt_more', 'twentyfourteen_excerpt_more' );
