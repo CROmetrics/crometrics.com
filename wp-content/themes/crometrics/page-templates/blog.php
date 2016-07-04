@@ -38,6 +38,7 @@ get_header(); ?>
         <?php while (have_posts()) : the_post(); ?> 
 	   <div class="bloglist"> <a class="cro-blog-post-link" href="<?php echo esc_url( get_permalink() ); ?>"><h3 class="blog-page-blog-excerpt-header"><?php the_title(); ?></h3></a>
             <?php the_excerpt(); ?> </div>  
+	    <a href="<?php echo get_permalink(); ?>"> Read More...</a>
         <?php endwhile; wp_reset_query(); ?> 
     </div>
     <div class="right_blog">
