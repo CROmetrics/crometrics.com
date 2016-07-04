@@ -35,7 +35,7 @@ get_header(); ?>
     <div class="left_blog">
         <?php global $wp_query;
         $wp_query = new WP_Query("post_type=post&post_status=publish");?>
-        <?php while (have_posts()) : the_post(); ?> 
+        <?php while (have_posts()) : the_post(); ?>  
 	   <div class="bloglist"> <a class="cro-blog-post-link" href="<?php echo esc_url( get_permalink() ); ?>"><h3 class="blog-page-blog-excerpt-header"><?php the_title(); ?></h3></a>
             <?php the_excerpt(); ?> 
 	    <a href="<?php echo get_permalink(); ?>"> Read More...</a>
