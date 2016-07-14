@@ -68,7 +68,9 @@
     a.appendChild(r);
     })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
     </script>
-	
+
+    <script src="//dal05.objectstorage.softlayer.net/v1/AUTH_27bb6f42-7102-4049-8821-9a044a30cfd2/prod/c/263109965-1/digitalcertainty.js" ></script>
+
 </head>
 
 <body <?php body_class(); ?>>
