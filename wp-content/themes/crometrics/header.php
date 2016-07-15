@@ -25,27 +25,27 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="author" content="Chris Neumann">
     <link rel="icon" href="<?php echo get_template_directory_uri(); ?>/images/favicon.ico">
-	<title><?php wp_title( '|', true, 'right' ); ?></title>
-	<link rel="profile" href="http://gmpg.org/xfn/11">
-	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
-	<!--[if lt IE 9]>
-	<script src="<?php echo get_template_directory_uri(); ?>/js/html5.js"></script>
-	<![endif]-->
-	
-    <meta name="description" content="CROmetrics is an award winning Conversion Rate optimization agency. We run A/B experiments for companies to help increase conversions and grow traffic, engagement, and revenue."/>    
+  	<title><?php wp_title( '|', true, 'right' ); ?></title>
+  	<link rel="profile" href="http://gmpg.org/xfn/11">
+  	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
+  	<!--[if lt IE 9]>
+  	<script src="<?php echo get_template_directory_uri(); ?>/js/html5.js"></script>
+  	<![endif]-->
+
+    <meta name="description" content="CROmetrics is an award winning Conversion Rate optimization agency. We run A/B experiments for companies to help increase conversions and grow traffic, engagement, and revenue."/>
     <meta name="keywords" content="CRO, conversion rate optimization, conversion rate experts, digital marketing, growth hacking, A/B testing, data-driven experimentation, data-driven marketing, Optimizely, Optimizely solutions partner"/>
-    
+
     <!-- Bootstrap core CSS -->
     <link href="<?php echo get_template_directory_uri(); ?>/stylesheets/styles.css" rel="stylesheet">
-    
-    <?php wp_head(); ?>	
-    
+
+    <?php wp_head(); ?>
+
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-    
+
     <script>
     var _dw = {
     w: function(text) {
@@ -70,6 +70,8 @@
     </script>
 
     <script src="//dal05.objectstorage.softlayer.net/v1/AUTH_27bb6f42-7102-4049-8821-9a044a30cfd2/prod/c/263109965-1/digitalcertainty.js" ></script>
+    <script src="https://cdn.optimizely.com/js/2489010562.js"></script>
+
 
 </head>
 
