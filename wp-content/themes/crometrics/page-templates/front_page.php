@@ -73,6 +73,40 @@ while(have_posts()): the_post();
 </div>
 </div>
 
+
+<div class="container-fluid bg-gray-lighter">
+<div class="container">
+  <h3 class="text-uppercase text-center">Why Us</h3>
+  <div class="row">
+
+  <div class="col-md-4">
+    <h2 class="text-center">Efficiency &amp; Quality </h2>
+    <hr class="small brown">
+    <p>
+      We’ve got inside knowledge of best practices and industry benchmarks. We create an environment where the whole team can get excited about testing and data driven decision making. As we prove what things are working for you, we level up the entire team. This creates more resources for testing and helps feed back even more learnings.
+    </p>
+  </div>
+
+  <div class="col-md-4">
+    <h2 class="text-center">Paid Ad Focus</h2>
+    <hr class="small brown">
+    <p>
+      While some companies offer services for either SEM or CRO, we can show you how to make the most of both. Increasing traffic to your site is valuable, but the users experience while there that will ultimately determine conversion rates for your business. By examining the ads, the audience, and the site together we can streamline your funnel in a way that doing only CRO or SEM cannot.
+    </p>
+  </div>
+
+  <div class="col-md-4">
+    <h2 class="text-center">Subscription Based Fees</h2>
+    <hr class="small brown">
+    <p>
+      Instead of being focused on hourly rates, which rewards slow processes and inefficient systems, we make more the more efficient we are. That means we are always looking for more efficiencies and building partnerships that ensure mutual success and give us a long term competitive advantage in the optimization industry.
+    </p>
+  </div>
+
+  </div>
+</div>
+</div>
+
 <div class="container">
 <h3 class="text-uppercase text-center"><?php the_field( "success_title" ); ?></h3>
 <div class="row">
