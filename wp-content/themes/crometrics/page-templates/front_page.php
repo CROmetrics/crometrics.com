@@ -96,7 +96,7 @@ while(have_posts()): the_post();
   </div>
 
   <div class="col-md-4">
-    <h2 class="text-center">Subscription Based Fees</h2>
+    <h2 class="text-center">Subscription Based</h2>
     <hr class="small brown">
     <p>
       Instead of being focused on hourly rates, which rewards slow processes and inefficient systems, we make more the more efficient we are. That means we are always looking for more efficiencies and building partnerships that ensure mutual success and give us a long term competitive advantage in the optimization industry.
