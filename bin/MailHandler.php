@@ -4,6 +4,8 @@
 	$sales_discussion_slack_email = 'v2p6g1n7t7z0v6h9@crometrics.slack.com';
 	$engineering_email = 'p9j5f7t5w5u2c5b2@crometrics.slack.com';
 	$brian_crobot_slack_email = 'l8s3w7k1i4j5t2h8@crometrics.slack.com';
+	$ann_email = 'ann@crometrics.com';
+	$analytics_email = 'analytics@crometrics.com';
 	// Booleans for whom we should email
 	$mail_engineering = FALSE;
 	$mail_sales = TRUE;
@@ -52,6 +54,18 @@
 			}
 			// Mail Sales Discussion
 			if(!mail($sales_discussion_slack_email, $subject, $messageBody, $headers)){
+				throw new Exception('mail failed');
+			}else{
+				echo 'mail sent';
+			}
+			// Mail Ann Devens
+			if(!mail($ann_email, $subject, $messageBody, $headers)){
+				throw new Exception('mail failed');
+			}else{
+				echo 'mail sent';
+			}
+			// Mail analytics@crometrics.com
+			if(!mail($analytics_email, $subject, $messageBody, $headers)){
 				throw new Exception('mail failed');
 			}else{
 				echo 'mail sent';
