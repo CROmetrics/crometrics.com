@@ -5,6 +5,7 @@
 	$engineering_email = 'p9j5f7t5w5u2c5b2@crometrics.slack.com';
 	$brian_crobot_slack_email = 'l8s3w7k1i4j5t2h8@crometrics.slack.com';
 	$ann_email = 'ann@crometrics.com';
+	$jill_email = 'jill.mendoza@crometrics.com';
 	$analytics_email = 'analytics@crometrics.com';
 	// Booleans for whom we should email
 	$mail_engineering = FALSE;
@@ -66,6 +67,12 @@
 			}
 			// Mail analytics@crometrics.com
 			if(!mail($analytics_email, $subject, $messageBody, $headers)){
+				throw new Exception('mail failed');
+			}else{
+				echo 'mail sent';
+			}
+			// Mail Jill Mendoza
+			if(!mail($jill_email, $subject, $messageBody, $headers)){
 				throw new Exception('mail failed');
 			}else{
 				echo 'mail sent';
