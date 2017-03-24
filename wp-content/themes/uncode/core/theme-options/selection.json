@@ -1,0 +1,8045 @@
+{
+    "IcoMoonType": "selection",
+    "icons": [{
+        "properties": {
+            "name": "glass"
+        },
+        "icon": {
+            "tags": ["glass"]
+        }
+    }, {
+        "properties": {
+            "name": "music"
+        },
+        "icon": {
+            "tags": ["music"]
+        }
+    }, {
+        "properties": {
+            "name": "search"
+        },
+        "icon": {
+            "tags": ["search"]
+        }
+    }, {
+        "properties": {
+            "name": "envelope-o"
+        },
+        "icon": {
+            "tags": ["envelope-o"]
+        }
+    }, {
+        "properties": {
+            "name": "heart"
+        },
+        "icon": {
+            "tags": ["heart"]
+        }
+    }, {
+        "properties": {
+            "name": "star"
+        },
+        "icon": {
+            "tags": ["star"]
+        }
+    }, {
+        "properties": {
+            "name": "star-o"
+        },
+        "icon": {
+            "tags": ["star-o"]
+        }
+    }, {
+        "properties": {
+            "name": "user"
+        },
+        "icon": {
+            "tags": ["user"]
+        }
+    }, {
+        "properties": {
+            "name": "film"
+        },
+        "icon": {
+            "tags": ["film"]
+        }
+    }, {
+        "properties": {
+            "name": "th-large"
+        },
+        "icon": {
+            "tags": ["th-large"]
+        }
+    }, {
+        "properties": {
+            "name": "th"
+        },
+        "icon": {
+            "tags": ["th"]
+        }
+    }, {
+        "properties": {
+            "name": "th-list"
+        },
+        "icon": {
+            "tags": ["th-list"]
+        }
+    }, {
+        "properties": {
+            "name": "check"
+        },
+        "icon": {
+            "tags": ["check"]
+        }
+    }, {
+        "properties": {
+            "name": "close, remove, times2"
+        },
+        "icon": {
+            "tags": ["close", "remove", "times"]
+        }
+    }, {
+        "properties": {
+            "name": "search-plus"
+        },
+        "icon": {
+            "tags": ["search-plus"]
+        }
+    }, {
+        "properties": {
+            "name": "search-minus"
+        },
+        "icon": {
+            "tags": ["search-minus"]
+        }
+    }, {
+        "properties": {
+            "name": "power-off"
+        },
+        "icon": {
+            "tags": ["power-off"]
+        }
+    }, {
+        "properties": {
+            "name": "signal"
+        },
+        "icon": {
+            "tags": ["signal"]
+        }
+    }, {
+        "properties": {
+            "name": "cog, gear"
+        },
+        "icon": {
+            "tags": ["cog", "gear"]
+        }
+    }, {
+        "properties": {
+            "name": "trash-o"
+        },
+        "icon": {
+            "tags": ["trash-o"]
+        }
+    }, {
+        "properties": {
+            "name": "home"
+        },
+        "icon": {
+            "tags": ["home"]
+        }
+    }, {
+        "properties": {
+            "name": "file-o"
+        },
+        "icon": {
+            "tags": ["file-o"]
+        }
+    }, {
+        "properties": {
+            "name": "clock-o"
+        },
+        "icon": {
+            "tags": ["clock-o"]
+        }
+    }, {
+        "properties": {
+            "name": "road"
+        },
+        "icon": {
+            "tags": ["road"]
+        }
+    }, {
+        "properties": {
+            "name": "download"
+        },
+        "icon": {
+            "tags": ["download"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-circle-o-down"
+        },
+        "icon": {
+            "tags": ["arrow-circle-o-down"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-circle-o-up"
+        },
+        "icon": {
+            "tags": ["arrow-circle-o-up"]
+        }
+    }, {
+        "properties": {
+            "name": "inbox"
+        },
+        "icon": {
+            "tags": ["inbox"]
+        }
+    }, {
+        "properties": {
+            "name": "play-circle-o"
+        },
+        "icon": {
+            "tags": ["play-circle-o"]
+        }
+    }, {
+        "properties": {
+            "name": "repeat, rotate-right"
+        },
+        "icon": {
+            "tags": ["repeat", "rotate-right"]
+        }
+    }, {
+        "properties": {
+            "name": "refresh"
+        },
+        "icon": {
+            "tags": ["refresh"]
+        }
+    }, {
+        "properties": {
+            "name": "list-alt"
+        },
+        "icon": {
+            "tags": ["list-alt"]
+        }
+    }, {
+        "properties": {
+            "name": "lock"
+        },
+        "icon": {
+            "tags": ["lock"]
+        }
+    }, {
+        "properties": {
+            "name": "flag"
+        },
+        "icon": {
+            "tags": ["flag"]
+        }
+    }, {
+        "properties": {
+            "name": "headphones"
+        },
+        "icon": {
+            "tags": ["headphones"]
+        }
+    }, {
+        "properties": {
+            "name": "volume-off"
+        },
+        "icon": {
+            "tags": ["volume-off"]
+        }
+    }, {
+        "properties": {
+            "name": "volume-down"
+        },
+        "icon": {
+            "tags": ["volume-down"]
+        }
+    }, {
+        "properties": {
+            "name": "volume-up"
+        },
+        "icon": {
+            "tags": ["volume-up"]
+        }
+    }, {
+        "properties": {
+            "name": "qrcode"
+        },
+        "icon": {
+            "tags": ["qrcode"]
+        }
+    }, {
+        "properties": {
+            "name": "barcode"
+        },
+        "icon": {
+            "tags": ["barcode"]
+        }
+    }, {
+        "properties": {
+            "name": "tag"
+        },
+        "icon": {
+            "tags": ["tag"]
+        }
+    }, {
+        "properties": {
+            "name": "tags"
+        },
+        "icon": {
+            "tags": ["tags"]
+        }
+    }, {
+        "properties": {
+            "name": "book"
+        },
+        "icon": {
+            "tags": ["book"]
+        }
+    }, {
+        "properties": {
+            "name": "bookmark"
+        },
+        "icon": {
+            "tags": ["bookmark"]
+        }
+    }, {
+        "properties": {
+            "name": "print"
+        },
+        "icon": {
+            "tags": ["print"]
+        }
+    }, {
+        "properties": {
+            "name": "camera"
+        },
+        "icon": {
+            "tags": ["camera"]
+        }
+    }, {
+        "properties": {
+            "name": "font"
+        },
+        "icon": {
+            "tags": ["font"]
+        }
+    }, {
+        "properties": {
+            "name": "bold"
+        },
+        "icon": {
+            "tags": ["bold"]
+        }
+    }, {
+        "properties": {
+            "name": "italic"
+        },
+        "icon": {
+            "tags": ["italic"]
+        }
+    }, {
+        "properties": {
+            "name": "text-height"
+        },
+        "icon": {
+            "tags": ["text-height"]
+        }
+    }, {
+        "properties": {
+            "name": "text-width"
+        },
+        "icon": {
+            "tags": ["text-width"]
+        }
+    }, {
+        "properties": {
+            "name": "align-left"
+        },
+        "icon": {
+            "tags": ["align-left"]
+        }
+    }, {
+        "properties": {
+            "name": "align-center"
+        },
+        "icon": {
+            "tags": ["align-center"]
+        }
+    }, {
+        "properties": {
+            "name": "align-right"
+        },
+        "icon": {
+            "tags": ["align-right"]
+        }
+    }, {
+        "properties": {
+            "name": "align-justify"
+        },
+        "icon": {
+            "tags": ["align-justify"]
+        }
+    }, {
+        "properties": {
+            "name": "list"
+        },
+        "icon": {
+            "tags": ["list"]
+        }
+    }, {
+        "properties": {
+            "name": "dedent, outdent"
+        },
+        "icon": {
+            "tags": ["dedent", "outdent"]
+        }
+    }, {
+        "properties": {
+            "name": "indent"
+        },
+        "icon": {
+            "tags": ["indent"]
+        }
+    }, {
+        "properties": {
+            "name": "video-camera"
+        },
+        "icon": {
+            "tags": ["video-camera"]
+        }
+    }, {
+        "properties": {
+            "name": "image, photo, picture-o"
+        },
+        "icon": {
+            "tags": ["image", "photo", "picture-o"]
+        }
+    }, {
+        "properties": {
+            "name": "pencil"
+        },
+        "icon": {
+            "tags": ["pencil"]
+        }
+    }, {
+        "properties": {
+            "name": "map-marker"
+        },
+        "icon": {
+            "tags": ["map-marker"]
+        }
+    }, {
+        "properties": {
+            "name": "adjust"
+        },
+        "icon": {
+            "tags": ["adjust"]
+        }
+    }, {
+        "properties": {
+            "name": "tint"
+        },
+        "icon": {
+            "tags": ["tint"]
+        }
+    }, {
+        "properties": {
+            "name": "edit, pencil-square-o"
+        },
+        "icon": {
+            "tags": ["edit", "pencil-square-o"]
+        }
+    }, {
+        "properties": {
+            "name": "share-square-o"
+        },
+        "icon": {
+            "tags": ["share-square-o"]
+        }
+    }, {
+        "properties": {
+            "name": "check-square-o"
+        },
+        "icon": {
+            "tags": ["check-square-o"]
+        }
+    }, {
+        "properties": {
+            "name": "arrows"
+        },
+        "icon": {
+            "tags": ["arrows"]
+        }
+    }, {
+        "properties": {
+            "name": "step-backward"
+        },
+        "icon": {
+            "tags": ["step-backward"]
+        }
+    }, {
+        "properties": {
+            "name": "fast-backward"
+        },
+        "icon": {
+            "tags": ["fast-backward"]
+        }
+    }, {
+        "properties": {
+            "name": "backward"
+        },
+        "icon": {
+            "tags": ["backward"]
+        }
+    }, {
+        "properties": {
+            "name": "play"
+        },
+        "icon": {
+            "tags": ["play"]
+        }
+    }, {
+        "properties": {
+            "name": "pause"
+        },
+        "icon": {
+            "tags": ["pause"]
+        }
+    }, {
+        "properties": {
+            "name": "stop"
+        },
+        "icon": {
+            "tags": ["stop"]
+        }
+    }, {
+        "properties": {
+            "name": "forward"
+        },
+        "icon": {
+            "tags": ["forward"]
+        }
+    }, {
+        "properties": {
+            "name": "fast-forward"
+        },
+        "icon": {
+            "tags": ["fast-forward"]
+        }
+    }, {
+        "properties": {
+            "name": "step-forward"
+        },
+        "icon": {
+            "tags": ["step-forward"]
+        }
+    }, {
+        "properties": {
+            "name": "eject"
+        },
+        "icon": {
+            "tags": ["eject"]
+        }
+    }, {
+        "properties": {
+            "name": "chevron-left"
+        },
+        "icon": {
+            "tags": ["chevron-left"]
+        }
+    }, {
+        "properties": {
+            "name": "chevron-right"
+        },
+        "icon": {
+            "tags": ["chevron-right"]
+        }
+    }, {
+        "properties": {
+            "name": "plus-circle"
+        },
+        "icon": {
+            "tags": ["plus-circle"]
+        }
+    }, {
+        "properties": {
+            "name": "minus-circle"
+        },
+        "icon": {
+            "tags": ["minus-circle"]
+        }
+    }, {
+        "properties": {
+            "name": "times-circle"
+        },
+        "icon": {
+            "tags": ["times-circle"]
+        }
+    }, {
+        "properties": {
+            "name": "check-circle"
+        },
+        "icon": {
+            "tags": ["check-circle"]
+        }
+    }, {
+        "properties": {
+            "name": "question-circle"
+        },
+        "icon": {
+            "tags": ["question-circle"]
+        }
+    }, {
+        "properties": {
+            "name": "info-circle"
+        },
+        "icon": {
+            "tags": ["info-circle"]
+        }
+    }, {
+        "properties": {
+            "name": "crosshairs"
+        },
+        "icon": {
+            "tags": ["crosshairs"]
+        }
+    }, {
+        "properties": {
+            "name": "times-circle-o"
+        },
+        "icon": {
+            "tags": ["times-circle-o"]
+        }
+    }, {
+        "properties": {
+            "name": "check-circle-o"
+        },
+        "icon": {
+            "tags": ["check-circle-o"]
+        }
+    }, {
+        "properties": {
+            "name": "ban"
+        },
+        "icon": {
+            "tags": ["ban"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-left"
+        },
+        "icon": {
+            "tags": ["arrow-left"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-right"
+        },
+        "icon": {
+            "tags": ["arrow-right"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-up"
+        },
+        "icon": {
+            "tags": ["arrow-up"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-down"
+        },
+        "icon": {
+            "tags": ["arrow-down"]
+        }
+    }, {
+        "properties": {
+            "name": "mail-forward, share"
+        },
+        "icon": {
+            "tags": ["mail-forward", "share"]
+        }
+    }, {
+        "properties": {
+            "name": "expand"
+        },
+        "icon": {
+            "tags": ["expand"]
+        }
+    }, {
+        "properties": {
+            "name": "compress"
+        },
+        "icon": {
+            "tags": ["compress"]
+        }
+    }, {
+        "properties": {
+            "name": "plus"
+        },
+        "icon": {
+            "tags": ["plus"]
+        }
+    }, {
+        "properties": {
+            "name": "minus"
+        },
+        "icon": {
+            "tags": ["minus"]
+        }
+    }, {
+        "properties": {
+            "name": "asterisk"
+        },
+        "icon": {
+            "tags": ["asterisk"]
+        }
+    }, {
+        "properties": {
+            "name": "exclamation-circle"
+        },
+        "icon": {
+            "tags": ["exclamation-circle"]
+        }
+    }, {
+        "properties": {
+            "name": "gift"
+        },
+        "icon": {
+            "tags": ["gift"]
+        }
+    }, {
+        "properties": {
+            "name": "leaf"
+        },
+        "icon": {
+            "tags": ["leaf"]
+        }
+    }, {
+        "properties": {
+            "name": "fire"
+        },
+        "icon": {
+            "tags": ["fire"]
+        }
+    }, {
+        "properties": {
+            "name": "eye"
+        },
+        "icon": {
+            "tags": ["eye"]
+        }
+    }, {
+        "properties": {
+            "name": "eye-slash"
+        },
+        "icon": {
+            "tags": ["eye-slash"]
+        }
+    }, {
+        "properties": {
+            "name": "exclamation-triangle, warning2"
+        },
+        "icon": {
+            "tags": ["exclamation-triangle", "warning"]
+        }
+    }, {
+        "properties": {
+            "name": "plane"
+        },
+        "icon": {
+            "tags": ["plane"]
+        }
+    }, {
+        "properties": {
+            "name": "calendar"
+        },
+        "icon": {
+            "tags": ["calendar"]
+        }
+    }, {
+        "properties": {
+            "name": "random"
+        },
+        "icon": {
+            "tags": ["random"]
+        }
+    }, {
+        "properties": {
+            "name": "comment"
+        },
+        "icon": {
+            "tags": ["comment"]
+        }
+    }, {
+        "properties": {
+            "name": "magnet"
+        },
+        "icon": {
+            "tags": ["magnet"]
+        }
+    }, {
+        "properties": {
+            "name": "chevron-up"
+        },
+        "icon": {
+            "tags": ["chevron-up"]
+        }
+    }, {
+        "properties": {
+            "name": "chevron-down"
+        },
+        "icon": {
+            "tags": ["chevron-down"]
+        }
+    }, {
+        "properties": {
+            "name": "retweet"
+        },
+        "icon": {
+            "tags": ["retweet"]
+        }
+    }, {
+        "properties": {
+            "name": "shopping-cart"
+        },
+        "icon": {
+            "tags": ["shopping-cart"]
+        }
+    }, {
+        "properties": {
+            "name": "folder"
+        },
+        "icon": {
+            "tags": ["folder"]
+        }
+    }, {
+        "properties": {
+            "name": "folder-open"
+        },
+        "icon": {
+            "tags": ["folder-open"]
+        }
+    }, {
+        "properties": {
+            "name": "arrows-v"
+        },
+        "icon": {
+            "tags": ["arrows-v"]
+        }
+    }, {
+        "properties": {
+            "name": "arrows-h"
+        },
+        "icon": {
+            "tags": ["arrows-h"]
+        }
+    }, {
+        "properties": {
+            "name": "bar-chart, bar-chart-o"
+        },
+        "icon": {
+            "tags": ["bar-chart", "bar-chart-o"]
+        }
+    }, {
+        "properties": {
+            "name": "twitter-square"
+        },
+        "icon": {
+            "tags": ["twitter-square"]
+        }
+    }, {
+        "properties": {
+            "name": "facebook-square"
+        },
+        "icon": {
+            "tags": ["facebook-square"]
+        }
+    }, {
+        "properties": {
+            "name": "camera-retro"
+        },
+        "icon": {
+            "tags": ["camera-retro"]
+        }
+    }, {
+        "properties": {
+            "name": "key"
+        },
+        "icon": {
+            "tags": ["key"]
+        }
+    }, {
+        "properties": {
+            "name": "cogs, gears"
+        },
+        "icon": {
+            "tags": ["cogs", "gears"]
+        }
+    }, {
+        "properties": {
+            "name": "comments"
+        },
+        "icon": {
+            "tags": ["comments"]
+        }
+    }, {
+        "properties": {
+            "name": "thumbs-o-up"
+        },
+        "icon": {
+            "tags": ["thumbs-o-up"]
+        }
+    }, {
+        "properties": {
+            "name": "thumbs-o-down"
+        },
+        "icon": {
+            "tags": ["thumbs-o-down"]
+        }
+    }, {
+        "properties": {
+            "name": "star-half"
+        },
+        "icon": {
+            "tags": ["star-half"]
+        }
+    }, {
+        "properties": {
+            "name": "heart-o"
+        },
+        "icon": {
+            "tags": ["heart-o"]
+        }
+    }, {
+        "properties": {
+            "name": "sign-out"
+        },
+        "icon": {
+            "tags": ["sign-out"]
+        }
+    }, {
+        "properties": {
+            "name": "linkedin-square"
+        },
+        "icon": {
+            "tags": ["linkedin-square"]
+        }
+    }, {
+        "properties": {
+            "name": "thumb-tack"
+        },
+        "icon": {
+            "tags": ["thumb-tack"]
+        }
+    }, {
+        "properties": {
+            "name": "external-link"
+        },
+        "icon": {
+            "tags": ["external-link"]
+        }
+    }, {
+        "properties": {
+            "name": "sign-in"
+        },
+        "icon": {
+            "tags": ["sign-in"]
+        }
+    }, {
+        "properties": {
+            "name": "trophy"
+        },
+        "icon": {
+            "tags": ["trophy"]
+        }
+    }, {
+        "properties": {
+            "name": "github-square"
+        },
+        "icon": {
+            "tags": ["github-square"]
+        }
+    }, {
+        "properties": {
+            "name": "upload"
+        },
+        "icon": {
+            "tags": ["upload"]
+        }
+    }, {
+        "properties": {
+            "name": "lemon-o"
+        },
+        "icon": {
+            "tags": ["lemon-o"]
+        }
+    }, {
+        "properties": {
+            "name": "phone"
+        },
+        "icon": {
+            "tags": ["phone"]
+        }
+    }, {
+        "properties": {
+            "name": "square-o"
+        },
+        "icon": {
+            "tags": ["square-o"]
+        }
+    }, {
+        "properties": {
+            "name": "bookmark-o"
+        },
+        "icon": {
+            "tags": ["bookmark-o"]
+        }
+    }, {
+        "properties": {
+            "name": "phone-square"
+        },
+        "icon": {
+            "tags": ["phone-square"]
+        }
+    }, {
+        "properties": {
+            "name": "twitter"
+        },
+        "icon": {
+            "tags": ["twitter"]
+        }
+    }, {
+        "properties": {
+            "name": "facebook, facebook-f"
+        },
+        "icon": {
+            "tags": ["facebook", "facebook-f"]
+        }
+    }, {
+        "properties": {
+            "name": "github"
+        },
+        "icon": {
+            "tags": ["github"]
+        }
+    }, {
+        "properties": {
+            "name": "unlock"
+        },
+        "icon": {
+            "tags": ["unlock"]
+        }
+    }, {
+        "properties": {
+            "name": "credit-card"
+        },
+        "icon": {
+            "tags": ["credit-card"]
+        }
+    }, {
+        "properties": {
+            "name": "feed, rss3"
+        },
+        "icon": {
+            "tags": ["feed", "rss"]
+        }
+    }, {
+        "properties": {
+            "name": "hdd-o"
+        },
+        "icon": {
+            "tags": ["hdd-o"]
+        }
+    }, {
+        "properties": {
+            "name": "bullhorn"
+        },
+        "icon": {
+            "tags": ["bullhorn"]
+        }
+    }, {
+        "properties": {
+            "name": "bell-o"
+        },
+        "icon": {
+            "tags": ["bell-o"]
+        }
+    }, {
+        "properties": {
+            "name": "certificate"
+        },
+        "icon": {
+            "tags": ["certificate"]
+        }
+    }, {
+        "properties": {
+            "name": "hand-o-right"
+        },
+        "icon": {
+            "tags": ["hand-o-right"]
+        }
+    }, {
+        "properties": {
+            "name": "hand-o-left"
+        },
+        "icon": {
+            "tags": ["hand-o-left"]
+        }
+    }, {
+        "properties": {
+            "name": "hand-o-up"
+        },
+        "icon": {
+            "tags": ["hand-o-up"]
+        }
+    }, {
+        "properties": {
+            "name": "hand-o-down"
+        },
+        "icon": {
+            "tags": ["hand-o-down"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-circle-left"
+        },
+        "icon": {
+            "tags": ["arrow-circle-left"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-circle-right"
+        },
+        "icon": {
+            "tags": ["arrow-circle-right"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-circle-up"
+        },
+        "icon": {
+            "tags": ["arrow-circle-up"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-circle-down"
+        },
+        "icon": {
+            "tags": ["arrow-circle-down"]
+        }
+    }, {
+        "properties": {
+            "name": "globe"
+        },
+        "icon": {
+            "tags": ["globe"]
+        }
+    }, {
+        "properties": {
+            "name": "wrench"
+        },
+        "icon": {
+            "tags": ["wrench"]
+        }
+    }, {
+        "properties": {
+            "name": "tasks"
+        },
+        "icon": {
+            "tags": ["tasks"]
+        }
+    }, {
+        "properties": {
+            "name": "filter"
+        },
+        "icon": {
+            "tags": ["filter"]
+        }
+    }, {
+        "properties": {
+            "name": "briefcase"
+        },
+        "icon": {
+            "tags": ["briefcase"]
+        }
+    }, {
+        "properties": {
+            "name": "arrows-alt"
+        },
+        "icon": {
+            "tags": ["arrows-alt"]
+        }
+    }, {
+        "properties": {
+            "name": "group, users"
+        },
+        "icon": {
+            "tags": ["group", "users"]
+        }
+    }, {
+        "properties": {
+            "name": "chain, link"
+        },
+        "icon": {
+            "tags": ["chain", "link"]
+        }
+    }, {
+        "properties": {
+            "name": "cloud"
+        },
+        "icon": {
+            "tags": ["cloud"]
+        }
+    }, {
+        "properties": {
+            "name": "flask"
+        },
+        "icon": {
+            "tags": ["flask"]
+        }
+    }, {
+        "properties": {
+            "name": "cut, scissors2"
+        },
+        "icon": {
+            "tags": ["cut", "scissors"]
+        }
+    }, {
+        "properties": {
+            "name": "copy, files-o"
+        },
+        "icon": {
+            "tags": ["copy", "files-o"]
+        }
+    }, {
+        "properties": {
+            "name": "paperclip"
+        },
+        "icon": {
+            "tags": ["paperclip"]
+        }
+    }, {
+        "properties": {
+            "name": "floppy-o, save"
+        },
+        "icon": {
+            "tags": ["floppy-o", "save"]
+        }
+    }, {
+        "properties": {
+            "name": "square"
+        },
+        "icon": {
+            "tags": ["square"]
+        }
+    }, {
+        "properties": {
+            "name": "bars, navicon, reorder"
+        },
+        "icon": {
+            "tags": ["bars", "navicon", "reorder"]
+        }
+    }, {
+        "properties": {
+            "name": "list-ul"
+        },
+        "icon": {
+            "tags": ["list-ul"]
+        }
+    }, {
+        "properties": {
+            "name": "list-ol"
+        },
+        "icon": {
+            "tags": ["list-ol"]
+        }
+    }, {
+        "properties": {
+            "name": "strikethrough"
+        },
+        "icon": {
+            "tags": ["strikethrough"]
+        }
+    }, {
+        "properties": {
+            "name": "underline"
+        },
+        "icon": {
+            "tags": ["underline"]
+        }
+    }, {
+        "properties": {
+            "name": "table"
+        },
+        "icon": {
+            "tags": ["table"]
+        }
+    }, {
+        "properties": {
+            "name": "magic"
+        },
+        "icon": {
+            "tags": ["magic"]
+        }
+    }, {
+        "properties": {
+            "name": "truck"
+        },
+        "icon": {
+            "tags": ["truck"]
+        }
+    }, {
+        "properties": {
+            "name": "pinterest"
+        },
+        "icon": {
+            "tags": ["pinterest"]
+        }
+    }, {
+        "properties": {
+            "name": "pinterest-square"
+        },
+        "icon": {
+            "tags": ["pinterest-square"]
+        }
+    }, {
+        "properties": {
+            "name": "google-plus-square"
+        },
+        "icon": {
+            "tags": ["google-plus-square"]
+        }
+    }, {
+        "properties": {
+            "name": "google-plus"
+        },
+        "icon": {
+            "tags": ["google-plus"]
+        }
+    }, {
+        "properties": {
+            "name": "money"
+        },
+        "icon": {
+            "tags": ["money"]
+        }
+    }, {
+        "properties": {
+            "name": "caret-down"
+        },
+        "icon": {
+            "tags": ["caret-down"]
+        }
+    }, {
+        "properties": {
+            "name": "caret-up"
+        },
+        "icon": {
+            "tags": ["caret-up"]
+        }
+    }, {
+        "properties": {
+            "name": "caret-left"
+        },
+        "icon": {
+            "tags": ["caret-left"]
+        }
+    }, {
+        "properties": {
+            "name": "caret-right"
+        },
+        "icon": {
+            "tags": ["caret-right"]
+        }
+    }, {
+        "properties": {
+            "name": "columns"
+        },
+        "icon": {
+            "tags": ["columns"]
+        }
+    }, {
+        "properties": {
+            "name": "sort, unsorted"
+        },
+        "icon": {
+            "tags": ["sort", "unsorted"]
+        }
+    }, {
+        "properties": {
+            "name": "sort-desc, sort-down"
+        },
+        "icon": {
+            "tags": ["sort-desc", "sort-down"]
+        }
+    }, {
+        "properties": {
+            "name": "sort-asc, sort-up"
+        },
+        "icon": {
+            "tags": ["sort-asc", "sort-up"]
+        }
+    }, {
+        "properties": {
+            "name": "envelope"
+        },
+        "icon": {
+            "tags": ["envelope"]
+        }
+    }, {
+        "properties": {
+            "name": "linkedin"
+        },
+        "icon": {
+            "tags": ["linkedin"]
+        }
+    }, {
+        "properties": {
+            "name": "rotate-left, undo"
+        },
+        "icon": {
+            "tags": ["rotate-left", "undo"]
+        }
+    }, {
+        "properties": {
+            "name": "gavel, legal"
+        },
+        "icon": {
+            "tags": ["gavel", "legal"]
+        }
+    }, {
+        "properties": {
+            "name": "dashboard, tachometer"
+        },
+        "icon": {
+            "tags": ["dashboard", "tachometer"]
+        }
+    }, {
+        "properties": {
+            "name": "comment-o"
+        },
+        "icon": {
+            "tags": ["comment-o"]
+        }
+    }, {
+        "properties": {
+            "name": "comments-o"
+        },
+        "icon": {
+            "tags": ["comments-o"]
+        }
+    }, {
+        "properties": {
+            "name": "bolt, flash2"
+        },
+        "icon": {
+            "tags": ["bolt", "flash"]
+        }
+    }, {
+        "properties": {
+            "name": "sitemap"
+        },
+        "icon": {
+            "tags": ["sitemap"]
+        }
+    }, {
+        "properties": {
+            "name": "umbrella"
+        },
+        "icon": {
+            "tags": ["umbrella"]
+        }
+    }, {
+        "properties": {
+            "name": "clipboard, paste"
+        },
+        "icon": {
+            "tags": ["clipboard", "paste"]
+        }
+    }, {
+        "properties": {
+            "name": "lightbulb-o"
+        },
+        "icon": {
+            "tags": ["lightbulb-o"]
+        }
+    }, {
+        "properties": {
+            "name": "exchange"
+        },
+        "icon": {
+            "tags": ["exchange"]
+        }
+    }, {
+        "properties": {
+            "name": "cloud-download"
+        },
+        "icon": {
+            "tags": ["cloud-download"]
+        }
+    }, {
+        "properties": {
+            "name": "cloud-upload"
+        },
+        "icon": {
+            "tags": ["cloud-upload"]
+        }
+    }, {
+        "properties": {
+            "name": "user-md"
+        },
+        "icon": {
+            "tags": ["user-md"]
+        }
+    }, {
+        "properties": {
+            "name": "stethoscope"
+        },
+        "icon": {
+            "tags": ["stethoscope"]
+        }
+    }, {
+        "properties": {
+            "name": "suitcase"
+        },
+        "icon": {
+            "tags": ["suitcase"]
+        }
+    }, {
+        "properties": {
+            "name": "bell"
+        },
+        "icon": {
+            "tags": ["bell"]
+        }
+    }, {
+        "properties": {
+            "name": "coffee"
+        },
+        "icon": {
+            "tags": ["coffee"]
+        }
+    }, {
+        "properties": {
+            "name": "cutlery"
+        },
+        "icon": {
+            "tags": ["cutlery"]
+        }
+    }, {
+        "properties": {
+            "name": "file-text-o"
+        },
+        "icon": {
+            "tags": ["file-text-o"]
+        }
+    }, {
+        "properties": {
+            "name": "building-o"
+        },
+        "icon": {
+            "tags": ["building-o"]
+        }
+    }, {
+        "properties": {
+            "name": "hospital-o"
+        },
+        "icon": {
+            "tags": ["hospital-o"]
+        }
+    }, {
+        "properties": {
+            "name": "ambulance"
+        },
+        "icon": {
+            "tags": ["ambulance"]
+        }
+    }, {
+        "properties": {
+            "name": "medkit"
+        },
+        "icon": {
+            "tags": ["medkit"]
+        }
+    }, {
+        "properties": {
+            "name": "fighter-jet"
+        },
+        "icon": {
+            "tags": ["fighter-jet"]
+        }
+    }, {
+        "properties": {
+            "name": "beer"
+        },
+        "icon": {
+            "tags": ["beer"]
+        }
+    }, {
+        "properties": {
+            "name": "h-square"
+        },
+        "icon": {
+            "tags": ["h-square"]
+        }
+    }, {
+        "properties": {
+            "name": "plus-square"
+        },
+        "icon": {
+            "tags": ["plus-square"]
+        }
+    }, {
+        "properties": {
+            "name": "angle-double-left"
+        },
+        "icon": {
+            "tags": ["angle-double-left"]
+        }
+    }, {
+        "properties": {
+            "name": "angle-double-right"
+        },
+        "icon": {
+            "tags": ["angle-double-right"]
+        }
+    }, {
+        "properties": {
+            "name": "angle-double-up"
+        },
+        "icon": {
+            "tags": ["angle-double-up"]
+        }
+    }, {
+        "properties": {
+            "name": "angle-double-down"
+        },
+        "icon": {
+            "tags": ["angle-double-down"]
+        }
+    }, {
+        "properties": {
+            "name": "angle-left"
+        },
+        "icon": {
+            "tags": ["angle-left"]
+        }
+    }, {
+        "properties": {
+            "name": "angle-right"
+        },
+        "icon": {
+            "tags": ["angle-right"]
+        }
+    }, {
+        "properties": {
+            "name": "angle-up"
+        },
+        "icon": {
+            "tags": ["angle-up"]
+        }
+    }, {
+        "properties": {
+            "name": "angle-down"
+        },
+        "icon": {
+            "tags": ["angle-down"]
+        }
+    }, {
+        "properties": {
+            "name": "desktop"
+        },
+        "icon": {
+            "tags": ["desktop"]
+        }
+    }, {
+        "properties": {
+            "name": "laptop"
+        },
+        "icon": {
+            "tags": ["laptop"]
+        }
+    }, {
+        "properties": {
+            "name": "tablet"
+        },
+        "icon": {
+            "tags": ["tablet"]
+        }
+    }, {
+        "properties": {
+            "name": "mobile, mobile-phone"
+        },
+        "icon": {
+            "tags": ["mobile", "mobile-phone"]
+        }
+    }, {
+        "properties": {
+            "name": "circle-o"
+        },
+        "icon": {
+            "tags": ["circle-o"]
+        }
+    }, {
+        "properties": {
+            "name": "quote-left"
+        },
+        "icon": {
+            "tags": ["quote-left"]
+        }
+    }, {
+        "properties": {
+            "name": "quote-right"
+        },
+        "icon": {
+            "tags": ["quote-right"]
+        }
+    }, {
+        "properties": {
+            "name": "spinner"
+        },
+        "icon": {
+            "tags": ["spinner"]
+        }
+    }, {
+        "properties": {
+            "name": "circle"
+        },
+        "icon": {
+            "tags": ["circle"]
+        }
+    }, {
+        "properties": {
+            "name": "mail-reply, reply"
+        },
+        "icon": {
+            "tags": ["mail-reply", "reply"]
+        }
+    }, {
+        "properties": {
+            "name": "github-alt"
+        },
+        "icon": {
+            "tags": ["github-alt"]
+        }
+    }, {
+        "properties": {
+            "name": "folder-o"
+        },
+        "icon": {
+            "tags": ["folder-o"]
+        }
+    }, {
+        "properties": {
+            "name": "folder-open-o"
+        },
+        "icon": {
+            "tags": ["folder-open-o"]
+        }
+    }, {
+        "properties": {
+            "name": "smile-o"
+        },
+        "icon": {
+            "tags": ["smile-o"]
+        }
+    }, {
+        "properties": {
+            "name": "frown-o"
+        },
+        "icon": {
+            "tags": ["frown-o"]
+        }
+    }, {
+        "properties": {
+            "name": "meh-o"
+        },
+        "icon": {
+            "tags": ["meh-o"]
+        }
+    }, {
+        "properties": {
+            "name": "gamepad"
+        },
+        "icon": {
+            "tags": ["gamepad"]
+        }
+    }, {
+        "properties": {
+            "name": "keyboard-o"
+        },
+        "icon": {
+            "tags": ["keyboard-o"]
+        }
+    }, {
+        "properties": {
+            "name": "flag-o"
+        },
+        "icon": {
+            "tags": ["flag-o"]
+        }
+    }, {
+        "properties": {
+            "name": "flag-checkered"
+        },
+        "icon": {
+            "tags": ["flag-checkered"]
+        }
+    }, {
+        "properties": {
+            "name": "terminal"
+        },
+        "icon": {
+            "tags": ["terminal"]
+        }
+    }, {
+        "properties": {
+            "name": "code"
+        },
+        "icon": {
+            "tags": ["code"]
+        }
+    }, {
+        "properties": {
+            "name": "mail-reply-all, reply-all"
+        },
+        "icon": {
+            "tags": ["mail-reply-all", "reply-all"]
+        }
+    }, {
+        "properties": {
+            "name": "star-half-empty, star-half-full, star-half-o"
+        },
+        "icon": {
+            "tags": ["star-half-empty", "star-half-full", "star-half-o"]
+        }
+    }, {
+        "properties": {
+            "name": "location-arrow"
+        },
+        "icon": {
+            "tags": ["location-arrow"]
+        }
+    }, {
+        "properties": {
+            "name": "crop"
+        },
+        "icon": {
+            "tags": ["crop"]
+        }
+    }, {
+        "properties": {
+            "name": "code-fork"
+        },
+        "icon": {
+            "tags": ["code-fork"]
+        }
+    }, {
+        "properties": {
+            "name": "chain-broken, unlink"
+        },
+        "icon": {
+            "tags": ["chain-broken", "unlink"]
+        }
+    }, {
+        "properties": {
+            "name": "question"
+        },
+        "icon": {
+            "tags": ["question"]
+        }
+    }, {
+        "properties": {
+            "name": "info"
+        },
+        "icon": {
+            "tags": ["info"]
+        }
+    }, {
+        "properties": {
+            "name": "exclamation"
+        },
+        "icon": {
+            "tags": ["exclamation"]
+        }
+    }, {
+        "properties": {
+            "name": "superscript"
+        },
+        "icon": {
+            "tags": ["superscript"]
+        }
+    }, {
+        "properties": {
+            "name": "subscript"
+        },
+        "icon": {
+            "tags": ["subscript"]
+        }
+    }, {
+        "properties": {
+            "name": "eraser"
+        },
+        "icon": {
+            "tags": ["eraser"]
+        }
+    }, {
+        "properties": {
+            "name": "puzzle-piece"
+        },
+        "icon": {
+            "tags": ["puzzle-piece"]
+        }
+    }, {
+        "properties": {
+            "name": "microphone"
+        },
+        "icon": {
+            "tags": ["microphone"]
+        }
+    }, {
+        "properties": {
+            "name": "microphone-slash"
+        },
+        "icon": {
+            "tags": ["microphone-slash"]
+        }
+    }, {
+        "properties": {
+            "name": "shield"
+        },
+        "icon": {
+            "tags": ["shield"]
+        }
+    }, {
+        "properties": {
+            "name": "calendar-o"
+        },
+        "icon": {
+            "tags": ["calendar-o"]
+        }
+    }, {
+        "properties": {
+            "name": "fire-extinguisher"
+        },
+        "icon": {
+            "tags": ["fire-extinguisher"]
+        }
+    }, {
+        "properties": {
+            "name": "rocket"
+        },
+        "icon": {
+            "tags": ["rocket"]
+        }
+    }, {
+        "properties": {
+            "name": "maxcdn"
+        },
+        "icon": {
+            "tags": ["maxcdn"]
+        }
+    }, {
+        "properties": {
+            "name": "chevron-circle-left"
+        },
+        "icon": {
+            "tags": ["chevron-circle-left"]
+        }
+    }, {
+        "properties": {
+            "name": "chevron-circle-right"
+        },
+        "icon": {
+            "tags": ["chevron-circle-right"]
+        }
+    }, {
+        "properties": {
+            "name": "chevron-circle-up"
+        },
+        "icon": {
+            "tags": ["chevron-circle-up"]
+        }
+    }, {
+        "properties": {
+            "name": "chevron-circle-down"
+        },
+        "icon": {
+            "tags": ["chevron-circle-down"]
+        }
+    }, {
+        "properties": {
+            "name": "html5"
+        },
+        "icon": {
+            "tags": ["html5"]
+        }
+    }, {
+        "properties": {
+            "name": "css3"
+        },
+        "icon": {
+            "tags": ["css3"]
+        }
+    }, {
+        "properties": {
+            "name": "anchor"
+        },
+        "icon": {
+            "tags": ["anchor"]
+        }
+    }, {
+        "properties": {
+            "name": "unlock-alt"
+        },
+        "icon": {
+            "tags": ["unlock-alt"]
+        }
+    }, {
+        "properties": {
+            "name": "bullseye"
+        },
+        "icon": {
+            "tags": ["bullseye"]
+        }
+    }, {
+        "properties": {
+            "name": "ellipsis-h"
+        },
+        "icon": {
+            "tags": ["ellipsis-h"]
+        }
+    }, {
+        "properties": {
+            "name": "ellipsis-v"
+        },
+        "icon": {
+            "tags": ["ellipsis-v"]
+        }
+    }, {
+        "properties": {
+            "name": "rss-square"
+        },
+        "icon": {
+            "tags": ["rss-square"]
+        }
+    }, {
+        "properties": {
+            "name": "play-circle"
+        },
+        "icon": {
+            "tags": ["play-circle"]
+        }
+    }, {
+        "properties": {
+            "name": "ticket"
+        },
+        "icon": {
+            "tags": ["ticket"]
+        }
+    }, {
+        "properties": {
+            "name": "minus-square"
+        },
+        "icon": {
+            "tags": ["minus-square"]
+        }
+    }, {
+        "properties": {
+            "name": "minus-square-o"
+        },
+        "icon": {
+            "tags": ["minus-square-o"]
+        }
+    }, {
+        "properties": {
+            "name": "level-up"
+        },
+        "icon": {
+            "tags": ["level-up"]
+        }
+    }, {
+        "properties": {
+            "name": "level-down"
+        },
+        "icon": {
+            "tags": ["level-down"]
+        }
+    }, {
+        "properties": {
+            "name": "check-square"
+        },
+        "icon": {
+            "tags": ["check-square"]
+        }
+    }, {
+        "properties": {
+            "name": "pencil-square"
+        },
+        "icon": {
+            "tags": ["pencil-square"]
+        }
+    }, {
+        "properties": {
+            "name": "external-link-square"
+        },
+        "icon": {
+            "tags": ["external-link-square"]
+        }
+    }, {
+        "properties": {
+            "name": "share-square"
+        },
+        "icon": {
+            "tags": ["share-square"]
+        }
+    }, {
+        "properties": {
+            "name": "compass"
+        },
+        "icon": {
+            "tags": ["compass"]
+        }
+    }, {
+        "properties": {
+            "name": "caret-square-o-down, toggle-down"
+        },
+        "icon": {
+            "tags": ["caret-square-o-down", "toggle-down"]
+        }
+    }, {
+        "properties": {
+            "name": "caret-square-o-up, toggle-up"
+        },
+        "icon": {
+            "tags": ["caret-square-o-up", "toggle-up"]
+        }
+    }, {
+        "properties": {
+            "name": "caret-square-o-right, toggle-right"
+        },
+        "icon": {
+            "tags": ["caret-square-o-right", "toggle-right"]
+        }
+    }, {
+        "properties": {
+            "name": "eur, euro"
+        },
+        "icon": {
+            "tags": ["eur", "euro"]
+        }
+    }, {
+        "properties": {
+            "name": "gbp"
+        },
+        "icon": {
+            "tags": ["gbp"]
+        }
+    }, {
+        "properties": {
+            "name": "dollar, usd"
+        },
+        "icon": {
+            "tags": ["dollar", "usd"]
+        }
+    }, {
+        "properties": {
+            "name": "inr, rupee"
+        },
+        "icon": {
+            "tags": ["inr", "rupee"]
+        }
+    }, {
+        "properties": {
+            "name": "cny, jpy, rmb, yen"
+        },
+        "icon": {
+            "tags": ["cny", "jpy", "rmb", "yen"]
+        }
+    }, {
+        "properties": {
+            "name": "rouble, rub, ruble"
+        },
+        "icon": {
+            "tags": ["rouble", "rub", "ruble"]
+        }
+    }, {
+        "properties": {
+            "name": "krw, won"
+        },
+        "icon": {
+            "tags": ["krw", "won"]
+        }
+    }, {
+        "properties": {
+            "name": "bitcoin, btc"
+        },
+        "icon": {
+            "tags": ["bitcoin", "btc"]
+        }
+    }, {
+        "properties": {
+            "name": "file"
+        },
+        "icon": {
+            "tags": ["file"]
+        }
+    }, {
+        "properties": {
+            "name": "file-text"
+        },
+        "icon": {
+            "tags": ["file-text"]
+        }
+    }, {
+        "properties": {
+            "name": "sort-alpha-asc"
+        },
+        "icon": {
+            "tags": ["sort-alpha-asc"]
+        }
+    }, {
+        "properties": {
+            "name": "sort-alpha-desc"
+        },
+        "icon": {
+            "tags": ["sort-alpha-desc"]
+        }
+    }, {
+        "properties": {
+            "name": "sort-amount-asc"
+        },
+        "icon": {
+            "tags": ["sort-amount-asc"]
+        }
+    }, {
+        "properties": {
+            "name": "sort-amount-desc"
+        },
+        "icon": {
+            "tags": ["sort-amount-desc"]
+        }
+    }, {
+        "properties": {
+            "name": "sort-numeric-asc"
+        },
+        "icon": {
+            "tags": ["sort-numeric-asc"]
+        }
+    }, {
+        "properties": {
+            "name": "sort-numeric-desc"
+        },
+        "icon": {
+            "tags": ["sort-numeric-desc"]
+        }
+    }, {
+        "properties": {
+            "name": "thumbs-up"
+        },
+        "icon": {
+            "tags": ["thumbs-up"]
+        }
+    }, {
+        "properties": {
+            "name": "thumbs-down"
+        },
+        "icon": {
+            "tags": ["thumbs-down"]
+        }
+    }, {
+        "properties": {
+            "name": "youtube-square"
+        },
+        "icon": {
+            "tags": ["youtube-square"]
+        }
+    }, {
+        "properties": {
+            "name": "youtube"
+        },
+        "icon": {
+            "tags": ["youtube"]
+        }
+    }, {
+        "properties": {
+            "name": "xing"
+        },
+        "icon": {
+            "tags": ["xing"]
+        }
+    }, {
+        "properties": {
+            "name": "xing-square"
+        },
+        "icon": {
+            "tags": ["xing-square"]
+        }
+    }, {
+        "properties": {
+            "name": "youtube-play"
+        },
+        "icon": {
+            "tags": ["youtube-play"]
+        }
+    }, {
+        "properties": {
+            "name": "dropbox"
+        },
+        "icon": {
+            "tags": ["dropbox"]
+        }
+    }, {
+        "properties": {
+            "name": "stack-overflow"
+        },
+        "icon": {
+            "tags": ["stack-overflow"]
+        }
+    }, {
+        "properties": {
+            "name": "instagram"
+        },
+        "icon": {
+            "tags": ["instagram"]
+        }
+    }, {
+        "properties": {
+            "name": "flickr"
+        },
+        "icon": {
+            "tags": ["flickr"]
+        }
+    }, {
+        "properties": {
+            "name": "adn"
+        },
+        "icon": {
+            "tags": ["adn"]
+        }
+    }, {
+        "properties": {
+            "name": "bitbucket"
+        },
+        "icon": {
+            "tags": ["bitbucket"]
+        }
+    }, {
+        "properties": {
+            "name": "bitbucket-square"
+        },
+        "icon": {
+            "tags": ["bitbucket-square"]
+        }
+    }, {
+        "properties": {
+            "name": "tumblr"
+        },
+        "icon": {
+            "tags": ["tumblr"]
+        }
+    }, {
+        "properties": {
+            "name": "tumblr-square"
+        },
+        "icon": {
+            "tags": ["tumblr-square"]
+        }
+    }, {
+        "properties": {
+            "name": "long-arrow-down"
+        },
+        "icon": {
+            "tags": ["long-arrow-down"]
+        }
+    }, {
+        "properties": {
+            "name": "long-arrow-up"
+        },
+        "icon": {
+            "tags": ["long-arrow-up"]
+        }
+    }, {
+        "properties": {
+            "name": "long-arrow-left"
+        },
+        "icon": {
+            "tags": ["long-arrow-left"]
+        }
+    }, {
+        "properties": {
+            "name": "long-arrow-right"
+        },
+        "icon": {
+            "tags": ["long-arrow-right"]
+        }
+    }, {
+        "properties": {
+            "name": "apple"
+        },
+        "icon": {
+            "tags": ["apple"]
+        }
+    }, {
+        "properties": {
+            "name": "windows"
+        },
+        "icon": {
+            "tags": ["windows"]
+        }
+    }, {
+        "properties": {
+            "name": "android"
+        },
+        "icon": {
+            "tags": ["android"]
+        }
+    }, {
+        "properties": {
+            "name": "linux"
+        },
+        "icon": {
+            "tags": ["linux"]
+        }
+    }, {
+        "properties": {
+            "name": "dribbble"
+        },
+        "icon": {
+            "tags": ["dribbble"]
+        }
+    }, {
+        "properties": {
+            "name": "skype"
+        },
+        "icon": {
+            "tags": ["skype"]
+        }
+    }, {
+        "properties": {
+            "name": "foursquare"
+        },
+        "icon": {
+            "tags": ["foursquare"]
+        }
+    }, {
+        "properties": {
+            "name": "trello"
+        },
+        "icon": {
+            "tags": ["trello"]
+        }
+    }, {
+        "properties": {
+            "name": "female"
+        },
+        "icon": {
+            "tags": ["female"]
+        }
+    }, {
+        "properties": {
+            "name": "male"
+        },
+        "icon": {
+            "tags": ["male"]
+        }
+    }, {
+        "properties": {
+            "name": "gittip, gratipay"
+        },
+        "icon": {
+            "tags": ["gittip", "gratipay"]
+        }
+    }, {
+        "properties": {
+            "name": "sun-o"
+        },
+        "icon": {
+            "tags": ["sun-o"]
+        }
+    }, {
+        "properties": {
+            "name": "moon-o"
+        },
+        "icon": {
+            "tags": ["moon-o"]
+        }
+    }, {
+        "properties": {
+            "name": "archive"
+        },
+        "icon": {
+            "tags": ["archive"]
+        }
+    }, {
+        "properties": {
+            "name": "bug"
+        },
+        "icon": {
+            "tags": ["bug"]
+        }
+    }, {
+        "properties": {
+            "name": "vk"
+        },
+        "icon": {
+            "tags": ["vk"]
+        }
+    }, {
+        "properties": {
+            "name": "weibo"
+        },
+        "icon": {
+            "tags": ["weibo"]
+        }
+    }, {
+        "properties": {
+            "name": "renren"
+        },
+        "icon": {
+            "tags": ["renren"]
+        }
+    }, {
+        "properties": {
+            "name": "pagelines"
+        },
+        "icon": {
+            "tags": ["pagelines"]
+        }
+    }, {
+        "properties": {
+            "name": "stack-exchange"
+        },
+        "icon": {
+            "tags": ["stack-exchange"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-circle-o-right"
+        },
+        "icon": {
+            "tags": ["arrow-circle-o-right"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-circle-o-left"
+        },
+        "icon": {
+            "tags": ["arrow-circle-o-left"]
+        }
+    }, {
+        "properties": {
+            "name": "caret-square-o-left, toggle-left"
+        },
+        "icon": {
+            "tags": ["caret-square-o-left", "toggle-left"]
+        }
+    }, {
+        "properties": {
+            "name": "dot-circle-o"
+        },
+        "icon": {
+            "tags": ["dot-circle-o"]
+        }
+    }, {
+        "properties": {
+            "name": "wheelchair"
+        },
+        "icon": {
+            "tags": ["wheelchair"]
+        }
+    }, {
+        "properties": {
+            "name": "vimeo-square"
+        },
+        "icon": {
+            "tags": ["vimeo-square"]
+        }
+    }, {
+        "properties": {
+            "name": "try, turkish-lira"
+        },
+        "icon": {
+            "tags": ["try", "turkish-lira"]
+        }
+    }, {
+        "properties": {
+            "name": "plus-square-o"
+        },
+        "icon": {
+            "tags": ["plus-square-o"]
+        }
+    }, {
+        "properties": {
+            "name": "space-shuttle"
+        },
+        "icon": {
+            "tags": ["space-shuttle"]
+        }
+    }, {
+        "properties": {
+            "name": "slack"
+        },
+        "icon": {
+            "tags": ["slack"]
+        }
+    }, {
+        "properties": {
+            "name": "envelope-square"
+        },
+        "icon": {
+            "tags": ["envelope-square"]
+        }
+    }, {
+        "properties": {
+            "name": "wordpress"
+        },
+        "icon": {
+            "tags": ["wordpress"]
+        }
+    }, {
+        "properties": {
+            "name": "openid"
+        },
+        "icon": {
+            "tags": ["openid"]
+        }
+    }, {
+        "properties": {
+            "name": "bank, institution, university"
+        },
+        "icon": {
+            "tags": ["bank", "institution", "university"]
+        }
+    }, {
+        "properties": {
+            "name": "graduation-cap, mortar-board"
+        },
+        "icon": {
+            "tags": ["graduation-cap", "mortar-board"]
+        }
+    }, {
+        "properties": {
+            "name": "yahoo"
+        },
+        "icon": {
+            "tags": ["yahoo"]
+        }
+    }, {
+        "properties": {
+            "name": "google"
+        },
+        "icon": {
+            "tags": ["google"]
+        }
+    }, {
+        "properties": {
+            "name": "reddit"
+        },
+        "icon": {
+            "tags": ["reddit"]
+        }
+    }, {
+        "properties": {
+            "name": "reddit-square"
+        },
+        "icon": {
+            "tags": ["reddit-square"]
+        }
+    }, {
+        "properties": {
+            "name": "stumbleupon-circle"
+        },
+        "icon": {
+            "tags": ["stumbleupon-circle"]
+        }
+    }, {
+        "properties": {
+            "name": "stumbleupon"
+        },
+        "icon": {
+            "tags": ["stumbleupon"]
+        }
+    }, {
+        "properties": {
+            "name": "delicious"
+        },
+        "icon": {
+            "tags": ["delicious"]
+        }
+    }, {
+        "properties": {
+            "name": "digg"
+        },
+        "icon": {
+            "tags": ["digg"]
+        }
+    }, {
+        "properties": {
+            "name": "pied-piper"
+        },
+        "icon": {
+            "tags": ["pied-piper"]
+        }
+    }, {
+        "properties": {
+            "name": "pied-piper-alt"
+        },
+        "icon": {
+            "tags": ["pied-piper-alt"]
+        }
+    }, {
+        "properties": {
+            "name": "drupal"
+        },
+        "icon": {
+            "tags": ["drupal"]
+        }
+    }, {
+        "properties": {
+            "name": "joomla"
+        },
+        "icon": {
+            "tags": ["joomla"]
+        }
+    }, {
+        "properties": {
+            "name": "language"
+        },
+        "icon": {
+            "tags": ["language"]
+        }
+    }, {
+        "properties": {
+            "name": "fax"
+        },
+        "icon": {
+            "tags": ["fax"]
+        }
+    }, {
+        "properties": {
+            "name": "building"
+        },
+        "icon": {
+            "tags": ["building"]
+        }
+    }, {
+        "properties": {
+            "name": "child"
+        },
+        "icon": {
+            "tags": ["child"]
+        }
+    }, {
+        "properties": {
+            "name": "paw"
+        },
+        "icon": {
+            "tags": ["paw"]
+        }
+    }, {
+        "properties": {
+            "name": "spoon"
+        },
+        "icon": {
+            "tags": ["spoon"]
+        }
+    }, {
+        "properties": {
+            "name": "cube"
+        },
+        "icon": {
+            "tags": ["cube"]
+        }
+    }, {
+        "properties": {
+            "name": "cubes"
+        },
+        "icon": {
+            "tags": ["cubes"]
+        }
+    }, {
+        "properties": {
+            "name": "behance"
+        },
+        "icon": {
+            "tags": ["behance"]
+        }
+    }, {
+        "properties": {
+            "name": "behance-square"
+        },
+        "icon": {
+            "tags": ["behance-square"]
+        }
+    }, {
+        "properties": {
+            "name": "steam"
+        },
+        "icon": {
+            "tags": ["steam"]
+        }
+    }, {
+        "properties": {
+            "name": "steam-square"
+        },
+        "icon": {
+            "tags": ["steam-square"]
+        }
+    }, {
+        "properties": {
+            "name": "recycle"
+        },
+        "icon": {
+            "tags": ["recycle"]
+        }
+    }, {
+        "properties": {
+            "name": "automobile, car"
+        },
+        "icon": {
+            "tags": ["automobile", "car"]
+        }
+    }, {
+        "properties": {
+            "name": "cab, taxi"
+        },
+        "icon": {
+            "tags": ["cab", "taxi"]
+        }
+    }, {
+        "properties": {
+            "name": "tree"
+        },
+        "icon": {
+            "tags": ["tree"]
+        }
+    }, {
+        "properties": {
+            "name": "spotify"
+        },
+        "icon": {
+            "tags": ["spotify"]
+        }
+    }, {
+        "properties": {
+            "name": "deviantart"
+        },
+        "icon": {
+            "tags": ["deviantart"]
+        }
+    }, {
+        "properties": {
+            "name": "soundcloud"
+        },
+        "icon": {
+            "tags": ["soundcloud"]
+        }
+    }, {
+        "properties": {
+            "name": "database"
+        },
+        "icon": {
+            "tags": ["database"]
+        }
+    }, {
+        "properties": {
+            "name": "file-pdf-o"
+        },
+        "icon": {
+            "tags": ["file-pdf-o"]
+        }
+    }, {
+        "properties": {
+            "name": "file-word-o"
+        },
+        "icon": {
+            "tags": ["file-word-o"]
+        }
+    }, {
+        "properties": {
+            "name": "file-excel-o"
+        },
+        "icon": {
+            "tags": ["file-excel-o"]
+        }
+    }, {
+        "properties": {
+            "name": "file-powerpoint-o"
+        },
+        "icon": {
+            "tags": ["file-powerpoint-o"]
+        }
+    }, {
+        "properties": {
+            "name": "file-image-o, file-photo-o, file-picture-o"
+        },
+        "icon": {
+            "tags": ["file-image-o", "file-photo-o", "file-picture-o"]
+        }
+    }, {
+        "properties": {
+            "name": "file-archive-o, file-zip-o"
+        },
+        "icon": {
+            "tags": ["file-archive-o", "file-zip-o"]
+        }
+    }, {
+        "properties": {
+            "name": "file-audio-o, file-sound-o"
+        },
+        "icon": {
+            "tags": ["file-audio-o", "file-sound-o"]
+        }
+    }, {
+        "properties": {
+            "name": "file-movie-o, file-video-o"
+        },
+        "icon": {
+            "tags": ["file-movie-o", "file-video-o"]
+        }
+    }, {
+        "properties": {
+            "name": "file-code-o"
+        },
+        "icon": {
+            "tags": ["file-code-o"]
+        }
+    }, {
+        "properties": {
+            "name": "vine"
+        },
+        "icon": {
+            "tags": ["vine"]
+        }
+    }, {
+        "properties": {
+            "name": "codepen"
+        },
+        "icon": {
+            "tags": ["codepen"]
+        }
+    }, {
+        "properties": {
+            "name": "jsfiddle"
+        },
+        "icon": {
+            "tags": ["jsfiddle"]
+        }
+    }, {
+        "properties": {
+            "name": "life-bouy, life-buoy, life-ring, life-saver, support2"
+        },
+        "icon": {
+            "tags": ["life-bouy", "life-buoy", "life-ring", "life-saver", "support"]
+        }
+    }, {
+        "properties": {
+            "name": "circle-o-notch"
+        },
+        "icon": {
+            "tags": ["circle-o-notch"]
+        }
+    }, {
+        "properties": {
+            "name": "ra, rebel"
+        },
+        "icon": {
+            "tags": ["ra", "rebel"]
+        }
+    }, {
+        "properties": {
+            "name": "empire, ge"
+        },
+        "icon": {
+            "tags": ["empire", "ge"]
+        }
+    }, {
+        "properties": {
+            "name": "git-square"
+        },
+        "icon": {
+            "tags": ["git-square"]
+        }
+    }, {
+        "properties": {
+            "name": "git"
+        },
+        "icon": {
+            "tags": ["git"]
+        }
+    }, {
+        "properties": {
+            "name": "hacker-news, y-combinator-square, yc-square"
+        },
+        "icon": {
+            "tags": ["hacker-news", "y-combinator-square", "yc-square"]
+        }
+    }, {
+        "properties": {
+            "name": "tencent-weibo"
+        },
+        "icon": {
+            "tags": ["tencent-weibo"]
+        }
+    }, {
+        "properties": {
+            "name": "qq"
+        },
+        "icon": {
+            "tags": ["qq"]
+        }
+    }, {
+        "properties": {
+            "name": "wechat, weixin"
+        },
+        "icon": {
+            "tags": ["wechat", "weixin"]
+        }
+    }, {
+        "properties": {
+            "name": "paper-plane, send"
+        },
+        "icon": {
+            "tags": ["paper-plane", "send"]
+        }
+    }, {
+        "properties": {
+            "name": "paper-plane-o, send-o"
+        },
+        "icon": {
+            "tags": ["paper-plane-o", "send-o"]
+        }
+    }, {
+        "properties": {
+            "name": "history"
+        },
+        "icon": {
+            "tags": ["history"]
+        }
+    }, {
+        "properties": {
+            "name": "circle-thin"
+        },
+        "icon": {
+            "tags": ["circle-thin"]
+        }
+    }, {
+        "properties": {
+            "name": "header"
+        },
+        "icon": {
+            "tags": ["header"]
+        }
+    }, {
+        "properties": {
+            "name": "paragraph"
+        },
+        "icon": {
+            "tags": ["paragraph"]
+        }
+    }, {
+        "properties": {
+            "name": "sliders"
+        },
+        "icon": {
+            "tags": ["sliders"]
+        }
+    }, {
+        "properties": {
+            "name": "share-alt"
+        },
+        "icon": {
+            "tags": ["share-alt"]
+        }
+    }, {
+        "properties": {
+            "name": "share-alt-square"
+        },
+        "icon": {
+            "tags": ["share-alt-square"]
+        }
+    }, {
+        "properties": {
+            "name": "bomb"
+        },
+        "icon": {
+            "tags": ["bomb"]
+        }
+    }, {
+        "properties": {
+            "name": "futbol-o, soccer-ball-o"
+        },
+        "icon": {
+            "tags": ["futbol-o", "soccer-ball-o"]
+        }
+    }, {
+        "properties": {
+            "name": "tty"
+        },
+        "icon": {
+            "tags": ["tty"]
+        }
+    }, {
+        "properties": {
+            "name": "binoculars"
+        },
+        "icon": {
+            "tags": ["binoculars"]
+        }
+    }, {
+        "properties": {
+            "name": "plug"
+        },
+        "icon": {
+            "tags": ["plug"]
+        }
+    }, {
+        "properties": {
+            "name": "slideshare"
+        },
+        "icon": {
+            "tags": ["slideshare"]
+        }
+    }, {
+        "properties": {
+            "name": "twitch"
+        },
+        "icon": {
+            "tags": ["twitch"]
+        }
+    }, {
+        "properties": {
+            "name": "yelp"
+        },
+        "icon": {
+            "tags": ["yelp"]
+        }
+    }, {
+        "properties": {
+            "name": "newspaper-o"
+        },
+        "icon": {
+            "tags": ["newspaper-o"]
+        }
+    }, {
+        "properties": {
+            "name": "wifi"
+        },
+        "icon": {
+            "tags": ["wifi"]
+        }
+    }, {
+        "properties": {
+            "name": "calculator"
+        },
+        "icon": {
+            "tags": ["calculator"]
+        }
+    }, {
+        "properties": {
+            "name": "paypal"
+        },
+        "icon": {
+            "tags": ["paypal"]
+        }
+    }, {
+        "properties": {
+            "name": "google-wallet"
+        },
+        "icon": {
+            "tags": ["google-wallet"]
+        }
+    }, {
+        "properties": {
+            "name": "cc-visa"
+        },
+        "icon": {
+            "tags": ["cc-visa"]
+        }
+    }, {
+        "properties": {
+            "name": "cc-mastercard"
+        },
+        "icon": {
+            "tags": ["cc-mastercard"]
+        }
+    }, {
+        "properties": {
+            "name": "cc-discover"
+        },
+        "icon": {
+            "tags": ["cc-discover"]
+        }
+    }, {
+        "properties": {
+            "name": "cc-amex"
+        },
+        "icon": {
+            "tags": ["cc-amex"]
+        }
+    }, {
+        "properties": {
+            "name": "cc-paypal"
+        },
+        "icon": {
+            "tags": ["cc-paypal"]
+        }
+    }, {
+        "properties": {
+            "name": "cc-stripe"
+        },
+        "icon": {
+            "tags": ["cc-stripe"]
+        }
+    }, {
+        "properties": {
+            "name": "bell-slash"
+        },
+        "icon": {
+            "tags": ["bell-slash"]
+        }
+    }, {
+        "properties": {
+            "name": "bell-slash-o"
+        },
+        "icon": {
+            "tags": ["bell-slash-o"]
+        }
+    }, {
+        "properties": {
+            "name": "trash"
+        },
+        "icon": {
+            "tags": ["trash"]
+        }
+    }, {
+        "properties": {
+            "name": "copyright"
+        },
+        "icon": {
+            "tags": ["copyright"]
+        }
+    }, {
+        "properties": {
+            "name": "at"
+        },
+        "icon": {
+            "tags": ["at"]
+        }
+    }, {
+        "properties": {
+            "name": "eyedropper"
+        },
+        "icon": {
+            "tags": ["eyedropper"]
+        }
+    }, {
+        "properties": {
+            "name": "paint-brush"
+        },
+        "icon": {
+            "tags": ["paint-brush"]
+        }
+    }, {
+        "properties": {
+            "name": "birthday-cake"
+        },
+        "icon": {
+            "tags": ["birthday-cake"]
+        }
+    }, {
+        "properties": {
+            "name": "area-chart"
+        },
+        "icon": {
+            "tags": ["area-chart"]
+        }
+    }, {
+        "properties": {
+            "name": "pie-chart"
+        },
+        "icon": {
+            "tags": ["pie-chart"]
+        }
+    }, {
+        "properties": {
+            "name": "line-chart"
+        },
+        "icon": {
+            "tags": ["line-chart"]
+        }
+    }, {
+        "properties": {
+            "name": "lastfm"
+        },
+        "icon": {
+            "tags": ["lastfm"]
+        }
+    }, {
+        "properties": {
+            "name": "lastfm-square"
+        },
+        "icon": {
+            "tags": ["lastfm-square"]
+        }
+    }, {
+        "properties": {
+            "name": "toggle-off"
+        },
+        "icon": {
+            "tags": ["toggle-off"]
+        }
+    }, {
+        "properties": {
+            "name": "toggle-on"
+        },
+        "icon": {
+            "tags": ["toggle-on"]
+        }
+    }, {
+        "properties": {
+            "name": "bicycle"
+        },
+        "icon": {
+            "tags": ["bicycle"]
+        }
+    }, {
+        "properties": {
+            "name": "bus"
+        },
+        "icon": {
+            "tags": ["bus"]
+        }
+    }, {
+        "properties": {
+            "name": "ioxhost"
+        },
+        "icon": {
+            "tags": ["ioxhost"]
+        }
+    }, {
+        "properties": {
+            "name": "angellist"
+        },
+        "icon": {
+            "tags": ["angellist"]
+        }
+    }, {
+        "properties": {
+            "name": "cc"
+        },
+        "icon": {
+            "tags": ["cc"]
+        }
+    }, {
+        "properties": {
+            "name": "ils, shekel, sheqel"
+        },
+        "icon": {
+            "tags": ["ils", "shekel", "sheqel"]
+        }
+    }, {
+        "properties": {
+            "name": "meanpath"
+        },
+        "icon": {
+            "tags": ["meanpath"]
+        }
+    }, {
+        "properties": {
+            "name": "buysellads"
+        },
+        "icon": {
+            "tags": ["buysellads"]
+        }
+    }, {
+        "properties": {
+            "name": "connectdevelop"
+        },
+        "icon": {
+            "tags": ["connectdevelop"]
+        }
+    }, {
+        "properties": {
+            "name": "dashcube"
+        },
+        "icon": {
+            "tags": ["dashcube"]
+        }
+    }, {
+        "properties": {
+            "name": "forumbee"
+        },
+        "icon": {
+            "tags": ["forumbee"]
+        }
+    }, {
+        "properties": {
+            "name": "leanpub"
+        },
+        "icon": {
+            "tags": ["leanpub"]
+        }
+    }, {
+        "properties": {
+            "name": "sellsy"
+        },
+        "icon": {
+            "tags": ["sellsy"]
+        }
+    }, {
+        "properties": {
+            "name": "shirtsinbulk"
+        },
+        "icon": {
+            "tags": ["shirtsinbulk"]
+        }
+    }, {
+        "properties": {
+            "name": "simplybuilt"
+        },
+        "icon": {
+            "tags": ["simplybuilt"]
+        }
+    }, {
+        "properties": {
+            "name": "skyatlas"
+        },
+        "icon": {
+            "tags": ["skyatlas"]
+        }
+    }, {
+        "properties": {
+            "name": "cart-plus"
+        },
+        "icon": {
+            "tags": ["cart-plus"]
+        }
+    }, {
+        "properties": {
+            "name": "cart-arrow-down"
+        },
+        "icon": {
+            "tags": ["cart-arrow-down"]
+        }
+    }, {
+        "properties": {
+            "name": "diamond"
+        },
+        "icon": {
+            "tags": ["diamond"]
+        }
+    }, {
+        "properties": {
+            "name": "ship"
+        },
+        "icon": {
+            "tags": ["ship"]
+        }
+    }, {
+        "properties": {
+            "name": "user-secret"
+        },
+        "icon": {
+            "tags": ["user-secret"]
+        }
+    }, {
+        "properties": {
+            "name": "motorcycle"
+        },
+        "icon": {
+            "tags": ["motorcycle"]
+        }
+    }, {
+        "properties": {
+            "name": "street-view"
+        },
+        "icon": {
+            "tags": ["street-view"]
+        }
+    }, {
+        "properties": {
+            "name": "heartbeat"
+        },
+        "icon": {
+            "tags": ["heartbeat"]
+        }
+    }, {
+        "properties": {
+            "name": "venus"
+        },
+        "icon": {
+            "tags": ["venus"]
+        }
+    }, {
+        "properties": {
+            "name": "mars"
+        },
+        "icon": {
+            "tags": ["mars"]
+        }
+    }, {
+        "properties": {
+            "name": "mercury"
+        },
+        "icon": {
+            "tags": ["mercury"]
+        }
+    }, {
+        "properties": {
+            "name": "intersex, transgender"
+        },
+        "icon": {
+            "tags": ["intersex", "transgender"]
+        }
+    }, {
+        "properties": {
+            "name": "transgender-alt"
+        },
+        "icon": {
+            "tags": ["transgender-alt"]
+        }
+    }, {
+        "properties": {
+            "name": "venus-double"
+        },
+        "icon": {
+            "tags": ["venus-double"]
+        }
+    }, {
+        "properties": {
+            "name": "mars-double"
+        },
+        "icon": {
+            "tags": ["mars-double"]
+        }
+    }, {
+        "properties": {
+            "name": "venus-mars"
+        },
+        "icon": {
+            "tags": ["venus-mars"]
+        }
+    }, {
+        "properties": {
+            "name": "mars-stroke"
+        },
+        "icon": {
+            "tags": ["mars-stroke"]
+        }
+    }, {
+        "properties": {
+            "name": "mars-stroke-v"
+        },
+        "icon": {
+            "tags": ["mars-stroke-v"]
+        }
+    }, {
+        "properties": {
+            "name": "mars-stroke-h"
+        },
+        "icon": {
+            "tags": ["mars-stroke-h"]
+        }
+    }, {
+        "properties": {
+            "name": "neuter"
+        },
+        "icon": {
+            "tags": ["neuter"]
+        }
+    }, {
+        "properties": {
+            "name": "genderless"
+        },
+        "icon": {
+            "tags": ["genderless"]
+        }
+    }, {
+        "properties": {
+            "name": "facebook-official"
+        },
+        "icon": {
+            "tags": ["facebook-official"]
+        }
+    }, {
+        "properties": {
+            "name": "pinterest-p"
+        },
+        "icon": {
+            "tags": ["pinterest-p"]
+        }
+    }, {
+        "properties": {
+            "name": "whatsapp"
+        },
+        "icon": {
+            "tags": ["whatsapp"]
+        }
+    }, {
+        "properties": {
+            "name": "server"
+        },
+        "icon": {
+            "tags": ["server"]
+        }
+    }, {
+        "properties": {
+            "name": "user-plus"
+        },
+        "icon": {
+            "tags": ["user-plus"]
+        }
+    }, {
+        "properties": {
+            "name": "user-times"
+        },
+        "icon": {
+            "tags": ["user-times"]
+        }
+    }, {
+        "properties": {
+            "name": "bed, hotel"
+        },
+        "icon": {
+            "tags": ["bed", "hotel"]
+        }
+    }, {
+        "properties": {
+            "name": "viacoin"
+        },
+        "icon": {
+            "tags": ["viacoin"]
+        }
+    }, {
+        "properties": {
+            "name": "train"
+        },
+        "icon": {
+            "tags": ["train"]
+        }
+    }, {
+        "properties": {
+            "name": "subway"
+        },
+        "icon": {
+            "tags": ["subway"]
+        }
+    }, {
+        "properties": {
+            "name": "medium"
+        },
+        "icon": {
+            "tags": ["medium"]
+        }
+    }, {
+        "properties": {
+            "name": "y-combinator, yc"
+        },
+        "icon": {
+            "tags": ["y-combinator", "yc"]
+        }
+    }, {
+        "properties": {
+            "name": "optin-monster"
+        },
+        "icon": {
+            "tags": ["optin-monster"]
+        }
+    }, {
+        "properties": {
+            "name": "opencart"
+        },
+        "icon": {
+            "tags": ["opencart"]
+        }
+    }, {
+        "properties": {
+            "name": "expeditedssl"
+        },
+        "icon": {
+            "tags": ["expeditedssl"]
+        }
+    }, {
+        "properties": {
+            "name": "battery-4, battery-full2"
+        },
+        "icon": {
+            "tags": ["battery-4", "battery-full"]
+        }
+    }, {
+        "properties": {
+            "name": "battery-3, battery-three-quarters"
+        },
+        "icon": {
+            "tags": ["battery-3", "battery-three-quarters"]
+        }
+    }, {
+        "properties": {
+            "name": "battery-2, battery-half"
+        },
+        "icon": {
+            "tags": ["battery-2", "battery-half"]
+        }
+    }, {
+        "properties": {
+            "name": "battery-1, battery-quarter"
+        },
+        "icon": {
+            "tags": ["battery-1", "battery-quarter"]
+        }
+    }, {
+        "properties": {
+            "name": "battery-0, battery-empty"
+        },
+        "icon": {
+            "tags": ["battery-0", "battery-empty"]
+        }
+    }, {
+        "properties": {
+            "name": "mouse-pointer"
+        },
+        "icon": {
+            "tags": ["mouse-pointer"]
+        }
+    }, {
+        "properties": {
+            "name": "i-cursor"
+        },
+        "icon": {
+            "tags": ["i-cursor"]
+        }
+    }, {
+        "properties": {
+            "name": "object-group"
+        },
+        "icon": {
+            "tags": ["object-group"]
+        }
+    }, {
+        "properties": {
+            "name": "object-ungroup"
+        },
+        "icon": {
+            "tags": ["object-ungroup"]
+        }
+    }, {
+        "properties": {
+            "name": "sticky-note"
+        },
+        "icon": {
+            "tags": ["sticky-note"]
+        }
+    }, {
+        "properties": {
+            "name": "sticky-note-o"
+        },
+        "icon": {
+            "tags": ["sticky-note-o"]
+        }
+    }, {
+        "properties": {
+            "name": "cc-jcb"
+        },
+        "icon": {
+            "tags": ["cc-jcb"]
+        }
+    }, {
+        "properties": {
+            "name": "cc-diners-club"
+        },
+        "icon": {
+            "tags": ["cc-diners-club"]
+        }
+    }, {
+        "properties": {
+            "name": "clone"
+        },
+        "icon": {
+            "tags": ["clone"]
+        }
+    }, {
+        "properties": {
+            "name": "balance-scale"
+        },
+        "icon": {
+            "tags": ["balance-scale"]
+        }
+    }, {
+        "properties": {
+            "name": "hourglass-o"
+        },
+        "icon": {
+            "tags": ["hourglass-o"]
+        }
+    }, {
+        "properties": {
+            "name": "hourglass-1, hourglass-start"
+        },
+        "icon": {
+            "tags": ["hourglass-1", "hourglass-start"]
+        }
+    }, {
+        "properties": {
+            "name": "hourglass-2, hourglass-half"
+        },
+        "icon": {
+            "tags": ["hourglass-2", "hourglass-half"]
+        }
+    }, {
+        "properties": {
+            "name": "hourglass-3, hourglass-end"
+        },
+        "icon": {
+            "tags": ["hourglass-3", "hourglass-end"]
+        }
+    }, {
+        "properties": {
+            "name": "hourglass2"
+        },
+        "icon": {
+            "tags": ["hourglass"]
+        }
+    }, {
+        "properties": {
+            "name": "hand-grab-o, hand-rock-o"
+        },
+        "icon": {
+            "tags": ["hand-grab-o", "hand-rock-o"]
+        }
+    }, {
+        "properties": {
+            "name": "hand-paper-o, hand-stop-o"
+        },
+        "icon": {
+            "tags": ["hand-paper-o", "hand-stop-o"]
+        }
+    }, {
+        "properties": {
+            "name": "hand-scissors-o"
+        },
+        "icon": {
+            "tags": ["hand-scissors-o"]
+        }
+    }, {
+        "properties": {
+            "name": "hand-lizard-o"
+        },
+        "icon": {
+            "tags": ["hand-lizard-o"]
+        }
+    }, {
+        "properties": {
+            "name": "hand-spock-o"
+        },
+        "icon": {
+            "tags": ["hand-spock-o"]
+        }
+    }, {
+        "properties": {
+            "name": "hand-pointer-o"
+        },
+        "icon": {
+            "tags": ["hand-pointer-o"]
+        }
+    }, {
+        "properties": {
+            "name": "hand-peace-o"
+        },
+        "icon": {
+            "tags": ["hand-peace-o"]
+        }
+    }, {
+        "properties": {
+            "name": "trademark"
+        },
+        "icon": {
+            "tags": ["trademark"]
+        }
+    }, {
+        "properties": {
+            "name": "registered"
+        },
+        "icon": {
+            "tags": ["registered"]
+        }
+    }, {
+        "properties": {
+            "name": "creative-commons"
+        },
+        "icon": {
+            "tags": ["creative-commons"]
+        }
+    }, {
+        "properties": {
+            "name": "gg"
+        },
+        "icon": {
+            "tags": ["gg"]
+        }
+    }, {
+        "properties": {
+            "name": "gg-circle"
+        },
+        "icon": {
+            "tags": ["gg-circle"]
+        }
+    }, {
+        "properties": {
+            "name": "tripadvisor"
+        },
+        "icon": {
+            "tags": ["tripadvisor"]
+        }
+    }, {
+        "properties": {
+            "name": "odnoklassniki"
+        },
+        "icon": {
+            "tags": ["odnoklassniki"]
+        }
+    }, {
+        "properties": {
+            "name": "odnoklassniki-square"
+        },
+        "icon": {
+            "tags": ["odnoklassniki-square"]
+        }
+    }, {
+        "properties": {
+            "name": "get-pocket"
+        },
+        "icon": {
+            "tags": ["get-pocket"]
+        }
+    }, {
+        "properties": {
+            "name": "wikipedia-w"
+        },
+        "icon": {
+            "tags": ["wikipedia-w"]
+        }
+    }, {
+        "properties": {
+            "name": "safari"
+        },
+        "icon": {
+            "tags": ["safari"]
+        }
+    }, {
+        "properties": {
+            "name": "chrome"
+        },
+        "icon": {
+            "tags": ["chrome"]
+        }
+    }, {
+        "properties": {
+            "name": "firefox"
+        },
+        "icon": {
+            "tags": ["firefox"]
+        }
+    }, {
+        "properties": {
+            "name": "opera"
+        },
+        "icon": {
+            "tags": ["opera"]
+        }
+    }, {
+        "properties": {
+            "name": "internet-explorer"
+        },
+        "icon": {
+            "tags": ["internet-explorer"]
+        }
+    }, {
+        "properties": {
+            "name": "television, tv"
+        },
+        "icon": {
+            "tags": ["television", "tv"]
+        }
+    }, {
+        "properties": {
+            "name": "contao"
+        },
+        "icon": {
+            "tags": ["contao"]
+        }
+    }, {
+        "properties": {
+            "name": "500px"
+        },
+        "icon": {
+            "tags": ["500px"]
+        }
+    }, {
+        "properties": {
+            "name": "amazon"
+        },
+        "icon": {
+            "tags": ["amazon"]
+        }
+    }, {
+        "properties": {
+            "name": "calendar-plus-o"
+        },
+        "icon": {
+            "tags": ["calendar-plus-o"]
+        }
+    }, {
+        "properties": {
+            "name": "calendar-minus-o"
+        },
+        "icon": {
+            "tags": ["calendar-minus-o"]
+        }
+    }, {
+        "properties": {
+            "name": "calendar-times-o"
+        },
+        "icon": {
+            "tags": ["calendar-times-o"]
+        }
+    }, {
+        "properties": {
+            "name": "calendar-check-o"
+        },
+        "icon": {
+            "tags": ["calendar-check-o"]
+        }
+    }, {
+        "properties": {
+            "name": "industry"
+        },
+        "icon": {
+            "tags": ["industry"]
+        }
+    }, {
+        "properties": {
+            "name": "map-pin2"
+        },
+        "icon": {
+            "tags": ["map-pin"]
+        }
+    }, {
+        "properties": {
+            "name": "map-signs"
+        },
+        "icon": {
+            "tags": ["map-signs"]
+        }
+    }, {
+        "properties": {
+            "name": "map-o"
+        },
+        "icon": {
+            "tags": ["map-o"]
+        }
+    }, {
+        "properties": {
+            "name": "map"
+        },
+        "icon": {
+            "tags": ["map"]
+        }
+    }, {
+        "properties": {
+            "name": "commenting"
+        },
+        "icon": {
+            "tags": ["commenting"]
+        }
+    }, {
+        "properties": {
+            "name": "commenting-o"
+        },
+        "icon": {
+            "tags": ["commenting-o"]
+        }
+    }, {
+        "properties": {
+            "name": "houzz"
+        },
+        "icon": {
+            "tags": ["houzz"]
+        }
+    }, {
+        "properties": {
+            "name": "vimeo"
+        },
+        "icon": {
+            "tags": ["vimeo"]
+        }
+    }, {
+        "properties": {
+            "name": "black-tie"
+        },
+        "icon": {
+            "tags": ["black-tie"]
+        }
+    }, {
+        "properties": {
+            "name": "fonticons"
+        },
+        "icon": {
+            "tags": ["fonticons"]
+        }
+    }, {
+        "properties": {
+            "name": "reddit-alien"
+        },
+        "icon": {
+            "tags": ["reddit-alien"]
+        }
+    }, {
+        "properties": {
+            "name": "edge"
+        },
+        "icon": {
+            "tags": ["edge"]
+        }
+    }, {
+        "properties": {
+            "name": "credit-card-alt"
+        },
+        "icon": {
+            "tags": ["credit-card-alt"]
+        }
+    }, {
+        "properties": {
+            "name": "codiepie"
+        },
+        "icon": {
+            "tags": ["codiepie"]
+        }
+    }, {
+        "properties": {
+            "name": "modx"
+        },
+        "icon": {
+            "tags": ["modx"]
+        }
+    }, {
+        "properties": {
+            "name": "fort-awesome"
+        },
+        "icon": {
+            "tags": ["fort-awesome"]
+        }
+    }, {
+        "properties": {
+            "name": "usb"
+        },
+        "icon": {
+            "tags": ["usb"]
+        }
+    }, {
+        "properties": {
+            "name": "product-hunt"
+        },
+        "icon": {
+            "tags": ["product-hunt"]
+        }
+    }, {
+        "properties": {
+            "name": "mixcloud"
+        },
+        "icon": {
+            "tags": ["mixcloud"]
+        }
+    }, {
+        "properties": {
+            "name": "scribd"
+        },
+        "icon": {
+            "tags": ["scribd"]
+        }
+    }, {
+        "properties": {
+            "name": "pause-circle"
+        },
+        "icon": {
+            "tags": ["pause-circle"]
+        }
+    }, {
+        "properties": {
+            "name": "pause-circle-o"
+        },
+        "icon": {
+            "tags": ["pause-circle-o"]
+        }
+    }, {
+        "properties": {
+            "name": "stop-circle"
+        },
+        "icon": {
+            "tags": ["stop-circle"]
+        }
+    }, {
+        "properties": {
+            "name": "stop-circle-o"
+        },
+        "icon": {
+            "tags": ["stop-circle-o"]
+        }
+    }, {
+        "properties": {
+            "name": "shopping-bag2"
+        },
+        "icon": {
+            "tags": ["shopping-bag"]
+        }
+    }, {
+        "properties": {
+            "name": "shopping-basket"
+        },
+        "icon": {
+            "tags": ["shopping-basket"]
+        }
+    }, {
+        "properties": {
+            "name": "hashtag"
+        },
+        "icon": {
+            "tags": ["hashtag"]
+        }
+    }, {
+        "properties": {
+            "name": "bluetooth"
+        },
+        "icon": {
+            "tags": ["bluetooth"]
+        }
+    }, {
+        "properties": {
+            "name": "bluetooth-b"
+        },
+        "icon": {
+            "tags": ["bluetooth-b"]
+        }
+    }, {
+        "properties": {
+            "name": "percent"
+        },
+        "icon": {
+            "tags": ["percent"]
+        }
+    }, {
+        "properties": {
+            "name": "eye2"
+        },
+        "icon": {
+            "tags": ["eye"]
+        }
+    }, {
+        "properties": {
+            "name": "paper-clip"
+        },
+        "icon": {
+            "tags": ["paper-clip"]
+        }
+    }, {
+        "properties": {
+            "name": "mail"
+        },
+        "icon": {
+            "tags": ["mail"]
+        }
+    }, {
+        "properties": {
+            "name": "toggle"
+        },
+        "icon": {
+            "tags": ["toggle"]
+        }
+    }, {
+        "properties": {
+            "name": "layout"
+        },
+        "icon": {
+            "tags": ["layout"]
+        }
+    }, {
+        "properties": {
+            "name": "link3"
+        },
+        "icon": {
+            "tags": ["link"]
+        }
+    }, {
+        "properties": {
+            "name": "bell2"
+        },
+        "icon": {
+            "tags": ["bell"]
+        }
+    }, {
+        "properties": {
+            "name": "lock3"
+        },
+        "icon": {
+            "tags": ["lock"]
+        }
+    }, {
+        "properties": {
+            "name": "unlock2"
+        },
+        "icon": {
+            "tags": ["unlock"]
+        }
+    }, {
+        "properties": {
+            "name": "ribbon"
+        },
+        "icon": {
+            "tags": ["ribbon"]
+        }
+    }, {
+        "properties": {
+            "name": "image2"
+        },
+        "icon": {
+            "tags": ["image"]
+        }
+    }, {
+        "properties": {
+            "name": "signal2"
+        },
+        "icon": {
+            "tags": ["signal", "wave"]
+        }
+    }, {
+        "properties": {
+            "name": "target"
+        },
+        "icon": {
+            "tags": ["target"]
+        }
+    }, {
+        "properties": {
+            "name": "clipboard2"
+        },
+        "icon": {
+            "tags": ["clipboard"]
+        }
+    }, {
+        "properties": {
+            "name": "clock"
+        },
+        "icon": {
+            "tags": ["clock"]
+        }
+    }, {
+        "properties": {
+            "name": "watch"
+        },
+        "icon": {
+            "tags": ["watch"]
+        }
+    }, {
+        "properties": {
+            "name": "air-play"
+        },
+        "icon": {
+            "tags": ["air-play"]
+        }
+    }, {
+        "properties": {
+            "name": "camera3"
+        },
+        "icon": {
+            "tags": ["camera"]
+        }
+    }, {
+        "properties": {
+            "name": "video"
+        },
+        "icon": {
+            "tags": ["video"]
+        }
+    }, {
+        "properties": {
+            "name": "disc"
+        },
+        "icon": {
+            "tags": ["disc"]
+        }
+    }, {
+        "properties": {
+            "name": "printer"
+        },
+        "icon": {
+            "tags": ["printer"]
+        }
+    }, {
+        "properties": {
+            "name": "monitor"
+        },
+        "icon": {
+            "tags": ["monitor"]
+        }
+    }, {
+        "properties": {
+            "name": "server2"
+        },
+        "icon": {
+            "tags": ["server"]
+        }
+    }, {
+        "properties": {
+            "name": "cog2"
+        },
+        "icon": {
+            "tags": ["cog"]
+        }
+    }, {
+        "properties": {
+            "name": "heart3"
+        },
+        "icon": {
+            "tags": ["heart"]
+        }
+    }, {
+        "properties": {
+            "name": "paragraph2"
+        },
+        "icon": {
+            "tags": ["paragraph"]
+        }
+    }, {
+        "properties": {
+            "name": "align-justify2"
+        },
+        "icon": {
+            "tags": ["align-justify"]
+        }
+    }, {
+        "properties": {
+            "name": "align-left2"
+        },
+        "icon": {
+            "tags": ["align-left"]
+        }
+    }, {
+        "properties": {
+            "name": "align-center2"
+        },
+        "icon": {
+            "tags": ["align-center"]
+        }
+    }, {
+        "properties": {
+            "name": "align-right2"
+        },
+        "icon": {
+            "tags": ["align-right"]
+        }
+    }, {
+        "properties": {
+            "name": "book2"
+        },
+        "icon": {
+            "tags": ["book"]
+        }
+    }, {
+        "properties": {
+            "name": "layers"
+        },
+        "icon": {
+            "tags": ["layers"]
+        }
+    }, {
+        "properties": {
+            "name": "stacked"
+        },
+        "icon": {
+            "tags": ["stacked"]
+        }
+    }, {
+        "properties": {
+            "name": "stack-2"
+        },
+        "icon": {
+            "tags": ["stack-2"]
+        }
+    }, {
+        "properties": {
+            "name": "paper"
+        },
+        "icon": {
+            "tags": ["paper"]
+        }
+    }, {
+        "properties": {
+            "name": "paper-stack"
+        },
+        "icon": {
+            "tags": ["paper-stack"]
+        }
+    }, {
+        "properties": {
+            "name": "search3"
+        },
+        "icon": {
+            "tags": ["search"]
+        }
+    }, {
+        "properties": {
+            "name": "zoom-in"
+        },
+        "icon": {
+            "tags": ["zoom-in"]
+        }
+    }, {
+        "properties": {
+            "name": "zoom-out"
+        },
+        "icon": {
+            "tags": ["zoom-out"]
+        }
+    }, {
+        "properties": {
+            "name": "reply2"
+        },
+        "icon": {
+            "tags": ["reply"]
+        }
+    }, {
+        "properties": {
+            "name": "circle-plus"
+        },
+        "icon": {
+            "tags": ["circle-plus"]
+        }
+    }, {
+        "properties": {
+            "name": "circle-minus"
+        },
+        "icon": {
+            "tags": ["circle-minus"]
+        }
+    }, {
+        "properties": {
+            "name": "circle-check"
+        },
+        "icon": {
+            "tags": ["circle-check"]
+        }
+    }, {
+        "properties": {
+            "name": "circle-cross"
+        },
+        "icon": {
+            "tags": ["circle-cross"]
+        }
+    }, {
+        "properties": {
+            "name": "square-plus"
+        },
+        "icon": {
+            "tags": ["square-plus"]
+        }
+    }, {
+        "properties": {
+            "name": "square-minus"
+        },
+        "icon": {
+            "tags": ["square-minus"]
+        }
+    }, {
+        "properties": {
+            "name": "square-check"
+        },
+        "icon": {
+            "tags": ["square-check"]
+        }
+    }, {
+        "properties": {
+            "name": "square-cross"
+        },
+        "icon": {
+            "tags": ["square-cross"]
+        }
+    }, {
+        "properties": {
+            "name": "microphone2"
+        },
+        "icon": {
+            "tags": ["microphone"]
+        }
+    }, {
+        "properties": {
+            "name": "record"
+        },
+        "icon": {
+            "tags": ["record"]
+        }
+    }, {
+        "properties": {
+            "name": "skip-back"
+        },
+        "icon": {
+            "tags": ["skip-back"]
+        }
+    }, {
+        "properties": {
+            "name": "rewind"
+        },
+        "icon": {
+            "tags": ["rewind"]
+        }
+    }, {
+        "properties": {
+            "name": "play2"
+        },
+        "icon": {
+            "tags": ["play"]
+        }
+    }, {
+        "properties": {
+            "name": "pause2"
+        },
+        "icon": {
+            "tags": ["pause"]
+        }
+    }, {
+        "properties": {
+            "name": "stop2"
+        },
+        "icon": {
+            "tags": ["stop"]
+        }
+    }, {
+        "properties": {
+            "name": "fast-forward2"
+        },
+        "icon": {
+            "tags": ["fast-forward"]
+        }
+    }, {
+        "properties": {
+            "name": "skip-forward"
+        },
+        "icon": {
+            "tags": ["skip-forward"]
+        }
+    }, {
+        "properties": {
+            "name": "shuffle"
+        },
+        "icon": {
+            "tags": ["shuffle"]
+        }
+    }, {
+        "properties": {
+            "name": "repeat2"
+        },
+        "icon": {
+            "tags": ["repeat"]
+        }
+    }, {
+        "properties": {
+            "name": "folder2"
+        },
+        "icon": {
+            "tags": ["folder"]
+        }
+    }, {
+        "properties": {
+            "name": "umbrella2"
+        },
+        "icon": {
+            "tags": ["umbrella"]
+        }
+    }, {
+        "properties": {
+            "name": "moon"
+        },
+        "icon": {
+            "tags": ["moon"]
+        }
+    }, {
+        "properties": {
+            "name": "thermometer"
+        },
+        "icon": {
+            "tags": ["thermometer"]
+        }
+    }, {
+        "properties": {
+            "name": "drop"
+        },
+        "icon": {
+            "tags": ["drop"]
+        }
+    }, {
+        "properties": {
+            "name": "sun"
+        },
+        "icon": {
+            "tags": ["sun"]
+        }
+    }, {
+        "properties": {
+            "name": "cloud3"
+        },
+        "icon": {
+            "tags": ["cloud"]
+        }
+    }, {
+        "properties": {
+            "name": "cloud-upload2"
+        },
+        "icon": {
+            "tags": ["cloud-upload"]
+        }
+    }, {
+        "properties": {
+            "name": "cloud-download2"
+        },
+        "icon": {
+            "tags": ["cloud-download"]
+        }
+    }, {
+        "properties": {
+            "name": "upload3"
+        },
+        "icon": {
+            "tags": ["upload"]
+        }
+    }, {
+        "properties": {
+            "name": "download3"
+        },
+        "icon": {
+            "tags": ["download"]
+        }
+    }, {
+        "properties": {
+            "name": "location"
+        },
+        "icon": {
+            "tags": ["location"]
+        }
+    }, {
+        "properties": {
+            "name": "location-2"
+        },
+        "icon": {
+            "tags": ["location-2"]
+        }
+    }, {
+        "properties": {
+            "name": "map2"
+        },
+        "icon": {
+            "tags": ["map"]
+        }
+    }, {
+        "properties": {
+            "name": "battery"
+        },
+        "icon": {
+            "tags": ["battery"]
+        }
+    }, {
+        "properties": {
+            "name": "head"
+        },
+        "icon": {
+            "tags": ["head"]
+        }
+    }, {
+        "properties": {
+            "name": "briefcase3"
+        },
+        "icon": {
+            "tags": ["briefcase"]
+        }
+    }, {
+        "properties": {
+            "name": "speech-bubble"
+        },
+        "icon": {
+            "tags": ["speech-bubble"]
+        }
+    }, {
+        "properties": {
+            "name": "anchor3"
+        },
+        "icon": {
+            "tags": ["anchor"]
+        }
+    }, {
+        "properties": {
+            "name": "globe3"
+        },
+        "icon": {
+            "tags": ["globe"]
+        }
+    }, {
+        "properties": {
+            "name": "box"
+        },
+        "icon": {
+            "tags": ["box"]
+        }
+    }, {
+        "properties": {
+            "name": "reload"
+        },
+        "icon": {
+            "tags": ["reload"]
+        }
+    }, {
+        "properties": {
+            "name": "share2"
+        },
+        "icon": {
+            "tags": ["share"]
+        }
+    }, {
+        "properties": {
+            "name": "marquee"
+        },
+        "icon": {
+            "tags": ["marquee"]
+        }
+    }, {
+        "properties": {
+            "name": "marquee-plus"
+        },
+        "icon": {
+            "tags": ["marquee-plus"]
+        }
+    }, {
+        "properties": {
+            "name": "marquee-minus"
+        },
+        "icon": {
+            "tags": ["marquee-minus"]
+        }
+    }, {
+        "properties": {
+            "name": "tag2"
+        },
+        "icon": {
+            "tags": ["tag"]
+        }
+    }, {
+        "properties": {
+            "name": "power"
+        },
+        "icon": {
+            "tags": ["power"]
+        }
+    }, {
+        "properties": {
+            "name": "command"
+        },
+        "icon": {
+            "tags": ["command"]
+        }
+    }, {
+        "properties": {
+            "name": "alt"
+        },
+        "icon": {
+            "tags": ["alt"]
+        }
+    }, {
+        "properties": {
+            "name": "esc"
+        },
+        "icon": {
+            "tags": ["esc"]
+        }
+    }, {
+        "properties": {
+            "name": "bar-graph"
+        },
+        "icon": {
+            "tags": ["bar-graph"]
+        }
+    }, {
+        "properties": {
+            "name": "bar-graph-2"
+        },
+        "icon": {
+            "tags": ["bar-graph-2"]
+        }
+    }, {
+        "properties": {
+            "name": "pie-graph"
+        },
+        "icon": {
+            "tags": ["pie-graph"]
+        }
+    }, {
+        "properties": {
+            "name": "star2"
+        },
+        "icon": {
+            "tags": ["star"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-left2"
+        },
+        "icon": {
+            "tags": ["arrow-left"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-right2"
+        },
+        "icon": {
+            "tags": ["arrow-right"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-up2"
+        },
+        "icon": {
+            "tags": ["arrow-up"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-down2"
+        },
+        "icon": {
+            "tags": ["arrow-down"]
+        }
+    }, {
+        "properties": {
+            "name": "volume"
+        },
+        "icon": {
+            "tags": ["volume"]
+        }
+    }, {
+        "properties": {
+            "name": "mute"
+        },
+        "icon": {
+            "tags": ["mute"]
+        }
+    }, {
+        "properties": {
+            "name": "content-right"
+        },
+        "icon": {
+            "tags": ["content-right"]
+        }
+    }, {
+        "properties": {
+            "name": "content-left"
+        },
+        "icon": {
+            "tags": ["content-left"]
+        }
+    }, {
+        "properties": {
+            "name": "grid"
+        },
+        "icon": {
+            "tags": ["grid"]
+        }
+    }, {
+        "properties": {
+            "name": "grid-2"
+        },
+        "icon": {
+            "tags": ["grid-2"]
+        }
+    }, {
+        "properties": {
+            "name": "columns2"
+        },
+        "icon": {
+            "tags": ["columns"]
+        }
+    }, {
+        "properties": {
+            "name": "loader"
+        },
+        "icon": {
+            "tags": ["loader"]
+        }
+    }, {
+        "properties": {
+            "name": "bag"
+        },
+        "icon": {
+            "tags": ["bag"]
+        }
+    }, {
+        "properties": {
+            "name": "ban2"
+        },
+        "icon": {
+            "tags": ["ban"]
+        }
+    }, {
+        "properties": {
+            "name": "flag3"
+        },
+        "icon": {
+            "tags": ["flag"]
+        }
+    }, {
+        "properties": {
+            "name": "trash2"
+        },
+        "icon": {
+            "tags": ["trash"]
+        }
+    }, {
+        "properties": {
+            "name": "expand3"
+        },
+        "icon": {
+            "tags": ["expand"]
+        }
+    }, {
+        "properties": {
+            "name": "contract"
+        },
+        "icon": {
+            "tags": ["contract"]
+        }
+    }, {
+        "properties": {
+            "name": "maximize"
+        },
+        "icon": {
+            "tags": ["maximize"]
+        }
+    }, {
+        "properties": {
+            "name": "minimize"
+        },
+        "icon": {
+            "tags": ["minimize"]
+        }
+    }, {
+        "properties": {
+            "name": "plus2"
+        },
+        "icon": {
+            "tags": ["plus"]
+        }
+    }, {
+        "properties": {
+            "name": "minus2"
+        },
+        "icon": {
+            "tags": ["minus"]
+        }
+    }, {
+        "properties": {
+            "name": "check2"
+        },
+        "icon": {
+            "tags": ["check"]
+        }
+    }, {
+        "properties": {
+            "name": "cross"
+        },
+        "icon": {
+            "tags": ["cross"]
+        }
+    }, {
+        "properties": {
+            "name": "move"
+        },
+        "icon": {
+            "tags": ["move"]
+        }
+    }, {
+        "properties": {
+            "name": "delete"
+        },
+        "icon": {
+            "tags": ["delete"]
+        }
+    }, {
+        "properties": {
+            "name": "menu"
+        },
+        "icon": {
+            "tags": ["menu"]
+        }
+    }, {
+        "properties": {
+            "name": "archive2"
+        },
+        "icon": {
+            "tags": ["archive"]
+        }
+    }, {
+        "properties": {
+            "name": "inbox2"
+        },
+        "icon": {
+            "tags": ["inbox"]
+        }
+    }, {
+        "properties": {
+            "name": "outbox"
+        },
+        "icon": {
+            "tags": ["outbox"]
+        }
+    }, {
+        "properties": {
+            "name": "file2"
+        },
+        "icon": {
+            "tags": ["file"]
+        }
+    }, {
+        "properties": {
+            "name": "file-add"
+        },
+        "icon": {
+            "tags": ["file-add"]
+        }
+    }, {
+        "properties": {
+            "name": "file-subtract"
+        },
+        "icon": {
+            "tags": ["file-subtract"]
+        }
+    }, {
+        "properties": {
+            "name": "help"
+        },
+        "icon": {
+            "tags": ["help"]
+        }
+    }, {
+        "properties": {
+            "name": "open"
+        },
+        "icon": {
+            "tags": ["open"]
+        }
+    }, {
+        "properties": {
+            "name": "ellipsis"
+        },
+        "icon": {
+            "tags": ["ellipsis"]
+        }
+    }, {
+        "properties": {
+            "name": "times"
+        },
+        "icon": {
+            "tags": ["times"]
+        }
+    }, {
+        "properties": {
+            "name": "tick"
+        },
+        "icon": {
+            "tags": ["tick"]
+        }
+    }, {
+        "properties": {
+            "name": "plus3"
+        },
+        "icon": {
+            "tags": ["plus"]
+        }
+    }, {
+        "properties": {
+            "name": "minus3"
+        },
+        "icon": {
+            "tags": ["minus"]
+        }
+    }, {
+        "properties": {
+            "name": "equals"
+        },
+        "icon": {
+            "tags": ["equals"]
+        }
+    }, {
+        "properties": {
+            "name": "divide"
+        },
+        "icon": {
+            "tags": ["divide"]
+        }
+    }, {
+        "properties": {
+            "name": "chevron-right2"
+        },
+        "icon": {
+            "tags": ["chevron-right"]
+        }
+    }, {
+        "properties": {
+            "name": "chevron-left2"
+        },
+        "icon": {
+            "tags": ["chevron-left"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-right-thick"
+        },
+        "icon": {
+            "tags": ["arrow-right-thick"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-left-thick"
+        },
+        "icon": {
+            "tags": ["arrow-left-thick"]
+        }
+    }, {
+        "properties": {
+            "name": "th-small"
+        },
+        "icon": {
+            "tags": ["th-small"]
+        }
+    }, {
+        "properties": {
+            "name": "th-menu"
+        },
+        "icon": {
+            "tags": ["th-menu"]
+        }
+    }, {
+        "properties": {
+            "name": "th-list2"
+        },
+        "icon": {
+            "tags": ["th-list"]
+        }
+    }, {
+        "properties": {
+            "name": "th-large2"
+        },
+        "icon": {
+            "tags": ["th-large"]
+        }
+    }, {
+        "properties": {
+            "name": "home2"
+        },
+        "icon": {
+            "tags": ["home"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-forward"
+        },
+        "icon": {
+            "tags": ["arrow-forward"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-back"
+        },
+        "icon": {
+            "tags": ["arrow-back"]
+        }
+    }, {
+        "properties": {
+            "name": "rss"
+        },
+        "icon": {
+            "tags": ["rss"]
+        }
+    }, {
+        "properties": {
+            "name": "location2"
+        },
+        "icon": {
+            "tags": ["location"]
+        }
+    }, {
+        "properties": {
+            "name": "link2"
+        },
+        "icon": {
+            "tags": ["link"]
+        }
+    }, {
+        "properties": {
+            "name": "image3"
+        },
+        "icon": {
+            "tags": ["image"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-up-thick"
+        },
+        "icon": {
+            "tags": ["arrow-up-thick"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-down-thick"
+        },
+        "icon": {
+            "tags": ["arrow-down-thick"]
+        }
+    }, {
+        "properties": {
+            "name": "starburst"
+        },
+        "icon": {
+            "tags": ["starburst"]
+        }
+    }, {
+        "properties": {
+            "name": "starburst-outline"
+        },
+        "icon": {
+            "tags": ["starburst-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "star3"
+        },
+        "icon": {
+            "tags": ["star"]
+        }
+    }, {
+        "properties": {
+            "name": "flow-children"
+        },
+        "icon": {
+            "tags": ["flow-children"]
+        }
+    }, {
+        "properties": {
+            "name": "export"
+        },
+        "icon": {
+            "tags": ["export"]
+        }
+    }, {
+        "properties": {
+            "name": "delete2"
+        },
+        "icon": {
+            "tags": ["delete"]
+        }
+    }, {
+        "properties": {
+            "name": "delete-outline"
+        },
+        "icon": {
+            "tags": ["delete-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "cloud-storage"
+        },
+        "icon": {
+            "tags": ["cloud-storage"]
+        }
+    }, {
+        "properties": {
+            "name": "wi-fi"
+        },
+        "icon": {
+            "tags": ["wi-fi"]
+        }
+    }, {
+        "properties": {
+            "name": "heart4"
+        },
+        "icon": {
+            "tags": ["heart"]
+        }
+    }, {
+        "properties": {
+            "name": "flash"
+        },
+        "icon": {
+            "tags": ["flash"]
+        }
+    }, {
+        "properties": {
+            "name": "cancel"
+        },
+        "icon": {
+            "tags": ["cancel"]
+        }
+    }, {
+        "properties": {
+            "name": "backspace"
+        },
+        "icon": {
+            "tags": ["backspace"]
+        }
+    }, {
+        "properties": {
+            "name": "attachment2"
+        },
+        "icon": {
+            "tags": ["attachment"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-move"
+        },
+        "icon": {
+            "tags": ["arrow-move"]
+        }
+    }, {
+        "properties": {
+            "name": "warning"
+        },
+        "icon": {
+            "tags": ["warning"]
+        }
+    }, {
+        "properties": {
+            "name": "user2"
+        },
+        "icon": {
+            "tags": ["user"]
+        }
+    }, {
+        "properties": {
+            "name": "radar"
+        },
+        "icon": {
+            "tags": ["radar"]
+        }
+    }, {
+        "properties": {
+            "name": "lock-open"
+        },
+        "icon": {
+            "tags": ["lock-open"]
+        }
+    }, {
+        "properties": {
+            "name": "lock-closed"
+        },
+        "icon": {
+            "tags": ["lock-closed"]
+        }
+    }, {
+        "properties": {
+            "name": "location-arrow2"
+        },
+        "icon": {
+            "tags": ["location-arrow"]
+        }
+    }, {
+        "properties": {
+            "name": "info2"
+        },
+        "icon": {
+            "tags": ["info"]
+        }
+    }, {
+        "properties": {
+            "name": "user-delete"
+        },
+        "icon": {
+            "tags": ["user-delete"]
+        }
+    }, {
+        "properties": {
+            "name": "user-add"
+        },
+        "icon": {
+            "tags": ["user-add"]
+        }
+    }, {
+        "properties": {
+            "name": "media-pause"
+        },
+        "icon": {
+            "tags": ["media-pause"]
+        }
+    }, {
+        "properties": {
+            "name": "group2"
+        },
+        "icon": {
+            "tags": ["group"]
+        }
+    }, {
+        "properties": {
+            "name": "chart-pie"
+        },
+        "icon": {
+            "tags": ["chart-pie"]
+        }
+    }, {
+        "properties": {
+            "name": "chart-line"
+        },
+        "icon": {
+            "tags": ["chart-line"]
+        }
+    }, {
+        "properties": {
+            "name": "chart-bar"
+        },
+        "icon": {
+            "tags": ["chart-bar"]
+        }
+    }, {
+        "properties": {
+            "name": "chart-area"
+        },
+        "icon": {
+            "tags": ["chart-area"]
+        }
+    }, {
+        "properties": {
+            "name": "video2"
+        },
+        "icon": {
+            "tags": ["video"]
+        }
+    }, {
+        "properties": {
+            "name": "point-of-interest"
+        },
+        "icon": {
+            "tags": ["point-of-interest"]
+        }
+    }, {
+        "properties": {
+            "name": "infinity"
+        },
+        "icon": {
+            "tags": ["infinity"]
+        }
+    }, {
+        "properties": {
+            "name": "globe4"
+        },
+        "icon": {
+            "tags": ["globe"]
+        }
+    }, {
+        "properties": {
+            "name": "eye3"
+        },
+        "icon": {
+            "tags": ["eye"]
+        }
+    }, {
+        "properties": {
+            "name": "cog3"
+        },
+        "icon": {
+            "tags": ["cog"]
+        }
+    }, {
+        "properties": {
+            "name": "camera4"
+        },
+        "icon": {
+            "tags": ["camera"]
+        }
+    }, {
+        "properties": {
+            "name": "upload4"
+        },
+        "icon": {
+            "tags": ["upload"]
+        }
+    }, {
+        "properties": {
+            "name": "scissors"
+        },
+        "icon": {
+            "tags": ["scissors"]
+        }
+    }, {
+        "properties": {
+            "name": "refresh3"
+        },
+        "icon": {
+            "tags": ["refresh"]
+        }
+    }, {
+        "properties": {
+            "name": "pin"
+        },
+        "icon": {
+            "tags": ["pin"]
+        }
+    }, {
+        "properties": {
+            "name": "key3"
+        },
+        "icon": {
+            "tags": ["key"]
+        }
+    }, {
+        "properties": {
+            "name": "info-large"
+        },
+        "icon": {
+            "tags": ["info-large"]
+        }
+    }, {
+        "properties": {
+            "name": "eject2"
+        },
+        "icon": {
+            "tags": ["eject"]
+        }
+    }, {
+        "properties": {
+            "name": "download4"
+        },
+        "icon": {
+            "tags": ["download"]
+        }
+    }, {
+        "properties": {
+            "name": "zoom"
+        },
+        "icon": {
+            "tags": ["zoom"]
+        }
+    }, {
+        "properties": {
+            "name": "zoom-out2"
+        },
+        "icon": {
+            "tags": ["zoom-out"]
+        }
+    }, {
+        "properties": {
+            "name": "zoom-in2"
+        },
+        "icon": {
+            "tags": ["zoom-in"]
+        }
+    }, {
+        "properties": {
+            "name": "sort-numerically"
+        },
+        "icon": {
+            "tags": ["sort-numerically"]
+        }
+    }, {
+        "properties": {
+            "name": "sort-alphabetically"
+        },
+        "icon": {
+            "tags": ["sort-alphabetically"]
+        }
+    }, {
+        "properties": {
+            "name": "input-checked"
+        },
+        "icon": {
+            "tags": ["input-checked"]
+        }
+    }, {
+        "properties": {
+            "name": "calender"
+        },
+        "icon": {
+            "tags": ["calender"]
+        }
+    }, {
+        "properties": {
+            "name": "world"
+        },
+        "icon": {
+            "tags": ["world"]
+        }
+    }, {
+        "properties": {
+            "name": "notes"
+        },
+        "icon": {
+            "tags": ["notes"]
+        }
+    }, {
+        "properties": {
+            "name": "code2"
+        },
+        "icon": {
+            "tags": ["code"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-sync"
+        },
+        "icon": {
+            "tags": ["arrow-sync"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-shuffle"
+        },
+        "icon": {
+            "tags": ["arrow-shuffle"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-repeat"
+        },
+        "icon": {
+            "tags": ["arrow-repeat"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-minimise"
+        },
+        "icon": {
+            "tags": ["arrow-minimise"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-maximise"
+        },
+        "icon": {
+            "tags": ["arrow-maximise"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-loop"
+        },
+        "icon": {
+            "tags": ["arrow-loop"]
+        }
+    }, {
+        "properties": {
+            "name": "anchor4"
+        },
+        "icon": {
+            "tags": ["anchor"]
+        }
+    }, {
+        "properties": {
+            "name": "spanner"
+        },
+        "icon": {
+            "tags": ["spanner"]
+        }
+    }, {
+        "properties": {
+            "name": "puzzle2"
+        },
+        "icon": {
+            "tags": ["puzzle"]
+        }
+    }, {
+        "properties": {
+            "name": "power2"
+        },
+        "icon": {
+            "tags": ["power"]
+        }
+    }, {
+        "properties": {
+            "name": "plane2"
+        },
+        "icon": {
+            "tags": ["plane"]
+        }
+    }, {
+        "properties": {
+            "name": "pi"
+        },
+        "icon": {
+            "tags": ["pi"]
+        }
+    }, {
+        "properties": {
+            "name": "phone3"
+        },
+        "icon": {
+            "tags": ["phone"]
+        }
+    }, {
+        "properties": {
+            "name": "microphone3"
+        },
+        "icon": {
+            "tags": ["microphone"]
+        }
+    }, {
+        "properties": {
+            "name": "media-rewind"
+        },
+        "icon": {
+            "tags": ["media-rewind"]
+        }
+    }, {
+        "properties": {
+            "name": "flag4"
+        },
+        "icon": {
+            "tags": ["flag"]
+        }
+    }, {
+        "properties": {
+            "name": "adjust-brightness"
+        },
+        "icon": {
+            "tags": ["adjust-brightness"]
+        }
+    }, {
+        "properties": {
+            "name": "waves"
+        },
+        "icon": {
+            "tags": ["waves"]
+        }
+    }, {
+        "properties": {
+            "name": "social-twitter"
+        },
+        "icon": {
+            "tags": ["social-twitter"]
+        }
+    }, {
+        "properties": {
+            "name": "social-facebook"
+        },
+        "icon": {
+            "tags": ["social-facebook"]
+        }
+    }, {
+        "properties": {
+            "name": "social-dribbble"
+        },
+        "icon": {
+            "tags": ["social-dribbble"]
+        }
+    }, {
+        "properties": {
+            "name": "media-stop"
+        },
+        "icon": {
+            "tags": ["media-stop"]
+        }
+    }, {
+        "properties": {
+            "name": "media-record"
+        },
+        "icon": {
+            "tags": ["media-record"]
+        }
+    }, {
+        "properties": {
+            "name": "media-play"
+        },
+        "icon": {
+            "tags": ["media-play"]
+        }
+    }, {
+        "properties": {
+            "name": "media-fast-forward"
+        },
+        "icon": {
+            "tags": ["media-fast-forward"]
+        }
+    }, {
+        "properties": {
+            "name": "media-eject"
+        },
+        "icon": {
+            "tags": ["media-eject"]
+        }
+    }, {
+        "properties": {
+            "name": "social-vimeo"
+        },
+        "icon": {
+            "tags": ["social-vimeo"]
+        }
+    }, {
+        "properties": {
+            "name": "social-tumbler"
+        },
+        "icon": {
+            "tags": ["social-tumbler"]
+        }
+    }, {
+        "properties": {
+            "name": "social-skype"
+        },
+        "icon": {
+            "tags": ["social-skype"]
+        }
+    }, {
+        "properties": {
+            "name": "social-pinterest"
+        },
+        "icon": {
+            "tags": ["social-pinterest"]
+        }
+    }, {
+        "properties": {
+            "name": "social-linkedin"
+        },
+        "icon": {
+            "tags": ["social-linkedin"]
+        }
+    }, {
+        "properties": {
+            "name": "social-last-fm"
+        },
+        "icon": {
+            "tags": ["social-last-fm"]
+        }
+    }, {
+        "properties": {
+            "name": "social-github"
+        },
+        "icon": {
+            "tags": ["social-github"]
+        }
+    }, {
+        "properties": {
+            "name": "social-flickr"
+        },
+        "icon": {
+            "tags": ["social-flickr"]
+        }
+    }, {
+        "properties": {
+            "name": "at2"
+        },
+        "icon": {
+            "tags": ["at"]
+        }
+    }, {
+        "properties": {
+            "name": "times-outline"
+        },
+        "icon": {
+            "tags": ["times-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "plus-outline"
+        },
+        "icon": {
+            "tags": ["plus-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "minus-outline"
+        },
+        "icon": {
+            "tags": ["minus-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "tick-outline"
+        },
+        "icon": {
+            "tags": ["tick-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "th-large-outline"
+        },
+        "icon": {
+            "tags": ["th-large-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "equals-outline"
+        },
+        "icon": {
+            "tags": ["equals-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "divide-outline"
+        },
+        "icon": {
+            "tags": ["divide-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "chevron-right-outline"
+        },
+        "icon": {
+            "tags": ["chevron-right-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "chevron-left-outline"
+        },
+        "icon": {
+            "tags": ["chevron-left-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-right-outline"
+        },
+        "icon": {
+            "tags": ["arrow-right-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-left-outline"
+        },
+        "icon": {
+            "tags": ["arrow-left-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "th-small-outline"
+        },
+        "icon": {
+            "tags": ["th-small-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "th-menu-outline"
+        },
+        "icon": {
+            "tags": ["th-menu-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "th-list-outline"
+        },
+        "icon": {
+            "tags": ["th-list-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "news"
+        },
+        "icon": {
+            "tags": ["news"]
+        }
+    }, {
+        "properties": {
+            "name": "home-outline"
+        },
+        "icon": {
+            "tags": ["home-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-up-outline"
+        },
+        "icon": {
+            "tags": ["arrow-up-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-forward-outline"
+        },
+        "icon": {
+            "tags": ["arrow-forward-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-down-outline"
+        },
+        "icon": {
+            "tags": ["arrow-down-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-back-outline"
+        },
+        "icon": {
+            "tags": ["arrow-back-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "trash3"
+        },
+        "icon": {
+            "tags": ["trash"]
+        }
+    }, {
+        "properties": {
+            "name": "rss-outline"
+        },
+        "icon": {
+            "tags": ["rss-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "message"
+        },
+        "icon": {
+            "tags": ["message"]
+        }
+    }, {
+        "properties": {
+            "name": "location-outline"
+        },
+        "icon": {
+            "tags": ["location-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "link-outline"
+        },
+        "icon": {
+            "tags": ["link-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "image-outline"
+        },
+        "icon": {
+            "tags": ["image-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "export-outline"
+        },
+        "icon": {
+            "tags": ["export-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "cross2"
+        },
+        "icon": {
+            "tags": ["cross"]
+        }
+    }, {
+        "properties": {
+            "name": "wi-fi-outline"
+        },
+        "icon": {
+            "tags": ["wi-fi-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "star-outline"
+        },
+        "icon": {
+            "tags": ["star-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "media-pause-outline"
+        },
+        "icon": {
+            "tags": ["media-pause-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "mail2"
+        },
+        "icon": {
+            "tags": ["mail"]
+        }
+    }, {
+        "properties": {
+            "name": "heart-outline"
+        },
+        "icon": {
+            "tags": ["heart-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "flash-outline"
+        },
+        "icon": {
+            "tags": ["flash-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "cancel-outline"
+        },
+        "icon": {
+            "tags": ["cancel-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "beaker2"
+        },
+        "icon": {
+            "tags": ["beaker"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-move-outline"
+        },
+        "icon": {
+            "tags": ["arrow-move-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "watch2"
+        },
+        "icon": {
+            "tags": ["watch"]
+        }
+    }, {
+        "properties": {
+            "name": "warning-outline"
+        },
+        "icon": {
+            "tags": ["warning-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "time"
+        },
+        "icon": {
+            "tags": ["time"]
+        }
+    }, {
+        "properties": {
+            "name": "radar-outline"
+        },
+        "icon": {
+            "tags": ["radar-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "lock-open-outline"
+        },
+        "icon": {
+            "tags": ["lock-open-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "location-arrow-outline"
+        },
+        "icon": {
+            "tags": ["location-arrow-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "info-outline"
+        },
+        "icon": {
+            "tags": ["info-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "backspace-outline"
+        },
+        "icon": {
+            "tags": ["backspace-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "attachment-outline"
+        },
+        "icon": {
+            "tags": ["attachment-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "user-outline"
+        },
+        "icon": {
+            "tags": ["user-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "user-delete-outline"
+        },
+        "icon": {
+            "tags": ["user-delete-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "user-add-outline"
+        },
+        "icon": {
+            "tags": ["user-add-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "lock-closed-outline"
+        },
+        "icon": {
+            "tags": ["lock-closed-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "group-outline"
+        },
+        "icon": {
+            "tags": ["group-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "chart-pie-outline"
+        },
+        "icon": {
+            "tags": ["chart-pie-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "chart-line-outline"
+        },
+        "icon": {
+            "tags": ["chart-line-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "chart-bar-outline"
+        },
+        "icon": {
+            "tags": ["chart-bar-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "chart-area-outline"
+        },
+        "icon": {
+            "tags": ["chart-area-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "video-outline"
+        },
+        "icon": {
+            "tags": ["video-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "point-of-interest-outline"
+        },
+        "icon": {
+            "tags": ["point-of-interest-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "map4"
+        },
+        "icon": {
+            "tags": ["map"]
+        }
+    }, {
+        "properties": {
+            "name": "key-outline"
+        },
+        "icon": {
+            "tags": ["key-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "infinity-outline"
+        },
+        "icon": {
+            "tags": ["infinity-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "globe-outline"
+        },
+        "icon": {
+            "tags": ["globe-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "eye-outline"
+        },
+        "icon": {
+            "tags": ["eye-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "cog-outline"
+        },
+        "icon": {
+            "tags": ["cog-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "camera-outline"
+        },
+        "icon": {
+            "tags": ["camera-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "upload-outline"
+        },
+        "icon": {
+            "tags": ["upload-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "support"
+        },
+        "icon": {
+            "tags": ["support"]
+        }
+    }, {
+        "properties": {
+            "name": "scissors-outline"
+        },
+        "icon": {
+            "tags": ["scissors-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "refresh-outline"
+        },
+        "icon": {
+            "tags": ["refresh-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "info-large-outline"
+        },
+        "icon": {
+            "tags": ["info-large-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "eject-outline"
+        },
+        "icon": {
+            "tags": ["eject-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "download-outline"
+        },
+        "icon": {
+            "tags": ["download-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "battery-mid"
+        },
+        "icon": {
+            "tags": ["battery-mid"]
+        }
+    }, {
+        "properties": {
+            "name": "battery-low"
+        },
+        "icon": {
+            "tags": ["battery-low"]
+        }
+    }, {
+        "properties": {
+            "name": "battery-high"
+        },
+        "icon": {
+            "tags": ["battery-high"]
+        }
+    }, {
+        "properties": {
+            "name": "zoom-outline"
+        },
+        "icon": {
+            "tags": ["zoom-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "zoom-out-outline"
+        },
+        "icon": {
+            "tags": ["zoom-out-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "zoom-in-outline"
+        },
+        "icon": {
+            "tags": ["zoom-in-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "tag3"
+        },
+        "icon": {
+            "tags": ["tag"]
+        }
+    }, {
+        "properties": {
+            "name": "tabs-outline"
+        },
+        "icon": {
+            "tags": ["tabs-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "pin-outline"
+        },
+        "icon": {
+            "tags": ["pin-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "message-typing"
+        },
+        "icon": {
+            "tags": ["message-typing"]
+        }
+    }, {
+        "properties": {
+            "name": "directions"
+        },
+        "icon": {
+            "tags": ["directions"]
+        }
+    }, {
+        "properties": {
+            "name": "battery-full"
+        },
+        "icon": {
+            "tags": ["battery-full"]
+        }
+    }, {
+        "properties": {
+            "name": "battery-charge"
+        },
+        "icon": {
+            "tags": ["battery-charge"]
+        }
+    }, {
+        "properties": {
+            "name": "pipette"
+        },
+        "icon": {
+            "tags": ["pipette"]
+        }
+    }, {
+        "properties": {
+            "name": "pencil3"
+        },
+        "icon": {
+            "tags": ["pencil"]
+        }
+    }, {
+        "properties": {
+            "name": "folder3"
+        },
+        "icon": {
+            "tags": ["folder"]
+        }
+    }, {
+        "properties": {
+            "name": "folder-delete"
+        },
+        "icon": {
+            "tags": ["folder-delete"]
+        }
+    }, {
+        "properties": {
+            "name": "folder-add"
+        },
+        "icon": {
+            "tags": ["folder-add"]
+        }
+    }, {
+        "properties": {
+            "name": "edit3"
+        },
+        "icon": {
+            "tags": ["edit"]
+        }
+    }, {
+        "properties": {
+            "name": "document2"
+        },
+        "icon": {
+            "tags": ["document"]
+        }
+    }, {
+        "properties": {
+            "name": "document-delete"
+        },
+        "icon": {
+            "tags": ["document-delete"]
+        }
+    }, {
+        "properties": {
+            "name": "document-add"
+        },
+        "icon": {
+            "tags": ["document-add"]
+        }
+    }, {
+        "properties": {
+            "name": "brush"
+        },
+        "icon": {
+            "tags": ["brush"]
+        }
+    }, {
+        "properties": {
+            "name": "thumbs-up2"
+        },
+        "icon": {
+            "tags": ["thumbs-up"]
+        }
+    }, {
+        "properties": {
+            "name": "thumbs-down2"
+        },
+        "icon": {
+            "tags": ["thumbs-down"]
+        }
+    }, {
+        "properties": {
+            "name": "pen"
+        },
+        "icon": {
+            "tags": ["pen"]
+        }
+    }, {
+        "properties": {
+            "name": "sort-numerically-outline"
+        },
+        "icon": {
+            "tags": ["sort-numerically-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "sort-alphabetically-outline"
+        },
+        "icon": {
+            "tags": ["sort-alphabetically-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "social-last-fm-circular"
+        },
+        "icon": {
+            "tags": ["social-last-fm-circular"]
+        }
+    }, {
+        "properties": {
+            "name": "social-github-circular"
+        },
+        "icon": {
+            "tags": ["social-github-circular"]
+        }
+    }, {
+        "properties": {
+            "name": "compass3"
+        },
+        "icon": {
+            "tags": ["compass"]
+        }
+    }, {
+        "properties": {
+            "name": "bookmark2"
+        },
+        "icon": {
+            "tags": ["bookmark"]
+        }
+    }, {
+        "properties": {
+            "name": "input-checked-outline"
+        },
+        "icon": {
+            "tags": ["input-checked-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "code-outline"
+        },
+        "icon": {
+            "tags": ["code-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "calender-outline"
+        },
+        "icon": {
+            "tags": ["calender-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "business-card"
+        },
+        "icon": {
+            "tags": ["business-card"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-up3"
+        },
+        "icon": {
+            "tags": ["arrow-up"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-sync-outline"
+        },
+        "icon": {
+            "tags": ["arrow-sync-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-right3"
+        },
+        "icon": {
+            "tags": ["arrow-right"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-repeat-outline"
+        },
+        "icon": {
+            "tags": ["arrow-repeat-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-loop-outline"
+        },
+        "icon": {
+            "tags": ["arrow-loop-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-left3"
+        },
+        "icon": {
+            "tags": ["arrow-left"]
+        }
+    }, {
+        "properties": {
+            "name": "flow-switch"
+        },
+        "icon": {
+            "tags": ["flow-switch"]
+        }
+    }, {
+        "properties": {
+            "name": "flow-parallel"
+        },
+        "icon": {
+            "tags": ["flow-parallel"]
+        }
+    }, {
+        "properties": {
+            "name": "flow-merge"
+        },
+        "icon": {
+            "tags": ["flow-merge"]
+        }
+    }, {
+        "properties": {
+            "name": "document-text"
+        },
+        "icon": {
+            "tags": ["document-text"]
+        }
+    }, {
+        "properties": {
+            "name": "clipboard4"
+        },
+        "icon": {
+            "tags": ["clipboard"]
+        }
+    }, {
+        "properties": {
+            "name": "calculator2"
+        },
+        "icon": {
+            "tags": ["calculator"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-minimise-outline"
+        },
+        "icon": {
+            "tags": ["arrow-minimise-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-maximise-outline"
+        },
+        "icon": {
+            "tags": ["arrow-maximise-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "arrow-down3"
+        },
+        "icon": {
+            "tags": ["arrow-down"]
+        }
+    }, {
+        "properties": {
+            "name": "gift3"
+        },
+        "icon": {
+            "tags": ["gift"]
+        }
+    }, {
+        "properties": {
+            "name": "film2"
+        },
+        "icon": {
+            "tags": ["film"]
+        }
+    }, {
+        "properties": {
+            "name": "database2"
+        },
+        "icon": {
+            "tags": ["database"]
+        }
+    }, {
+        "properties": {
+            "name": "bell3"
+        },
+        "icon": {
+            "tags": ["bell"]
+        }
+    }, {
+        "properties": {
+            "name": "anchor-outline"
+        },
+        "icon": {
+            "tags": ["anchor-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "adjust-contrast"
+        },
+        "icon": {
+            "tags": ["adjust-contrast"]
+        }
+    }, {
+        "properties": {
+            "name": "world-outline"
+        },
+        "icon": {
+            "tags": ["world-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "shopping-bag"
+        },
+        "icon": {
+            "tags": ["shopping-bag"]
+        }
+    }, {
+        "properties": {
+            "name": "power-outline"
+        },
+        "icon": {
+            "tags": ["power-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "notes-outline"
+        },
+        "icon": {
+            "tags": ["notes-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "device-tablet"
+        },
+        "icon": {
+            "tags": ["device-tablet"]
+        }
+    }, {
+        "properties": {
+            "name": "device-phone"
+        },
+        "icon": {
+            "tags": ["device-phone"]
+        }
+    }, {
+        "properties": {
+            "name": "device-laptop"
+        },
+        "icon": {
+            "tags": ["device-laptop"]
+        }
+    }, {
+        "properties": {
+            "name": "device-desktop"
+        },
+        "icon": {
+            "tags": ["device-desktop"]
+        }
+    }, {
+        "properties": {
+            "name": "briefcase4"
+        },
+        "icon": {
+            "tags": ["briefcase"]
+        }
+    }, {
+        "properties": {
+            "name": "stopwatch"
+        },
+        "icon": {
+            "tags": ["stopwatch"]
+        }
+    }, {
+        "properties": {
+            "name": "spanner-outline"
+        },
+        "icon": {
+            "tags": ["spanner-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "puzzle-outline"
+        },
+        "icon": {
+            "tags": ["puzzle-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "printer2"
+        },
+        "icon": {
+            "tags": ["printer"]
+        }
+    }, {
+        "properties": {
+            "name": "pi-outline"
+        },
+        "icon": {
+            "tags": ["pi-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "lightbulb2"
+        },
+        "icon": {
+            "tags": ["lightbulb"]
+        }
+    }, {
+        "properties": {
+            "name": "flag-outline"
+        },
+        "icon": {
+            "tags": ["flag-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "contacts"
+        },
+        "icon": {
+            "tags": ["contacts"]
+        }
+    }, {
+        "properties": {
+            "name": "archive3"
+        },
+        "icon": {
+            "tags": ["archive"]
+        }
+    }, {
+        "properties": {
+            "name": "weather-stormy"
+        },
+        "icon": {
+            "tags": ["weather-stormy"]
+        }
+    }, {
+        "properties": {
+            "name": "weather-shower"
+        },
+        "icon": {
+            "tags": ["weather-shower"]
+        }
+    }, {
+        "properties": {
+            "name": "weather-partly-sunny"
+        },
+        "icon": {
+            "tags": ["weather-partly-sunny"]
+        }
+    }, {
+        "properties": {
+            "name": "weather-downpour"
+        },
+        "icon": {
+            "tags": ["weather-downpour"]
+        }
+    }, {
+        "properties": {
+            "name": "weather-cloudy"
+        },
+        "icon": {
+            "tags": ["weather-cloudy"]
+        }
+    }, {
+        "properties": {
+            "name": "plane-outline"
+        },
+        "icon": {
+            "tags": ["plane-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "phone-outline"
+        },
+        "icon": {
+            "tags": ["phone-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "microphone-outline"
+        },
+        "icon": {
+            "tags": ["microphone-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "weather-windy"
+        },
+        "icon": {
+            "tags": ["weather-windy"]
+        }
+    }, {
+        "properties": {
+            "name": "weather-windy-cloudy"
+        },
+        "icon": {
+            "tags": ["weather-windy-cloudy"]
+        }
+    }, {
+        "properties": {
+            "name": "weather-sunny"
+        },
+        "icon": {
+            "tags": ["weather-sunny"]
+        }
+    }, {
+        "properties": {
+            "name": "weather-snow"
+        },
+        "icon": {
+            "tags": ["weather-snow"]
+        }
+    }, {
+        "properties": {
+            "name": "weather-night"
+        },
+        "icon": {
+            "tags": ["weather-night"]
+        }
+    }, {
+        "properties": {
+            "name": "media-stop-outline"
+        },
+        "icon": {
+            "tags": ["media-stop-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "media-rewind-outline"
+        },
+        "icon": {
+            "tags": ["media-rewind-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "media-record-outline"
+        },
+        "icon": {
+            "tags": ["media-record-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "media-play-outline"
+        },
+        "icon": {
+            "tags": ["media-play-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "media-fast-forward-outline"
+        },
+        "icon": {
+            "tags": ["media-fast-forward-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "media-eject-outline"
+        },
+        "icon": {
+            "tags": ["media-eject-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "wine2"
+        },
+        "icon": {
+            "tags": ["wine"]
+        }
+    }, {
+        "properties": {
+            "name": "waves-outline"
+        },
+        "icon": {
+            "tags": ["waves-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "ticket2"
+        },
+        "icon": {
+            "tags": ["ticket"]
+        }
+    }, {
+        "properties": {
+            "name": "tags2"
+        },
+        "icon": {
+            "tags": ["tags"]
+        }
+    }, {
+        "properties": {
+            "name": "plug2"
+        },
+        "icon": {
+            "tags": ["plug"]
+        }
+    }, {
+        "properties": {
+            "name": "headphones2"
+        },
+        "icon": {
+            "tags": ["headphones"]
+        }
+    }, {
+        "properties": {
+            "name": "credit-card2"
+        },
+        "icon": {
+            "tags": ["credit-card"]
+        }
+    }, {
+        "properties": {
+            "name": "coffee2"
+        },
+        "icon": {
+            "tags": ["coffee"]
+        }
+    }, {
+        "properties": {
+            "name": "book3"
+        },
+        "icon": {
+            "tags": ["book"]
+        }
+    }, {
+        "properties": {
+            "name": "beer2"
+        },
+        "icon": {
+            "tags": ["beer"]
+        }
+    }, {
+        "properties": {
+            "name": "volume2"
+        },
+        "icon": {
+            "tags": ["volume"]
+        }
+    }, {
+        "properties": {
+            "name": "volume-up2"
+        },
+        "icon": {
+            "tags": ["volume-up"]
+        }
+    }, {
+        "properties": {
+            "name": "volume-mute"
+        },
+        "icon": {
+            "tags": ["volume-mute"]
+        }
+    }, {
+        "properties": {
+            "name": "volume-down2"
+        },
+        "icon": {
+            "tags": ["volume-down"]
+        }
+    }, {
+        "properties": {
+            "name": "social-vimeo-circular"
+        },
+        "icon": {
+            "tags": ["social-vimeo-circular"]
+        }
+    }, {
+        "properties": {
+            "name": "social-twitter-circular"
+        },
+        "icon": {
+            "tags": ["social-twitter-circular"]
+        }
+    }, {
+        "properties": {
+            "name": "social-pinterest-circular"
+        },
+        "icon": {
+            "tags": ["social-pinterest-circular"]
+        }
+    }, {
+        "properties": {
+            "name": "social-linkedin-circular"
+        },
+        "icon": {
+            "tags": ["social-linkedin-circular"]
+        }
+    }, {
+        "properties": {
+            "name": "social-facebook-circular"
+        },
+        "icon": {
+            "tags": ["social-facebook-circular"]
+        }
+    }, {
+        "properties": {
+            "name": "social-dribbble-circular"
+        },
+        "icon": {
+            "tags": ["social-dribbble-circular"]
+        }
+    }, {
+        "properties": {
+            "name": "tree2"
+        },
+        "icon": {
+            "tags": ["tree"]
+        }
+    }, {
+        "properties": {
+            "name": "thermometer2"
+        },
+        "icon": {
+            "tags": ["thermometer"]
+        }
+    }, {
+        "properties": {
+            "name": "social-tumbler-circular"
+        },
+        "icon": {
+            "tags": ["social-tumbler-circular"]
+        }
+    }, {
+        "properties": {
+            "name": "social-skype-outline"
+        },
+        "icon": {
+            "tags": ["social-skype-outline"]
+        }
+    }, {
+        "properties": {
+            "name": "social-flickr-circular"
+        },
+        "icon": {
+            "tags": ["social-flickr-circular"]
+        }
+    }, {
+        "properties": {
+            "name": "social-at-circular"
+        },
+        "icon": {
+            "tags": ["social-at-circular"]
+        }
+    }, {
+        "properties": {
+            "name": "shopping-cart2"
+        },
+        "icon": {
+            "tags": ["shopping-cart"]
+        }
+    }, {
+        "properties": {
+            "name": "messages"
+        },
+        "icon": {
+            "tags": ["messages"]
+        }
+    }, {
+        "properties": {
+            "name": "leaf2"
+        },
+        "icon": {
+            "tags": ["leaf"]
+        }
+    }, {
+        "properties": {
+            "name": "feather"
+        },
+        "icon": {
+            "tags": ["feather"]
+        }
+    }, {
+        "properties": {
+            "name": "mobile2"
+        },
+        "icon": {
+            "tags": ["mobile", "tablet", "phone", "device"]
+        }
+    }, {
+        "properties": {
+            "name": "laptop2"
+        },
+        "icon": {
+            "tags": ["laptop", "computer", "screen"]
+        }
+    }, {
+        "properties": {
+            "name": "desktop2"
+        },
+        "icon": {
+            "tags": ["desktop", "screen", "display", "computer"]
+        }
+    }, {
+        "properties": {
+            "name": "tablet2"
+        },
+        "icon": {
+            "tags": ["tablet", "screen", "mobile"]
+        }
+    }, {
+        "properties": {
+            "name": "phone2"
+        },
+        "icon": {
+            "tags": ["phone", "mobile", "contact", "telephone"]
+        }
+    }, {
+        "properties": {
+            "name": "document"
+        },
+        "icon": {
+            "tags": ["document", "file", "paper", "text"]
+        }
+    }, {
+        "properties": {
+            "name": "documents"
+        },
+        "icon": {
+            "tags": ["documents", "files", "papers"]
+        }
+    }, {
+        "properties": {
+            "name": "search2"
+        },
+        "icon": {
+            "tags": ["search", "lookup", "find", "magnifier"]
+        }
+    }, {
+        "properties": {
+            "name": "clipboard3"
+        },
+        "icon": {
+            "tags": ["clipboard", "paste", "board"]
+        }
+    }, {
+        "properties": {
+            "name": "newspaper"
+        },
+        "icon": {
+            "tags": ["newspaper", "paper"]
+        }
+    }, {
+        "properties": {
+            "name": "notebook"
+        },
+        "icon": {
+            "tags": ["notebook", "book"]
+        }
+    }, {
+        "properties": {
+            "name": "book-open"
+        },
+        "icon": {
+            "tags": ["book-open"]
+        }
+    }, {
+        "properties": {
+            "name": "browser"
+        },
+        "icon": {
+            "tags": ["browser", "window", "software", "program"]
+        }
+    }, {
+        "properties": {
+            "name": "calendar2"
+        },
+        "icon": {
+            "tags": ["calendar", "date", "schedule", "week"]
+        }
+    }, {
+        "properties": {
+            "name": "presentation"
+        },
+        "icon": {
+            "tags": ["presentation", "board"]
+        }
+    }, {
+        "properties": {
+            "name": "picture"
+        },
+        "icon": {
+            "tags": ["picture", "image", "photo"]
+        }
+    }, {
+        "properties": {
+            "name": "pictures"
+        },
+        "icon": {
+            "tags": ["pictures", "images", "photos"]
+        }
+    }, {
+        "properties": {
+            "name": "video3"
+        },
+        "icon": {
+            "tags": ["video", "movie", "film"]
+        }
+    }, {
+        "properties": {
+            "name": "camera2"
+        },
+        "icon": {
+            "tags": ["camera", "photo", "picture", "image"]
+        }
+    }, {
+        "properties": {
+            "name": "printer3"
+        },
+        "icon": {
+            "tags": ["printer"]
+        }
+    }, {
+        "properties": {
+            "name": "toolbox"
+        },
+        "icon": {
+            "tags": ["toolbox", "briefcase"]
+        }
+    }, {
+        "properties": {
+            "name": "briefcase2"
+        },
+        "icon": {
+            "tags": ["briefcase"]
+        }
+    }, {
+        "properties": {
+            "name": "wallet"
+        },
+        "icon": {
+            "tags": ["wallet", "money"]
+        }
+    }, {
+        "properties": {
+            "name": "gift2"
+        },
+        "icon": {
+            "tags": ["gift"]
+        }
+    }, {
+        "properties": {
+            "name": "bargraph"
+        },
+        "icon": {
+            "tags": ["bargraph", "bars", "graph", "chart", "stats", "statistics"]
+        }
+    }, {
+        "properties": {
+            "name": "grid2"
+        },
+        "icon": {
+            "tags": ["grid", "squares"]
+        }
+    }, {
+        "properties": {
+            "name": "expand2"
+        },
+        "icon": {
+            "tags": ["expand", "fullscreen", "enlarge"]
+        }
+    }, {
+        "properties": {
+            "name": "focus"
+        },
+        "icon": {
+            "tags": ["focus"]
+        }
+    }, {
+        "properties": {
+            "name": "edit2"
+        },
+        "icon": {
+            "tags": ["edit", "pencil", "write", "blog"]
+        }
+    }, {
+        "properties": {
+            "name": "adjustments"
+        },
+        "icon": {
+            "tags": ["adjustments", "settings", "options", "equalizer", "preferences"]
+        }
+    }, {
+        "properties": {
+            "name": "ribbon2"
+        },
+        "icon": {
+            "tags": ["ribbon", "bookmark"]
+        }
+    }, {
+        "properties": {
+            "name": "hourglass"
+        },
+        "icon": {
+            "tags": ["hourglass", "loading", "busy", "time"]
+        }
+    }, {
+        "properties": {
+            "name": "lock2"
+        },
+        "icon": {
+            "tags": ["lock", "security", "secure", "privacy", "encryption"]
+        }
+    }, {
+        "properties": {
+            "name": "megaphone"
+        },
+        "icon": {
+            "tags": ["megaphone", "news", "announcements", "advertisement"]
+        }
+    }, {
+        "properties": {
+            "name": "shield2"
+        },
+        "icon": {
+            "tags": ["shield", "secure"]
+        }
+    }, {
+        "properties": {
+            "name": "trophy2"
+        },
+        "icon": {
+            "tags": ["trophy", "cup", "winner", "tournament", "race", "award"]
+        }
+    }, {
+        "properties": {
+            "name": "flag2"
+        },
+        "icon": {
+            "tags": ["flag", "report", "spam"]
+        }
+    }, {
+        "properties": {
+            "name": "map3"
+        },
+        "icon": {
+            "tags": ["map", "location"]
+        }
+    }, {
+        "properties": {
+            "name": "puzzle"
+        },
+        "icon": {
+            "tags": ["puzzle", "piece", "plugin", "extension", "game"]
+        }
+    }, {
+        "properties": {
+            "name": "basket"
+        },
+        "icon": {
+            "tags": ["basket", "cart", "checkout", "ecommerce"]
+        }
+    }, {
+        "properties": {
+            "name": "envelope2"
+        },
+        "icon": {
+            "tags": ["envelope", "mail", "email", "letter", "message"]
+        }
+    }, {
+        "properties": {
+            "name": "streetsign"
+        },
+        "icon": {
+            "tags": ["streetsign", "address", "direction"]
+        }
+    }, {
+        "properties": {
+            "name": "telescope"
+        },
+        "icon": {
+            "tags": ["telescope", "astronomy"]
+        }
+    }, {
+        "properties": {
+            "name": "gears2"
+        },
+        "icon": {
+            "tags": ["gears", "settings", "preferences"]
+        }
+    }, {
+        "properties": {
+            "name": "key2"
+        },
+        "icon": {
+            "tags": ["key", "password", "unlock", "access"]
+        }
+    }, {
+        "properties": {
+            "name": "paperclip2"
+        },
+        "icon": {
+            "tags": ["paperclip", "attachment"]
+        }
+    }, {
+        "properties": {
+            "name": "attachment"
+        },
+        "icon": {
+            "tags": ["attachment", "chain", "link"]
+        }
+    }, {
+        "properties": {
+            "name": "pricetags"
+        },
+        "icon": {
+            "tags": ["pricetags", "tags", "prices", "shop", "ecommerce"]
+        }
+    }, {
+        "properties": {
+            "name": "lightbulb"
+        },
+        "icon": {
+            "tags": ["lightbulb", "light", "night", "idea", "thought"]
+        }
+    }, {
+        "properties": {
+            "name": "layers2"
+        },
+        "icon": {
+            "tags": ["layers", "stack", "planes", "manage"]
+        }
+    }, {
+        "properties": {
+            "name": "pencil2"
+        },
+        "icon": {
+            "tags": ["pencil", "edit", "blog", "write"]
+        }
+    }, {
+        "properties": {
+            "name": "tools"
+        },
+        "icon": {
+            "tags": ["tools", "measure", "design", "ruler", "pencil"]
+        }
+    }, {
+        "properties": {
+            "name": "tools-2"
+        },
+        "icon": {
+            "tags": ["tools-2", "wrench", "screwdriver"]
+        }
+    }, {
+        "properties": {
+            "name": "scissors3"
+        },
+        "icon": {
+            "tags": ["scissors", "cut", "blade"]
+        }
+    }, {
+        "properties": {
+            "name": "paintbrush"
+        },
+        "icon": {
+            "tags": ["paintbrush", "color", "fill", "brush"]
+        }
+    }, {
+        "properties": {
+            "name": "magnifying-glass"
+        },
+        "icon": {
+            "tags": ["magnifying-glass", "search", "glass", "magnifier", "lookup"]
+        }
+    }, {
+        "properties": {
+            "name": "circle-compass"
+        },
+        "icon": {
+            "tags": ["circle-compass", "distance"]
+        }
+    }, {
+        "properties": {
+            "name": "linegraph"
+        },
+        "icon": {
+            "tags": ["linegraph", "graph", "statistics"]
+        }
+    }, {
+        "properties": {
+            "name": "mic"
+        },
+        "icon": {
+            "tags": ["mic", "microphone", "record", "voice", "audio"]
+        }
+    }, {
+        "properties": {
+            "name": "strategy"
+        },
+        "icon": {
+            "tags": ["strategy", "horse", "chess", "piece"]
+        }
+    }, {
+        "properties": {
+            "name": "beaker"
+        },
+        "icon": {
+            "tags": ["beaker", "laboratory", "test", "beta", "experiment"]
+        }
+    }, {
+        "properties": {
+            "name": "caution"
+        },
+        "icon": {
+            "tags": ["caution", "warning", "exclamation", "note", "notice"]
+        }
+    }, {
+        "properties": {
+            "name": "recycle2"
+        },
+        "icon": {
+            "tags": ["recycle", "arrows"]
+        }
+    }, {
+        "properties": {
+            "name": "anchor2"
+        },
+        "icon": {
+            "tags": ["anchor", "link", "attach"]
+        }
+    }, {
+        "properties": {
+            "name": "profile-male"
+        },
+        "icon": {
+            "tags": ["profile-male", "persona", "profile", "male", "user", "avatar"]
+        }
+    }, {
+        "properties": {
+            "name": "profile-female"
+        },
+        "icon": {
+            "tags": ["profile-female", "female", "woman", "user", "profile", "avatar"]
+        }
+    }, {
+        "properties": {
+            "name": "bike"
+        },
+        "icon": {
+            "tags": ["bike", "bicycle", "ride"]
+        }
+    }, {
+        "properties": {
+            "name": "wine"
+        },
+        "icon": {
+            "tags": ["wine", "glass", "drink"]
+        }
+    }, {
+        "properties": {
+            "name": "hotairballoon"
+        },
+        "icon": {
+            "tags": ["hotairballoon", "balloon", "flight", "air"]
+        }
+    }, {
+        "properties": {
+            "name": "globe2"
+        },
+        "icon": {
+            "tags": ["globe", "earth"]
+        }
+    }, {
+        "properties": {
+            "name": "genius"
+        },
+        "icon": {
+            "tags": ["genius", "atom", "nuclear"]
+        }
+    }, {
+        "properties": {
+            "name": "map-pin"
+        },
+        "icon": {
+            "tags": ["map-pin", "pin", "location"]
+        }
+    }, {
+        "properties": {
+            "name": "dial"
+        },
+        "icon": {
+            "tags": ["dial"]
+        }
+    }, {
+        "properties": {
+            "name": "chat"
+        },
+        "icon": {
+            "tags": ["chat", "bubbles", "talk", "message", "conversation"]
+        }
+    }, {
+        "properties": {
+            "name": "heart2"
+        },
+        "icon": {
+            "tags": ["heart", "love", "like", "favorite"]
+        }
+    }, {
+        "properties": {
+            "name": "cloud2"
+        },
+        "icon": {
+            "tags": ["cloud", "weather"]
+        }
+    }, {
+        "properties": {
+            "name": "upload2"
+        },
+        "icon": {
+            "tags": ["upload", "save"]
+        }
+    }, {
+        "properties": {
+            "name": "download2"
+        },
+        "icon": {
+            "tags": ["download", "load"]
+        }
+    }, {
+        "properties": {
+            "name": "target2"
+        },
+        "icon": {
+            "tags": ["target", "goal"]
+        }
+    }, {
+        "properties": {
+            "name": "hazardous"
+        },
+        "icon": {
+            "tags": ["hazardous", "dangerous"]
+        }
+    }, {
+        "properties": {
+            "name": "piechart"
+        },
+        "icon": {
+            "tags": ["piechart", "chart", "statistic"]
+        }
+    }, {
+        "properties": {
+            "name": "speedometer"
+        },
+        "icon": {
+            "tags": ["speedometer", "meter", "gauge", "measurement"]
+        }
+    }, {
+        "properties": {
+            "name": "global"
+        },
+        "icon": {
+            "tags": ["global", "sphere"]
+        }
+    }, {
+        "properties": {
+            "name": "compass2"
+        },
+        "icon": {
+            "tags": ["compass", "direction", "guide"]
+        }
+    }, {
+        "properties": {
+            "name": "lifesaver"
+        },
+        "icon": {
+            "tags": ["lifesaver", "lifebuoy"]
+        }
+    }, {
+        "properties": {
+            "name": "clock2"
+        },
+        "icon": {
+            "tags": ["clock", "time", "schedule"]
+        }
+    }, {
+        "properties": {
+            "name": "aperture"
+        },
+        "icon": {
+            "tags": ["aperture", "diaphragm"]
+        }
+    }, {
+        "properties": {
+            "name": "quote"
+        },
+        "icon": {
+            "tags": ["quote"]
+        }
+    }, {
+        "properties": {
+            "name": "scope"
+        },
+        "icon": {
+            "tags": ["scope", "target"]
+        }
+    }, {
+        "properties": {
+            "name": "alarmclock"
+        },
+        "icon": {
+            "tags": ["alarmclock", "clock"]
+        }
+    }, {
+        "properties": {
+            "name": "refresh2"
+        },
+        "icon": {
+            "tags": ["refresh", "sync", "reload", "loading"]
+        }
+    }, {
+        "properties": {
+            "name": "happy"
+        },
+        "icon": {
+            "tags": ["happy", "smiley", "emoticon"]
+        }
+    }, {
+        "properties": {
+            "name": "sad"
+        },
+        "icon": {
+            "tags": ["sad", "upset", "smiley", "emoticon"]
+        }
+    }, {
+        "properties": {
+            "name": "facebook2"
+        },
+        "icon": {
+            "tags": ["facebook", "social"]
+        }
+    }, {
+        "properties": {
+            "name": "twitter2"
+        },
+        "icon": {
+            "tags": ["twitter", "social"]
+        }
+    }, {
+        "properties": {
+            "name": "googleplus"
+        },
+        "icon": {
+            "tags": ["googleplus", "social"]
+        }
+    }, {
+        "properties": {
+            "name": "rss2"
+        },
+        "icon": {
+            "tags": ["rss", "feed", "atom"]
+        }
+    }, {
+        "properties": {
+            "name": "tumblr2"
+        },
+        "icon": {
+            "tags": ["tumblr", "social"]
+        }
+    }, {
+        "properties": {
+            "name": "linkedin2"
+        },
+        "icon": {
+            "tags": ["linkedin", "social"]
+        }
+    }, {
+        "properties": {
+            "name": "dribbble2"
+        },
+        "icon": {
+            "tags": ["dribbble", "social"]
+        }
+    }],
+    "height": 1024,
+    "metadata": {
+        "name": "uncode-icons"
+    },
+    "preferences": {
+        "showGlyphs": true,
+        "showQuickUse": true,
+        "fontPref": {
+            "prefix": "fa-",
+            "metadata": {
+                "fontFamily": "uncode-icons",
+                "majorVersion": 1,
+                "minorVersion": 0
+            },
+            "metrics": {
+                "emSize": 512,
+                "baseline": 6.25,
+                "whitespace": 50
+            },
+            "showMetrics": true,
+            "showMetadata": false,
+            "showVersion": false,
+            "showSelector": true,
+            "selector": "",
+            "classSelector": ".icon",
+            "includeMetadata": false,
+            "resetPoint": 58880,
+            "embed": false
+        },
+        "imagePref": {
+            "prefix": "icon-"
+        },
+        "historySize": 100,
+        "showCodes": true,
+        "search": "",
+        "gridSize": 16,
+        "showSVGs": true,
+        "showQuickUse2": true,
+        "showGrid": true
+    }
+}

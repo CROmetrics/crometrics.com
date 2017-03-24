@@ -1,0 +1,6186 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Uncode\n"
+"POT-Creation-Date: 2016-04-12 23:21+0200\n"
+"PO-Revision-Date: 2015-11-10 22:17+0100\n"
+"Last-Translator: Undsgn Team <info@undsgn.com>\n"
+"Language-Team: Undsgn <info@undsgn.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:66
+msgid "Opps! Something went wrong…"
+msgstr ""
+
+#: 404.php:67
+msgid "Page not found. Please continue to our"
+msgstr ""
+
+#: 404.php:67
+msgid "home page"
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgctxt "comments"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35 comments.php:55
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:37 comments.php:57
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:38 comments.php:58
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:76
+msgid "Log out"
+msgstr ""
+
+#: comments.php:77
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: comments.php:83
+msgid "Add comment"
+msgstr ""
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content.php:48
+msgid "Please active Uncode Core plugin to version > 1.0.5"
+msgstr ""
+
+#: core/font-system/font-system.php:124
+msgid "Your kits: "
+msgstr ""
+
+#: core/font-system/font-system.php:176
+msgid "No kits found for the API key you provided."
+msgstr ""
+
+#: core/font-system/font-system.php:190
+msgid "No kits ID inserted."
+msgstr ""
+
+#: core/font-system/font-system.php:573
+#, php-format
+msgid "The following fonts were found for project %1$s:"
+msgstr ""
+
+#: core/font-system/font-system.php:594
+#, php-format
+msgid ""
+"No fonts found for project %1$s on %2$s. Make sure your project id is "
+"correct and this domain is added to it in your Fontdeck account."
+msgstr ""
+
+#: core/font-system/font-system.php:958
+#, php-format
+msgid "Sorry, there was an error accessing %1$s"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:32
+msgid "Welcome to "
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:35
+#, php-format
+msgid ""
+"%s is up and running! Check that all the requirements below are fulfilled "
+"and labeled in green.<br>Enjoy and free your imagination with %s!"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:39
+msgid "System Status"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:40
+#: core/one-click-demo/importer/radium-importer.php:87
+msgid "Install Demo"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:41
+#: core/theme-options/assets/theme-mode/functions.php:73
+#: core/theme-options/includes/ot-functions-admin.php:50
+#: core/theme-options/includes/ot-functions-admin.php:51
+#: core/theme-options/includes/ot-functions-admin.php:169
+#: core/theme-options/includes/ot-functions-admin.php:193
+#: core/theme-options/includes/ot-functions.php:363
+msgid "Theme Options"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:42
+msgid "Option Tools"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:43
+msgid "Install Fonts"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:44
+msgid "Font Sources"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:45
+#: core/theme-options/includes/ot-functions-admin.php:214
+#: core/theme-options/includes/ot-functions-admin.php:215
+msgid "Documentation"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:51
+msgid "WordPress Environment"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:56
+msgid "Frontend stylesheet"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:57 core/inc/admin-pages/welcome.php:79
+msgid ""
+"Uncode is generating a stylesheet when the options are saved. The file must "
+"be writtable."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:70 core/inc/admin-pages/welcome.php:86
+#, php-format
+msgid "To allow the correct style to work, make <code>%s</code> writable."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:73 core/inc/admin-pages/welcome.php:89
+#, php-format
+msgid ""
+"WordPress doesn't have direct access to this file <code>%s</code> due to a "
+"confict in the Uncode folder permission or your configuration of WordPress "
+"file access is not the direct method. The custom css will be output inline."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:78
+msgid "Backend stylesheet"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:94
+msgid "WP Version"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:95
+msgid "The version of WordPress installed on your site."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:99
+msgid "WP Multisite"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:100
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:104
+msgid "WP Memory Limit"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:105
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:110
+#, php-format
+msgid ""
+"%s - We recommend setting memory to at least 64MB. See: <a href=\"%s\" "
+"target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:117
+msgid "Server Memory Limit"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:118
+msgid ""
+"This is actually the real memory available for your installation despite the "
+"WP memory limit."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:120
+msgid "Calculating…"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:122
+msgid ""
+"You only have %d% MB available and it's not enough to run the system. If you "
+"have already increased the memory limit please check with your hosting "
+"provider for increase it (at least 64MB is required)."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:126
+msgid "WP Debug Mode"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:127
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:131
+msgid "Language"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:132
+msgid "The current language used by WordPress. Default = English"
+msgstr ""
+
+#: core/inc/admin.php:10
+msgid "Welcome"
+msgstr ""
+
+#: core/inc/admin.php:86 core/theme-options/assets/theme-mode/functions.php:312
+#: core/theme-options/assets/theme-mode/functions.php:391
+#: core/theme-options/includes/ot-functions-option-types.php:241
+#: core/theme-options/includes/ot-functions-option-types.php:3258
+msgid "Add Media"
+msgstr ""
+
+#: core/inc/admin.php:87
+msgid "Add Medias"
+msgstr ""
+
+#: core/inc/admin.php:88
+msgid "Media selection"
+msgstr ""
+
+#: core/inc/admin.php:89
+msgid "Medias selection"
+msgstr ""
+
+#: core/inc/admin.php:90
+msgid "All medias"
+msgstr ""
+
+#: core/inc/admin.php:102
+#: core/theme-options/includes/ot-functions-option-types.php:2408
+msgid "Vimeo"
+msgstr ""
+
+#: core/inc/admin.php:102
+msgid "Manage Vimeos"
+msgstr ""
+
+#: core/inc/admin.php:102
+#, php-format
+msgid "Vimeo <span class=\"count\">(%s)</span>"
+msgid_plural "Vimeos <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/inc/admin.php:103
+#: core/theme-options/includes/ot-functions-option-types.php:2363
+msgid "Youtube"
+msgstr ""
+
+#: core/inc/admin.php:103
+msgid "Manage Youtubes"
+msgstr ""
+
+#: core/inc/admin.php:103
+#, php-format
+msgid "Youtube <span class=\"count\">(%s)</span>"
+msgid_plural "Youtubes <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/inc/admin.php:104
+msgid "Soundcloud"
+msgstr ""
+
+#: core/inc/admin.php:104
+msgid "Manage Soundclouds"
+msgstr ""
+
+#: core/inc/admin.php:104
+#, php-format
+msgid "Soundcloud <span class=\"count\">(%s)</span>"
+msgid_plural "Soundclouds <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/inc/admin.php:105
+msgid "Spotify"
+msgstr ""
+
+#: core/inc/admin.php:105
+msgid "Manage Spotifys"
+msgstr ""
+
+#: core/inc/admin.php:105
+#, php-format
+msgid "Spotify <span class=\"count\">(%s)</span>"
+msgid_plural "Spotifys <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/inc/admin.php:106
+#: core/theme-options/includes/ot-functions-option-types.php:2413
+msgid "Flickr"
+msgstr ""
+
+#: core/inc/admin.php:106
+msgid "Manage Flickrs"
+msgstr ""
+
+#: core/inc/admin.php:106
+#, php-format
+msgid "Flickr <span class=\"count\">(%s)</span>"
+msgid_plural "Flickrs <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/inc/admin.php:107
+msgid "Instagram"
+msgstr ""
+
+#: core/inc/admin.php:107
+msgid "Manage Instagrams"
+msgstr ""
+
+#: core/inc/admin.php:107
+#, php-format
+msgid "Instagram <span class=\"count\">(%s)</span>"
+msgid_plural "Instagrams <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/inc/admin.php:108
+msgid "SVG"
+msgstr ""
+
+#: core/inc/admin.php:108
+msgid "Manage SVGs"
+msgstr ""
+
+#: core/inc/admin.php:108
+#, php-format
+msgid "SVG <span class=\"count\">(%s)</span>"
+msgid_plural "SVGs <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/inc/admin.php:109
+msgid "HTML"
+msgstr ""
+
+#: core/inc/admin.php:109
+msgid "Manage HTMLs"
+msgstr ""
+
+#: core/inc/admin.php:109
+#, php-format
+msgid "HTML <span class=\"count\">(%s)</span>"
+msgid_plural "HTMLs <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/inc/admin.php:110
+msgid "iFrame"
+msgstr ""
+
+#: core/inc/admin.php:110
+msgid "Manage iFrames"
+msgstr ""
+
+#: core/inc/admin.php:110
+#, php-format
+msgid "iFrame <span class=\"count\">(%s)</span>"
+msgid_plural "iFrames <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/inc/admin.php:156
+msgid "Width"
+msgstr ""
+
+#: core/inc/admin.php:160
+#: core/theme-options/assets/theme-mode/meta-boxes.php:350
+#: core/theme-options/assets/theme-mode/theme-options.php:664
+msgid "Height"
+msgstr ""
+
+#: core/inc/admin.php:164
+msgid "Media Poster (Image ID)"
+msgstr ""
+
+#: core/inc/admin.php:172
+msgid "Loop?"
+msgstr ""
+
+#: core/inc/admin.php:178
+msgid "Autoplay?"
+msgstr ""
+
+#: core/inc/admin.php:184
+msgid "Alternative video source 1"
+msgstr ""
+
+#: core/inc/admin.php:188
+msgid "Alternative video source 2"
+msgstr ""
+
+#: core/inc/admin.php:196
+msgid "Animated?"
+msgstr ""
+
+#: core/inc/admin.php:205
+msgid "Animation time (default 100)"
+msgstr ""
+
+#: core/inc/admin.php:214
+msgid "ID"
+msgstr ""
+
+#: core/inc/admin.php:221
+msgid "Team member?"
+msgstr ""
+
+#: core/inc/admin.php:229
+msgid "Socials"
+msgstr ""
+
+#: core/inc/admin.php:243 core/inc/admin.php:298
+#: core/theme-options/includes/ot-functions-admin.php:846
+#: core/theme-options/includes/ot-functions-settings-page.php:170
+#: core/theme-options/ot-loader.php:785
+msgid "Send to OptionTree"
+msgstr ""
+
+#: core/inc/admin.php:244 core/inc/admin.php:299 core/inc/admin.php:338
+#: core/theme-options/assets/theme-mode/functions.php:327
+#: core/theme-options/assets/theme-mode/functions.php:410
+#: core/theme-options/includes/ot-functions-admin.php:847
+#: core/theme-options/includes/ot-functions-option-types.php:257
+#: core/theme-options/includes/ot-functions-option-types.php:3274
+msgid "Remove Media"
+msgstr ""
+
+#: core/inc/admin.php:250 core/inc/admin.php:305
+#: core/theme-options/assets/theme-mode/meta-boxes.php:760
+#: core/theme-options/assets/theme-mode/theme-options.php:501
+#: core/theme-options/assets/theme-mode/theme-options.php:841
+#: core/theme-options/assets/theme-mode/theme-options.php:2273
+#: core/theme-options/assets/theme-mode/theme-options.php:3744
+msgid "Select…"
+msgstr ""
+
+#: core/inc/admin.php:253 core/inc/admin.php:313
+msgid "Featured media"
+msgstr ""
+
+#: core/inc/admin.php:257 core/inc/admin.php:318
+msgid "Add media"
+msgstr ""
+
+#: core/inc/admin.php:260 core/inc/admin.php:342
+msgid "Select a media assigned to the category."
+msgstr ""
+
+#: core/inc/admin.php:263 core/inc/admin.php:346
+msgid "Color"
+msgstr ""
+
+#: core/inc/admin.php:271 core/inc/admin.php:356
+msgid "Select a color assigned to the category."
+msgstr ""
+
+#: core/inc/admin.php:468
+msgid ""
+"Visual Composer is not active for this post type. Please activate it inside "
+"\"Visual Composer > Role Manager\""
+msgstr ""
+
+#: core/inc/admin.php:471
+msgid ""
+"Visual Composer is not active. Please activate it inside \"Uncode > Install "
+"Plugins > Uncode Visual Composer\""
+msgstr ""
+
+#: core/inc/admin.php:484
+msgid "Select medias"
+msgstr ""
+
+#: core/inc/admin.php:485
+msgid "Remove All"
+msgstr ""
+
+#: core/inc/admin.php:499 core/inc/admin.php:500
+msgid "Post media display"
+msgstr ""
+
+#: core/inc/admin.php:504
+msgid "Carousel"
+msgstr ""
+
+#: core/inc/admin.php:505
+msgid "Stack"
+msgstr ""
+
+#: core/inc/admin.php:506
+msgid "Isotope"
+msgstr ""
+
+#: core/inc/admin.php:517
+msgid "Medias"
+msgstr ""
+
+#: core/inc/admin.php:790
+#, php-format
+msgid "The Adaptive Images system is using %1$s of the %2$s space left."
+msgstr ""
+
+#: core/inc/admin.php:1032
+msgid ""
+"In order to run Uncode you need first to deactivate WPBakery Visual Composer "
+"and install the Uncode Visual Composer."
+msgstr ""
+
+#: core/inc/admin.php:1033
+msgid "Deactivate WPBakery Visual Composer"
+msgstr ""
+
+#: core/inc/colors.php:9
+msgid "Accent"
+msgstr ""
+
+#: core/inc/customizer-woocommerce.php:116
+msgid "Subtotal:"
+msgstr ""
+
+#: core/inc/customizer-woocommerce.php:119 woocommerce/cart/mini-cart.php:84
+msgid "View Cart"
+msgstr ""
+
+#: core/inc/customizer-woocommerce.php:120 woocommerce/cart/mini-cart.php:85
+msgid "Checkout"
+msgstr ""
+
+#: core/inc/customizer-woocommerce.php:153
+msgid "Your cart is currently empty"
+msgstr ""
+
+#: core/inc/customizer-woocommerce.php:158
+#: core/inc/customizer-woocommerce.php:160
+msgid "Cart"
+msgstr ""
+
+#: core/inc/customizer-woocommerce.php:223
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: core/inc/customizer.php:79
+msgid "Like"
+msgstr ""
+
+#: core/inc/customizer.php:84
+msgid "Likes"
+msgstr ""
+
+#: core/inc/customizer.php:184 core/inc/customizer.php:211
+msgid "Recommend this"
+msgstr ""
+
+#: core/inc/customizer.php:196 core/inc/customizer.php:223
+msgid "You already recommended this"
+msgstr ""
+
+#: core/inc/customizer.php:310 core/inc/customizer.php:354
+msgid "Most recommended posts"
+msgstr ""
+
+#: core/inc/customizer.php:311
+msgid "Your site’s most liked posts."
+msgstr ""
+
+#: core/inc/customizer.php:359
+msgid "Title:"
+msgstr ""
+
+#: core/inc/customizer.php:363
+msgid "Number of posts to show:"
+msgstr ""
+
+#: core/inc/customizer.php:367
+msgid "Show post count"
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:84
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:88
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:94
+msgid "MEGAMENU TITLE"
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:95
+msgid "MEGAMENU"
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:95
+msgid "sub item"
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:120
+msgid "Move up"
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:133
+msgid "Move down"
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:135 core/inc/edit_custom_walker.php:137
+msgid "Edit Menu Item"
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:146
+msgid "URL"
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:153
+msgid "Navigation Label"
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:159
+msgid "Title Attribute"
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:166
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:171
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:177
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:183 core/inc/media-enhanced.php:336
+#: core/theme-options/includes/ot-functions-admin.php:3275
+#: core/theme-options/includes/ot-functions-admin.php:3326
+msgid "Description"
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:185
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:194
+msgid "Icon"
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:203
+msgid "Megamenu"
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:212
+msgid "Button style"
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:218
+msgid "Move"
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:219
+msgid "Up one"
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:220
+msgid "Down one"
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:223
+msgid "To the top"
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:230
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:243
+msgid "Remove"
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:244
+msgid "Cancel"
+msgstr ""
+
+#: core/inc/export/uncode_export.php:6
+msgid ""
+"You do not have sufficient permissions to export the content of this site."
+msgstr ""
+
+#: core/inc/export/uncode_export.php:11
+#: core/theme-options/includes/ot-functions-admin.php:141
+msgid "Export"
+msgstr ""
+
+#: core/inc/export/uncode_export.php:39
+msgid "Overview"
+msgstr ""
+
+#: core/inc/export/uncode_export.php:40
+msgid ""
+"You can export a file of your site&#8217;s content in order to import it "
+"into another installation or platform. The export file will be an XML file "
+"format called WXR. Posts, pages, comments, custom fields, categories, and "
+"tags can be included. You can choose for the WXR file to include only "
+"certain posts or pages by setting the dropdown filters to limit the export "
+"by category, author, date range by month, or publishing status."
+msgstr ""
+
+#: core/inc/export/uncode_export.php:41
+msgid ""
+"Once generated, your WXR file can be imported by another WordPress site or "
+"by another blogging platform able to access this format."
+msgstr ""
+
+#: core/inc/export/uncode_export.php:45
+msgid "For more information:"
+msgstr ""
+
+#: core/inc/export/uncode_export.php:46
+msgid "Documentation on Export"
+msgstr ""
+
+#: core/inc/export/uncode_export.php:47
+msgid "Support Forums"
+msgstr ""
+
+#: core/inc/export/uncode_export.php:83
+msgid ""
+"When you click the button below WordPress will create an XML file for you to "
+"save to your computer."
+msgstr ""
+
+#: core/inc/export/uncode_export.php:84
+msgid ""
+"This format, which we call WordPress eXtended RSS or WXR, will contain your "
+"posts, pages, comments, custom fields, categories, and tags."
+msgstr ""
+
+#: core/inc/export/uncode_export.php:85
+msgid ""
+"Once you&#8217;ve saved the download file, you can use the Import function "
+"in another WordPress installation to import the content from this site."
+msgstr ""
+
+#: core/inc/export/uncode_export.php:87
+msgid "Choose what to export"
+msgstr ""
+
+#: core/inc/export/uncode_export.php:91
+msgid "All content"
+msgstr ""
+
+#: core/inc/export/uncode_export.php:92
+msgid ""
+"This will contain all of your posts, pages, comments, custom fields, terms, "
+"navigation menus and custom posts."
+msgstr ""
+
+#: core/inc/export/uncode_export.php:94
+#: core/theme-options/assets/theme-mode/theme-options.php:1573
+msgid "Posts"
+msgstr ""
+
+#: core/inc/export/uncode_export.php:97
+msgid "Categories:"
+msgstr ""
+
+#: core/inc/export/uncode_export.php:98 core/inc/export/uncode_export.php:104
+#: core/inc/export/uncode_export.php:121 core/inc/export/uncode_export.php:136
+#: core/inc/export/uncode_export.php:153
+msgid "All"
+msgstr ""
+
+#: core/inc/export/uncode_export.php:101 core/inc/export/uncode_export.php:133
+msgid "Authors:"
+msgstr ""
+
+#: core/inc/export/uncode_export.php:108 core/inc/export/uncode_export.php:140
+msgid "Date range:"
+msgstr ""
+
+#: core/inc/export/uncode_export.php:110 core/inc/export/uncode_export.php:142
+msgid "Start Date"
+msgstr ""
+
+#: core/inc/export/uncode_export.php:114 core/inc/export/uncode_export.php:146
+msgid "End Date"
+msgstr ""
+
+#: core/inc/export/uncode_export.php:119 core/inc/export/uncode_export.php:151
+msgid "Status:"
+msgstr ""
+
+#: core/inc/export/uncode_export.php:130
+#: core/theme-options/assets/theme-mode/theme-options.php:1577
+msgid "Pages"
+msgstr ""
+
+#: core/inc/export/uncode_export.php:174
+msgid "Download Export File"
+msgstr ""
+
+#: core/inc/helpers.php:169
+msgid "Minutes"
+msgstr ""
+
+#: core/inc/helpers.php:171
+msgid "Minute"
+msgstr ""
+
+#: core/inc/main.php:46
+msgid "Primary Menu"
+msgstr ""
+
+#: core/inc/main.php:47
+msgid "Secondary Menu"
+msgstr ""
+
+#: core/inc/main.php:113 core/inc/main.php:126
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: core/inc/main.php:124
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1253
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1337
+#: core/theme-options/assets/theme-mode/theme-options.php:1339
+#: core/theme-options/assets/theme-mode/theme-options.php:1357
+msgid "Sidebar"
+msgstr ""
+
+#: core/inc/main.php:244 vc_templates/uncode_countdown.php:38
+msgid "days"
+msgstr ""
+
+#: core/inc/main.php:245 vc_templates/uncode_countdown.php:38
+msgid "hours"
+msgstr ""
+
+#: core/inc/main.php:246 vc_templates/uncode_countdown.php:38
+msgid "minutes"
+msgstr ""
+
+#: core/inc/main.php:247 vc_templates/uncode_countdown.php:38
+msgid "seconds"
+msgstr ""
+
+#: core/inc/main.php:488
+msgid "Read more"
+msgstr ""
+
+#: core/inc/media-enhanced.php:4 core/inc/media-enhanced.php:292
+msgid "Add oEmbed, external IMG, SVG code, HTML or Shortcode"
+msgstr ""
+
+#: core/inc/media-enhanced.php:4
+msgid "Add Multimedia"
+msgstr ""
+
+#: core/inc/media-enhanced.php:292
+#: core/theme-options/includes/ot-functions-option-types.php:1553
+#: core/theme-options/includes/ot-functions-option-types.php:2302
+#: core/theme-options/includes/ot-functions-option-types.php:2467
+msgid "Add New"
+msgstr ""
+
+#: core/inc/media-enhanced.php:296
+msgid "Item added to library."
+msgstr ""
+
+#: core/inc/media-enhanced.php:300
+msgid "Item updated."
+msgstr ""
+
+#: core/inc/media-enhanced.php:302
+msgid "Fill all the required fields."
+msgstr ""
+
+#: core/inc/media-enhanced.php:310
+msgid "Enter title here*"
+msgstr ""
+
+#: core/inc/media-enhanced.php:318
+msgid "Permalink:"
+msgstr ""
+
+#: core/inc/media-enhanced.php:320
+msgid "View Post"
+msgstr ""
+
+#: core/inc/media-enhanced.php:326
+msgid "Insert from URL*"
+msgstr ""
+
+#: core/inc/media-enhanced.php:332
+msgid "Caption"
+msgstr ""
+
+#: core/inc/media-enhanced.php:361 core/inc/media-enhanced.php:367
+msgid "Publish"
+msgstr ""
+
+#: core/inc/media-enhanced.php:370
+msgid "Save"
+msgstr ""
+
+#: core/inc/media-enhanced.php:374
+#: core/plugins_activation/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: core/inc/template-tags.php:66
+msgid "Prev"
+msgstr ""
+
+#: core/inc/template-tags.php:67
+msgid "Next"
+msgstr ""
+
+#: core/inc/template-tags.php:144
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: core/inc/template-tags.php:149
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: core/inc/template-tags.php:166 core/inc/template-tags.php:172
+msgid ", "
+msgstr ""
+
+#: core/inc/template-tags.php:168
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: core/inc/template-tags.php:174
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: core/inc/template-tags.php:180
+msgid "Leave a comment"
+msgstr ""
+
+#: core/inc/template-tags.php:180
+msgid "1 Comment"
+msgstr ""
+
+#: core/inc/template-tags.php:180
+msgid "% Comments"
+msgstr ""
+
+#: core/inc/template-tags.php:184
+#: core/theme-options/assets/theme-mode/functions.php:480
+#: core/theme-options/assets/theme-mode/functions.php:481
+#: core/theme-options/includes/ot-functions-admin.php:4033
+#: core/theme-options/includes/ot-functions-admin.php:4101
+#: core/theme-options/includes/ot-functions-admin.php:4102
+#: core/theme-options/includes/ot-functions-admin.php:4264
+#: core/theme-options/includes/ot-functions-admin.php:4265
+#: core/theme-options/includes/ot-functions-admin.php:4330
+#: core/theme-options/includes/ot-functions-admin.php:4331
+#: core/theme-options/includes/ot-functions-admin.php:4458
+#: core/theme-options/includes/ot-functions-admin.php:4459
+#: core/theme-options/includes/ot-functions-admin.php:4611
+#: core/theme-options/includes/ot-functions-admin.php:4612
+msgid "Edit"
+msgstr ""
+
+#: core/inc/template-tags.php:205
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: core/inc/template-tags.php:207
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: core/inc/template-tags.php:207
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: core/inc/template-tags.php:209
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: core/inc/template-tags.php:209
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: core/inc/template-tags.php:211
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: core/inc/template-tags.php:211
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: core/inc/template-tags.php:214
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: core/inc/template-tags.php:216
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: core/inc/template-tags.php:218
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: core/inc/template-tags.php:220
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: core/inc/template-tags.php:222
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: core/inc/template-tags.php:224
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: core/inc/template-tags.php:226
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: core/inc/template-tags.php:228
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: core/inc/template-tags.php:230
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: core/inc/template-tags.php:233
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: core/inc/template-tags.php:239
+msgid "Archives"
+msgstr ""
+
+#: core/inc/uncode-comment-walker.php:55
+msgid "Edit this comment"
+msgstr ""
+
+#: core/inc/uncode-comment-walker.php:60
+msgid "Reply"
+msgstr ""
+
+#: core/one-click-demo/importer/parsers.php:42
+#: core/one-click-demo/importer/parsers.php:70
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: core/one-click-demo/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: core/one-click-demo/importer/parsers.php:74
+#: core/one-click-demo/importer/parsers.php:79
+#: core/one-click-demo/importer/parsers.php:281
+#: core/one-click-demo/importer/parsers.php:470
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:106
+msgid "Install demo content"
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:108
+msgid ""
+"Here you can import with one click all the content from our demo site, this "
+"is the easiest way to setup your theme. It will allow you to quickly edit "
+"everything instead of creating content from scratch. When you import the "
+"data following things will happen:"
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:110
+msgid ""
+"No existing posts, pages, categories, images, custom post types or any other "
+"data will be deleted or modified."
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:111
+msgid "No WordPress settings will be modified."
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:112
+msgid "Posts, pages, some images, some widgets and menus will get imported."
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:113
+msgid "Images will be downloaded from our server."
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:114
+msgid "Please click import only once and wait, it can take few minutes."
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:119
+msgid "Important:"
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:121
+#, php-format
+msgid ""
+"Deactivate all the plugins except the one listed  %s under the section "
+"'Plugins used in the Uncode demo site' if you are planning to use them."
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:121
+msgid "here"
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:122
+#, php-format
+msgid ""
+"Make sure that of the server requirements in %s > Welcome page are fulfilled."
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:123
+msgid ""
+"It's always recommended to run the import on a clean installtion of "
+"WordPress."
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:124
+msgid ""
+"Some of the images imported will not match the demo site since they are "
+"copyrighted material."
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:125
+#, php-format
+msgid ""
+"In case of import failure, when coming from a clean WordPress installation, "
+"we recommend to reset if before try it again. We suggest to use %s plugin."
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:125
+msgid "WordPress Reset"
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:138
+msgid "IMPORT ALL"
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:218
+msgid "IMPORT SINGLES"
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:220
+msgid "IMPORT THEME OPTIONS"
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:223
+msgid "IMPORT WIDGETS"
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:226
+#: core/one-click-demo/importer/radium-importer.php:352
+msgid "DELETE DEMO MEDIA"
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:298
+#: core/one-click-demo/importer/wordpress-importer.php:216
+msgid "Import completed!"
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:309
+msgid "All demo medias deleted!"
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:344
+msgid "Contact Form 7 (optional) - Plugin is not active"
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:345
+msgid "WooCommerce (optional) - Plugin is not active"
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:346
+msgid "Uncode Core (required) - Plugin is not active"
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:347
+msgid ""
+"The following plugins are inactive and this will prevent the relative "
+"content to be imported:"
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:348
+msgid "This will replace your settings, are you sure?"
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:348
+msgid "Are you sure?"
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:352
+msgid "Import in progress…"
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:352
+msgid "Don&#39;t close the browser or navigate away."
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:352
+msgid "Please be patient, the import procedure can take few minutes."
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:352
+msgid "Tips"
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:352
+msgid "Did you know that you can delete all the imported demo media using the"
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:352
+msgid "button inside this page?"
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:550
+msgid ""
+"Theme options import data could not be read. Please try a different file."
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:680
+msgid "Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:721
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:743
+msgid "Site does not support widget"
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:766
+msgid "Widget already exists"
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:815
+msgid "Imported"
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:818
+msgid "Imported to Inactive"
+msgstr ""
+
+#: core/one-click-demo/importer/radium-importer.php:825
+msgid "No Title"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:171
+#: core/one-click-demo/importer/wordpress-importer.php:180
+#: core/one-click-demo/importer/wordpress-importer.php:236
+#: core/one-click-demo/importer/wordpress-importer.php:240
+#: core/one-click-demo/importer/wordpress-importer.php:249
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:172
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:217
+#, php-format
+msgid "Go ahead and visit the %s or start customizing %s"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:217
+msgid "front page"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:217
+msgid "your theme"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:219
+msgid "Import log"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:241
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:257
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:282
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:308
+msgid "Assign Authors"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:309
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:311
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:321
+msgid "Import Attachments"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:324
+msgid "Download and import file attachments"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:328
+#: woocommerce/single-product-reviews.php:70
+msgid "Submit"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:341
+msgid "Import author:"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:352
+msgid "or create new user with login name:"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:355
+msgid "as a new user:"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:363
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:365
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:366
+msgid "- Select -"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:416
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:467
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:507
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:553
+#: core/one-click-demo/importer/wordpress-importer.php:718
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:582
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:604
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:682
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:851
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:858
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:921
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:934
+msgid "Invalid file type"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:992
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:1005
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:1010
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:1016
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:1116
+msgid "Import WordPress"
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:1123
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:1138
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: core/one-click-demo/importer/wordpress-importer.php:1139
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:338
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:368
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:399
+#: core/plugins_activation/class-tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:400
+#: core/plugins_activation/class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:828
+#: core/plugins_activation/class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:935
+#: core/plugins_activation/class-tgm-plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:1116
+#: core/plugins_activation/class-tgm-plugin-activation.php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:1881
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2235
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2280
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2283
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2286
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2289
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2438
+#: core/theme-options/assets/theme-mode/meta-boxes.php:237
+#: core/theme-options/assets/theme-mode/theme-options.php:494
+msgid "Type"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2442
+#: core/theme-options/assets/theme-mode/functions.php:91
+msgid "Version"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2491
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2495
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2500
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2612
+#: core/theme-options/includes/ot-functions-admin.php:4389
+#: core/theme-options/includes/ot-functions-admin.php:4390
+msgid "Activate"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3370
+#: core/plugins_activation/class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3370
+#: core/plugins_activation/class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3376
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/functions.php:82
+msgid "Options Import/Export"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/functions.php:83
+msgid "Options Utils"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/functions.php:139
+msgid "Transparent"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/functions.php:224
+#: core/theme-options/includes/ot-functions-option-types.php:134
+msgid "background-repeat"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/functions.php:242
+#: core/theme-options/includes/ot-functions-option-types.php:152
+msgid "background-attachment"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/functions.php:261
+#: core/theme-options/includes/ot-functions-option-types.php:171
+msgid "background-position"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/functions.php:297
+#: core/theme-options/includes/ot-functions-option-types.php:224
+msgid "background-size"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/functions.php:447
+#: core/theme-options/includes/ot-functions-admin.php:4426
+#: core/theme-options/includes/ot-meta-box-api.php:231
+#: core/theme-options/includes/ot-settings-api.php:628
+#: woocommerce/widgets/widget-price_filter.php:21
+msgid "Title"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/functions.php:483
+#: core/theme-options/assets/theme-mode/functions.php:484
+#: core/theme-options/includes/ot-functions-admin.php:4035
+#: core/theme-options/includes/ot-functions-admin.php:4036
+#: core/theme-options/includes/ot-functions-admin.php:4104
+#: core/theme-options/includes/ot-functions-admin.php:4105
+#: core/theme-options/includes/ot-functions-admin.php:4267
+#: core/theme-options/includes/ot-functions-admin.php:4268
+#: core/theme-options/includes/ot-functions-admin.php:4333
+#: core/theme-options/includes/ot-functions-admin.php:4334
+#: core/theme-options/includes/ot-functions-admin.php:4392
+#: core/theme-options/includes/ot-functions-admin.php:4393
+#: core/theme-options/includes/ot-functions-admin.php:4461
+#: core/theme-options/includes/ot-functions-admin.php:4462
+#: core/theme-options/includes/ot-functions-admin.php:4614
+#: core/theme-options/includes/ot-functions-admin.php:4615
+msgid "Delete"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/functions.php:738
+msgid "Failed to save the dynamics css files!"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:37
+msgid "HTML Body background"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:38
+#: core/theme-options/assets/theme-mode/theme-options.php:3142
+msgid "Specify the body background color and media."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:45
+msgid "Section scroller"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:47
+msgid ""
+"Activate the create a section scroller navigation. NB. Every row must have a "
+"unique name."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:53
+#: core/theme-options/assets/theme-mode/theme-options.php:1631
+#: core/theme-options/assets/theme-mode/theme-options.php:3134
+#: core/theme-options/includes/ot-functions-admin.php:1067
+msgid "General"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:71
+#: core/theme-options/assets/theme-mode/meta-boxes.php:97
+#: core/theme-options/assets/theme-mode/meta-boxes.php:244
+#: core/theme-options/assets/theme-mode/meta-boxes.php:998
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1019
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1048
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1091
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1112
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1133
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1180
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1238
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1304
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1388
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1453
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1525
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1554
+#: core/theme-options/assets/theme-mode/theme-options.php:62
+#: core/theme-options/assets/theme-mode/theme-options.php:81
+#: core/theme-options/assets/theme-mode/theme-options.php:460
+#: core/theme-options/assets/theme-mode/theme-options.php:594
+#: core/theme-options/assets/theme-mode/theme-options.php:1242
+#: core/theme-options/assets/theme-mode/theme-options.php:1412
+#: core/theme-options/assets/theme-mode/theme-options.php:1528
+#: core/theme-options/assets/theme-mode/theme-options.php:2313
+msgid "Inherit"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:83
+#: core/theme-options/assets/theme-mode/meta-boxes.php:128
+#: core/theme-options/assets/theme-mode/theme-options.php:436
+#: core/theme-options/assets/theme-mode/theme-options.php:445
+#: core/theme-options/assets/theme-mode/theme-options.php:1553
+#: core/theme-options/assets/theme-mode/theme-options.php:3222
+msgid "Menu"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:84
+msgid "Override the menu."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:91
+#: core/theme-options/assets/theme-mode/theme-options.php:454
+msgid "Menu width"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:92
+#: core/theme-options/assets/theme-mode/theme-options.php:455
+msgid "Override the menu width."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:101
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1023
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1558
+#: core/theme-options/assets/theme-mode/theme-options.php:464
+#: core/theme-options/assets/theme-mode/theme-options.php:598
+#: core/theme-options/assets/theme-mode/theme-options.php:1246
+#: core/theme-options/assets/theme-mode/theme-options.php:1532
+msgid "Full"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:105
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1027
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1562
+#: core/theme-options/assets/theme-mode/theme-options.php:468
+#: core/theme-options/assets/theme-mode/theme-options.php:602
+#: core/theme-options/assets/theme-mode/theme-options.php:1250
+#: core/theme-options/assets/theme-mode/theme-options.php:1536
+msgid "Limit"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:112
+#: core/theme-options/assets/theme-mode/theme-options.php:476
+msgid "Remove trasparency"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:114
+#: core/theme-options/assets/theme-mode/theme-options.php:478
+msgid ""
+"Override to remove the trasparency eventually declared in 'Customize -> "
+"Light/Dark skin'."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:120
+msgid "Remove shadow"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:122
+msgid "Override to remove the shadow eventually declared in 'Menu -> Visuals'."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:148
+#: core/theme-options/assets/theme-mode/meta-boxes.php:264
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1535
+#: core/theme-options/assets/theme-mode/theme-options.php:76
+#: core/theme-options/assets/theme-mode/theme-options.php:117
+#: core/theme-options/assets/theme-mode/theme-options.php:518
+#: core/theme-options/assets/theme-mode/theme-options.php:1227
+#: core/theme-options/assets/theme-mode/theme-options.php:1509
+#: core/theme-options/assets/theme-mode/theme-options.php:3480
+msgid "Content Block"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:167
+#: core/theme-options/assets/theme-mode/theme-options.php:100
+msgid "No Content Blocks found"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:180
+#: core/theme-options/assets/theme-mode/theme-options.php:144
+msgid "Revolution Slider"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:199
+#: core/theme-options/assets/theme-mode/meta-boxes.php:229
+msgid "No sliders found"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:210
+#: core/theme-options/assets/theme-mode/meta-boxes.php:286
+#: core/theme-options/assets/theme-mode/theme-options.php:174
+#: core/theme-options/assets/theme-mode/theme-options.php:544
+msgid "LayerSlider"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:238
+msgid "Override the header type."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:248
+#: core/theme-options/assets/theme-mode/theme-options.php:505
+msgid "Basic"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:255
+#: core/theme-options/assets/theme-mode/meta-boxes.php:803
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1528
+#: core/theme-options/assets/theme-mode/theme-options.php:84
+#: core/theme-options/assets/theme-mode/theme-options.php:885
+msgid "None"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:265
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1536
+#: core/theme-options/assets/theme-mode/theme-options.php:519
+msgid "Specify the Content Block."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:277
+#: core/theme-options/assets/theme-mode/theme-options.php:533
+msgid "Revslider"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:278
+msgid "Specify the Revolution Slider."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:287
+#: core/theme-options/assets/theme-mode/theme-options.php:545
+msgid "Specify the LayerSlider."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:295
+#: core/theme-options/assets/theme-mode/theme-options.php:1684
+msgid "Container full width"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:298
+#: core/theme-options/assets/theme-mode/theme-options.php:1685
+msgid "Activate to expand the header container to full width."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:305
+#: core/theme-options/assets/theme-mode/theme-options.php:613
+msgid "Content full width"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:307
+#: core/theme-options/assets/theme-mode/theme-options.php:615
+msgid "Activate to expand the header content to full width."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:315
+#: core/theme-options/assets/theme-mode/theme-options.php:624
+msgid "Custom inner width"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:316
+#: core/theme-options/assets/theme-mode/theme-options.php:625
+msgid "Adjust the inner content width in %."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:326
+#: core/theme-options/assets/theme-mode/theme-options.php:636
+#: core/theme-options/assets/theme-mode/theme-options.php:3515
+msgid "Content alignment"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:327
+#: core/theme-options/assets/theme-mode/theme-options.php:637
+msgid "Specify the text/content alignment."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:335
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1069
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1271
+#: core/theme-options/assets/theme-mode/theme-options.php:646
+#: core/theme-options/assets/theme-mode/theme-options.php:1128
+#: core/theme-options/assets/theme-mode/theme-options.php:1376
+#: core/theme-options/assets/theme-mode/theme-options.php:1780
+#: core/theme-options/assets/theme-mode/theme-options.php:3523
+#: core/theme-options/assets/theme-mode/theme-options.php:3927
+msgid "Left"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:339
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1073
+#: core/theme-options/assets/theme-mode/theme-options.php:651
+#: core/theme-options/assets/theme-mode/theme-options.php:1132
+#: core/theme-options/assets/theme-mode/theme-options.php:3527
+#: core/theme-options/assets/theme-mode/theme-options.php:3932
+msgid "Center"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:343
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1077
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1267
+#: core/theme-options/assets/theme-mode/theme-options.php:656
+#: core/theme-options/assets/theme-mode/theme-options.php:1136
+#: core/theme-options/assets/theme-mode/theme-options.php:1372
+#: core/theme-options/assets/theme-mode/theme-options.php:1785
+#: core/theme-options/assets/theme-mode/theme-options.php:3531
+#: core/theme-options/assets/theme-mode/theme-options.php:3917
+msgid "Right"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:351
+#: core/theme-options/assets/theme-mode/theme-options.php:665
+msgid ""
+"Define the height of the header in px or in % (relative to the window "
+"height)."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:363
+#: core/theme-options/assets/theme-mode/theme-options.php:678
+msgid "Minimal height"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:364
+#: core/theme-options/assets/theme-mode/theme-options.php:679
+msgid "Enter a minimun height for the header in pixel."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:370
+#: core/theme-options/assets/theme-mode/meta-boxes.php:992
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1298
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1447
+#: core/theme-options/assets/theme-mode/theme-options.php:577
+#: core/theme-options/assets/theme-mode/theme-options.php:1406
+#: core/theme-options/assets/theme-mode/theme-options.php:2307
+#: core/theme-options/assets/theme-mode/theme-options.php:3327
+msgid "Skin"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:371
+#: core/theme-options/assets/theme-mode/theme-options.php:578
+msgid "Specify the header text skin."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:380
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1002
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1308
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1457
+#: core/theme-options/assets/theme-mode/theme-options.php:48
+#: core/theme-options/assets/theme-mode/theme-options.php:1416
+#: core/theme-options/assets/theme-mode/theme-options.php:2317
+#: core/theme-options/assets/theme-mode/theme-options.php:3337
+msgid "Light"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:385
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1006
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1312
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1461
+#: core/theme-options/assets/theme-mode/theme-options.php:53
+#: core/theme-options/assets/theme-mode/theme-options.php:1420
+#: core/theme-options/assets/theme-mode/theme-options.php:2321
+#: core/theme-options/assets/theme-mode/theme-options.php:3342
+msgid "Dark"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:393
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1261
+#: core/theme-options/assets/theme-mode/theme-options.php:689
+#: core/theme-options/assets/theme-mode/theme-options.php:1366
+msgid "Position"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:394
+#: core/theme-options/assets/theme-mode/theme-options.php:690
+msgid "Specify the position of the header content inside the container."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:402
+#: core/theme-options/assets/theme-mode/theme-options.php:698
+msgid "Left Top"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:406
+#: core/theme-options/assets/theme-mode/theme-options.php:702
+msgid "Left Center"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:410
+#: core/theme-options/assets/theme-mode/theme-options.php:706
+msgid "Left Bottom"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:414
+#: core/theme-options/assets/theme-mode/theme-options.php:710
+msgid "Center Top"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:418
+#: core/theme-options/assets/theme-mode/theme-options.php:714
+msgid "Center Center"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:422
+#: core/theme-options/assets/theme-mode/theme-options.php:718
+msgid "Center Bottom"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:426
+#: core/theme-options/assets/theme-mode/theme-options.php:722
+msgid "Right Top"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:430
+#: core/theme-options/assets/theme-mode/theme-options.php:726
+msgid "Right Center"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:434
+#: core/theme-options/assets/theme-mode/theme-options.php:730
+msgid "Right Bottom"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:442
+#: core/theme-options/assets/theme-mode/theme-options.php:202
+msgid "h1"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:446
+#: core/theme-options/assets/theme-mode/theme-options.php:206
+msgid "h2"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:450
+#: core/theme-options/assets/theme-mode/theme-options.php:210
+msgid "h3"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:454
+#: core/theme-options/assets/theme-mode/theme-options.php:214
+msgid "h4"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:458
+#: core/theme-options/assets/theme-mode/theme-options.php:218
+msgid "h5"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:462
+#: core/theme-options/assets/theme-mode/theme-options.php:222
+msgid "h6"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:478
+#: core/theme-options/assets/theme-mode/theme-options.php:238
+msgid "BigText"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:484
+#: core/theme-options/assets/theme-mode/meta-boxes.php:501
+#: core/theme-options/assets/theme-mode/meta-boxes.php:518
+#: core/theme-options/assets/theme-mode/meta-boxes.php:535
+#: core/theme-options/assets/theme-mode/meta-boxes.php:717
+#: core/theme-options/assets/theme-mode/theme-options.php:244
+#: core/theme-options/assets/theme-mode/theme-options.php:261
+#: core/theme-options/assets/theme-mode/theme-options.php:377
+#: core/theme-options/assets/theme-mode/theme-options.php:394
+#: core/theme-options/assets/theme-mode/theme-options.php:814
+msgid "Default CSS"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:576
+msgid "Featured image in header"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:579
+#: core/theme-options/assets/theme-mode/theme-options.php:1031
+msgid "Activate to use the featured image in the header."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:585
+#: core/theme-options/assets/theme-mode/theme-options.php:1040
+#: core/theme-options/includes/ot-functions-admin.php:2417
+msgid "Background"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:586
+#: core/theme-options/assets/theme-mode/theme-options.php:1041
+msgid "Specify the background media and color."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:597
+#: core/theme-options/assets/theme-mode/theme-options.php:1069
+msgid "Overlay color"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:598
+#: core/theme-options/assets/theme-mode/theme-options.php:1070
+msgid "Specify the overlay background color."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:606
+#: core/theme-options/assets/theme-mode/theme-options.php:1079
+msgid "Overlay color opacity"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:607
+#: core/theme-options/assets/theme-mode/theme-options.php:1080
+msgid "Set the overlay opacity."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:617
+#: core/theme-options/assets/theme-mode/theme-options.php:1091
+msgid "Scroll opacity"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:618
+#: core/theme-options/assets/theme-mode/theme-options.php:1092
+msgid "Activate alpha animation when scrolling down."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:627
+#: core/theme-options/assets/theme-mode/theme-options.php:1102
+msgid "Scroll down arrow"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:628
+#: core/theme-options/assets/theme-mode/theme-options.php:1103
+msgid "Activate the scroll down arrow button."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:637
+msgid "Header section name"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:638
+msgid "Insert the header section name, required for the onepage scroll."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:643
+#: core/theme-options/assets/theme-mode/theme-options.php:1058
+msgid "Parallax"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:646
+#: core/theme-options/assets/theme-mode/theme-options.php:1060
+msgid "Activate the background parallax effect."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:653
+#: core/theme-options/assets/theme-mode/theme-options.php:554
+msgid "Title in header"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:656
+#: core/theme-options/assets/theme-mode/theme-options.php:557
+msgid "Activate to show title in the header."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:663
+#: core/theme-options/assets/theme-mode/theme-options.php:738
+msgid "Title font family"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:664
+#: core/theme-options/assets/theme-mode/theme-options.php:739
+msgid "Specify the font for the title."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:671
+#: core/theme-options/assets/theme-mode/theme-options.php:750
+msgid "Title font size"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:672
+#: core/theme-options/assets/theme-mode/theme-options.php:751
+msgid "Specify the font size for the title."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:679
+#: core/theme-options/assets/theme-mode/theme-options.php:761
+msgid "Title line height"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:680
+#: core/theme-options/assets/theme-mode/theme-options.php:762
+msgid "Specify the line height for the title."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:687
+#: core/theme-options/assets/theme-mode/theme-options.php:772
+msgid "Title letter spacing"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:688
+#: core/theme-options/assets/theme-mode/theme-options.php:773
+msgid "Specify the letter spacing for the title."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:695
+#: core/theme-options/assets/theme-mode/theme-options.php:783
+msgid "Title font weight"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:696
+#: core/theme-options/assets/theme-mode/theme-options.php:784
+msgid "Specify the font weight for the title."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:703
+#: core/theme-options/assets/theme-mode/theme-options.php:794
+msgid "Title italic"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:704
+#: core/theme-options/assets/theme-mode/theme-options.php:795
+msgid "Activate the font style italic for the title."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:711
+#: core/theme-options/assets/theme-mode/theme-options.php:805
+msgid "Title text transform"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:712
+#: core/theme-options/assets/theme-mode/theme-options.php:806
+msgid "Specify the title text transformation."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:721
+#: core/theme-options/assets/theme-mode/theme-options.php:818
+#: core/theme-options/assets/theme-mode/theme-options.php:3393
+msgid "Uppercase"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:725
+#: core/theme-options/assets/theme-mode/theme-options.php:822
+#: core/theme-options/assets/theme-mode/theme-options.php:3397
+msgid "Lowercase"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:729
+#: core/theme-options/assets/theme-mode/theme-options.php:826
+#: core/theme-options/assets/theme-mode/theme-options.php:3401
+msgid "Capitalize"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:735
+msgid "Custom content"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:738
+msgid "Activate custom contents instead of the default page title."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:746
+msgid "Text content"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:752
+#: core/theme-options/assets/theme-mode/theme-options.php:833
+msgid "Text animation"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:753
+#: core/theme-options/assets/theme-mode/theme-options.php:834
+msgid "Specify the entrance animation of the title text."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:764
+#: core/theme-options/assets/theme-mode/theme-options.php:845
+msgid "Top to bottom"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:768
+#: core/theme-options/assets/theme-mode/theme-options.php:849
+msgid "Left to right"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:772
+#: core/theme-options/assets/theme-mode/theme-options.php:853
+msgid "Right to left"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:776
+#: core/theme-options/assets/theme-mode/theme-options.php:857
+msgid "Bottom to top"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:780
+#: core/theme-options/assets/theme-mode/theme-options.php:861
+msgid "Zoom in"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:784
+#: core/theme-options/assets/theme-mode/theme-options.php:865
+msgid "Zoom out"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:788
+#: core/theme-options/assets/theme-mode/theme-options.php:869
+msgid "Alpha"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:795
+#: core/theme-options/assets/theme-mode/theme-options.php:877
+msgid "Animation delay"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:796
+#: core/theme-options/assets/theme-mode/theme-options.php:878
+msgid "Specify the entrance animation delay of the title text in milliseconds."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:807
+#: core/theme-options/assets/theme-mode/meta-boxes.php:902
+#: core/theme-options/assets/theme-mode/theme-options.php:889
+#: core/theme-options/assets/theme-mode/theme-options.php:985
+msgid "ms 100"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:811
+#: core/theme-options/assets/theme-mode/meta-boxes.php:906
+#: core/theme-options/assets/theme-mode/theme-options.php:893
+#: core/theme-options/assets/theme-mode/theme-options.php:989
+msgid "ms 200"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:815
+#: core/theme-options/assets/theme-mode/meta-boxes.php:910
+#: core/theme-options/assets/theme-mode/theme-options.php:897
+#: core/theme-options/assets/theme-mode/theme-options.php:993
+msgid "ms 300"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:819
+#: core/theme-options/assets/theme-mode/meta-boxes.php:914
+#: core/theme-options/assets/theme-mode/theme-options.php:901
+#: core/theme-options/assets/theme-mode/theme-options.php:997
+msgid "ms 400"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:823
+#: core/theme-options/assets/theme-mode/meta-boxes.php:918
+#: core/theme-options/assets/theme-mode/theme-options.php:905
+#: core/theme-options/assets/theme-mode/theme-options.php:1001
+msgid "ms 500"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:827
+#: core/theme-options/assets/theme-mode/meta-boxes.php:922
+#: core/theme-options/assets/theme-mode/theme-options.php:909
+#: core/theme-options/assets/theme-mode/theme-options.php:1005
+msgid "ms 600"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:831
+#: core/theme-options/assets/theme-mode/meta-boxes.php:926
+#: core/theme-options/assets/theme-mode/theme-options.php:913
+#: core/theme-options/assets/theme-mode/theme-options.php:1009
+msgid "ms 700"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:835
+#: core/theme-options/assets/theme-mode/meta-boxes.php:930
+#: core/theme-options/assets/theme-mode/theme-options.php:917
+#: core/theme-options/assets/theme-mode/theme-options.php:1013
+msgid "ms 800"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:839
+#: core/theme-options/assets/theme-mode/meta-boxes.php:934
+#: core/theme-options/assets/theme-mode/theme-options.php:921
+#: core/theme-options/assets/theme-mode/theme-options.php:1017
+msgid "ms 900"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:843
+#: core/theme-options/assets/theme-mode/meta-boxes.php:938
+#: core/theme-options/assets/theme-mode/theme-options.php:925
+#: core/theme-options/assets/theme-mode/theme-options.php:1021
+msgid "ms 1000"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:847
+#: core/theme-options/assets/theme-mode/theme-options.php:929
+msgid "ms 1100"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:851
+#: core/theme-options/assets/theme-mode/theme-options.php:933
+msgid "ms 1200"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:855
+#: core/theme-options/assets/theme-mode/theme-options.php:937
+msgid "ms 1300"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:859
+#: core/theme-options/assets/theme-mode/theme-options.php:941
+msgid "ms 1400"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:863
+#: core/theme-options/assets/theme-mode/theme-options.php:945
+msgid "ms 1500"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:867
+#: core/theme-options/assets/theme-mode/theme-options.php:949
+msgid "ms 1600"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:871
+#: core/theme-options/assets/theme-mode/theme-options.php:953
+msgid "ms 1700"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:875
+#: core/theme-options/assets/theme-mode/theme-options.php:957
+msgid "ms 1800"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:879
+#: core/theme-options/assets/theme-mode/theme-options.php:961
+msgid "ms 1900"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:883
+#: core/theme-options/assets/theme-mode/theme-options.php:965
+msgid "ms 2000"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:890
+#: core/theme-options/assets/theme-mode/theme-options.php:973
+msgid "Animation speed"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:891
+#: core/theme-options/assets/theme-mode/theme-options.php:974
+msgid "Specify the entrance animation speed of the title text in milliseconds."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:898
+#: core/theme-options/assets/theme-mode/theme-options.php:981
+msgid "Default (400)"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:945
+#: core/theme-options/assets/theme-mode/theme-options.php:485
+msgid "Header"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:993
+msgid "Override the content skin."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1013
+#: core/theme-options/assets/theme-mode/theme-options.php:1236
+msgid "Content width"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1014
+msgid "Override the content width."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1034
+#: core/theme-options/assets/theme-mode/theme-options.php:1258
+msgid "Custom width"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1035
+#: core/theme-options/assets/theme-mode/theme-options.php:1259
+msgid "Define the custom width for the content area in px or in %."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1042
+#: core/theme-options/assets/theme-mode/theme-options.php:1113
+msgid "Show breadcrumb"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1043
+msgid "Override to show the navigation breadcrumb."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1052
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1095
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1116
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1137
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1184
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1242
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1392
+msgid "Yes"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1056
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1099
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1120
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1141
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1188
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1246
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1396
+msgid "No"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1063
+#: core/theme-options/assets/theme-mode/theme-options.php:1122
+msgid "Breadcrumb align"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1064
+#: core/theme-options/assets/theme-mode/theme-options.php:1123
+msgid "Specify the breadcrumb alignment"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1085
+#: core/theme-options/assets/theme-mode/theme-options.php:1146
+msgid "Show title"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1086
+msgid "Override to show the title in the content area."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1106
+#: core/theme-options/assets/theme-mode/theme-options.php:1156
+msgid "Show media"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1107
+msgid "Override to show the media in the content area."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1127
+#: core/theme-options/assets/theme-mode/theme-options.php:1164
+msgid "Show tags"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1128
+msgid "Override to show the tags module."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1148
+#: core/theme-options/assets/theme-mode/theme-options.php:1173
+msgid "Tags alignment"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1149
+#: core/theme-options/assets/theme-mode/theme-options.php:1174
+msgid "Specify the tags alignment."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1154
+#: core/theme-options/assets/theme-mode/theme-options.php:1179
+#: core/theme-options/assets/theme-mode/theme-options.php:1658
+msgid "Left align"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1159
+#: core/theme-options/assets/theme-mode/theme-options.php:1184
+#: core/theme-options/assets/theme-mode/theme-options.php:1663
+msgid "Center align"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1164
+#: core/theme-options/assets/theme-mode/theme-options.php:1189
+#: core/theme-options/assets/theme-mode/theme-options.php:1668
+msgid "Right align"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1174
+#: core/theme-options/assets/theme-mode/theme-options.php:1209
+msgid "Show share"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1175
+msgid "Override to show the share module."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1195
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1320
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1469
+#: core/theme-options/assets/theme-mode/theme-options.php:1429
+#: core/theme-options/assets/theme-mode/theme-options.php:3349
+msgid "Background color"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1196
+#: core/theme-options/assets/theme-mode/theme-options.php:3350
+msgid "Specify a custom content background color."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1202
+#: core/theme-options/assets/theme-mode/theme-options.php:1218
+#: core/theme-options/assets/theme-mode/theme-options.php:3320
+msgid "Content"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1232
+#: core/theme-options/assets/theme-mode/theme-options.php:1348
+msgid "Activate the sidebar"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1233
+msgid "Override the sidebar visibility."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1254
+#: core/theme-options/assets/theme-mode/theme-options.php:1358
+msgid "Specify the sidebar."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1262
+#: core/theme-options/assets/theme-mode/theme-options.php:1367
+msgid "Specify the position of the sidebar."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1279
+#: core/theme-options/assets/theme-mode/theme-options.php:1385
+msgid "Size"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1280
+#: core/theme-options/assets/theme-mode/theme-options.php:1386
+msgid "Set the size of the sidebar."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1289
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1438
+#: core/theme-options/assets/theme-mode/theme-options.php:1396
+msgid "Sticky sidebar"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1290
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1439
+#: core/theme-options/assets/theme-mode/theme-options.php:1397
+msgid "Activate to have a sticky sidebar."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1299
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1448
+#: core/theme-options/assets/theme-mode/theme-options.php:1407
+msgid "Override the sidebar text skin color."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1321
+#: core/theme-options/assets/theme-mode/theme-options.php:1430
+#: core/theme-options/assets/theme-mode/theme-options.php:2330
+msgid "Specify the sidebar background color."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1328
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1477
+#: core/theme-options/assets/theme-mode/theme-options.php:1438
+#: core/theme-options/assets/theme-mode/theme-options.php:2337
+msgid "Sidebar filling space"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1329
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1478
+#: core/theme-options/assets/theme-mode/theme-options.php:1439
+#: core/theme-options/assets/theme-mode/theme-options.php:2338
+msgid "Activate to remove padding around the sidebar and fill the height."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1376
+#: core/theme-options/assets/theme-mode/theme-options.php:2242
+msgid "Details"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1382
+#: core/theme-options/assets/theme-mode/theme-options.php:2249
+msgid "details"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1383
+#, php-format
+msgid "Override the %s visibility."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1402
+#: core/theme-options/assets/theme-mode/theme-options.php:2266
+msgid "details layout"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1403
+#: core/theme-options/assets/theme-mode/theme-options.php:2267
+#, php-format
+msgid "Specify the layout template for all the %s posts."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1408
+#: core/theme-options/assets/theme-mode/theme-options.php:2277
+msgid "Details on the top"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1412
+#: core/theme-options/assets/theme-mode/theme-options.php:2281
+msgid "Details on the right"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1416
+#: core/theme-options/assets/theme-mode/theme-options.php:2285
+msgid "Details on the bottom"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1420
+#: core/theme-options/assets/theme-mode/theme-options.php:2289
+msgid "Details on the left"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1428
+#: core/theme-options/assets/theme-mode/theme-options.php:2295
+msgid "Sidebar size"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1429
+#: core/theme-options/assets/theme-mode/theme-options.php:2296
+msgid "Set the sidebar size."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1470
+msgid "Specify the background color."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1500
+#: core/theme-options/assets/theme-mode/theme-options.php:1449
+msgid "Navigation"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1506
+msgid "Navigation parent"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1508
+msgid "Specify the parent page to create the navigation logic."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1548
+#: core/theme-options/assets/theme-mode/theme-options.php:1522
+msgid "Footer width"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1549
+#: core/theme-options/assets/theme-mode/theme-options.php:1523
+msgid "Override the footer width."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1569
+#: core/theme-options/assets/theme-mode/theme-options.php:1498
+#: core/theme-options/assets/theme-mode/theme-options.php:1593
+#: core/theme-options/assets/theme-mode/theme-options.php:3407
+msgid "Footer"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/meta-boxes.php:1581
+msgid "Page Options"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:106
+msgid "404 content"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:107
+#: core/theme-options/assets/theme-mode/theme-options.php:126
+msgid "Specify a content for the 404 page."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:113
+msgid "Default"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:125
+msgid "404 content block"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:163
+msgid "No Revolution Sliders found"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:193
+msgid "No LayerSliders found"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:364
+msgid "No fonts activated."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:371
+msgid "Manually entered"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:446
+msgid "Override the primary menu created in 'Appearance -> Menus'."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:495
+msgid "Specify the header type."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:534
+msgid "Specify the RevSlider."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:566
+msgid "Custom text"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:567
+msgid ""
+"Add custom text for the header. Every newline in the field is a new line in "
+"the title."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:589
+msgid "Header width"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:605
+msgid "Override the header width."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1028
+msgid "Featured media in header"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1114
+msgid "Activate to show the navigation breadcrumb."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1147
+msgid "Activate to show the title in the content area."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1157
+msgid "Activate to show the medias in the content area."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1165
+msgid "Activate to show the tags and choose visbility by post to post bases."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1200
+msgid "Show comments"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1201
+msgid ""
+"Activate to show the comments and choose visbility by post to post bases."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1210
+msgid "Activate to show the share module."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1228
+msgid "Define the content block to use."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1237
+msgid "Specify the content width."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1268
+msgid "Single post width"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1269
+msgid "Specify the single post width from 1 to 12."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1329
+msgid "Single teaser text length"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1330
+msgid ""
+"Enter the number of words you want for the teaser. If nothing in entered the "
+"full content will be showed."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1349
+msgid "Activate to show the sidebar."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1458
+msgid "Navigation bar"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1459
+msgid "Activate to show the navigation bar."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1467
+msgid "Navigation index"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1468
+msgid "Specify the page you want to use as index."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1477
+msgid "Index custom label"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1478
+msgid "Enter a custom label for the index button."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1487
+msgid "Navigation titles"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1488
+msgid "Activate to show the next/prev post title."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1510
+msgid "Override the Content Block."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1549
+#: core/theme-options/assets/theme-mode/theme-options.php:1713
+msgid "Logo"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1557
+#: core/theme-options/assets/theme-mode/theme-options.php:1755
+#: core/theme-options/assets/theme-mode/theme-options.php:3456
+#: core/theme-options/includes/ot-functions-admin.php:4387
+msgid "Layout"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1561
+#: partials/elements.php:1478
+msgid "Page"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1565
+msgid "Post"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1585
+#: partials/menus.php:250
+msgid "Search"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1589
+msgid "404"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1597
+msgid "Palette"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1601
+#: core/theme-options/assets/theme-mode/theme-options.php:1970
+#: core/theme-options/includes/ot-functions-admin.php:2461
+msgid "Typography"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1605
+msgid "Customize"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1609
+msgid "Sidebars"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1613
+msgid "Connections"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1617
+msgid "Redirect"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1621
+msgid "CSS & JS"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1625
+msgid "Performance"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1639
+msgid "Site width"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1640
+msgid "Enter the width of your site."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1650
+msgid "Site layout align"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1651
+msgid "Specify the alignment of the content area when is less then 100% width."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1675
+msgid "Boxed"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1676
+msgid "Activate for the boxed layout."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1695
+msgid "Content area full width"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1696
+msgid "Activate to expand the content area to full width."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1705
+msgid "Switchable logo"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1706
+msgid "Activate to upload different logo for each skin."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1714
+msgid "Upload a logo. You can use Images, SVG code or HTML code."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1722
+msgid "Logo - Light"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1723
+msgid "Upload a logo for the light skin."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1731
+msgid "Logo - Dark"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1732
+msgid "Upload a logo for the dark skin."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1740
+msgid "Logo height"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1741
+msgid "Enter the height of the logo in px."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1748
+msgid "Logo height mobile"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1749
+msgid "Enter the height of the logo in px for mobile version."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1762
+msgid "Specify the menu layout."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1770
+msgid "Menu horizontal position"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1771
+msgid "Specify the horizontal position of the menu."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1792
+msgid "Menu vertical alignment"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1793
+msgid "Specify the vertical alignment of the menu."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1802
+msgid "Top"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1807
+msgid "Middle"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1812
+msgid "Bottom"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1819
+msgid "Menu horizontal alignment"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1820
+msgid "Specify the horizontal alignment of the menu."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1829
+msgid "Left Align"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1834
+msgid "Center Align"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1839
+msgid "Right Align"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1846
+msgid "Vertical menu width"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1847
+msgid "Vertical menu width in px"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1861
+msgid "Menu full width"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1862
+msgid ""
+"Activate to expand the menu to full width. (Only for the horizontal menus)."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1871
+msgid "Visuals"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1878
+msgid "Menu shadows"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1879
+msgid "Activate to show the menu shadows."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1886
+msgid "Menu borders"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1887
+msgid "Activate to show the menu borders."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1894
+msgid "Hide dropdown arrows"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1895
+msgid "Activate to hide the dropdow arrows."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1902
+msgid "Animation"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1911
+msgid "Menu sticky"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1912
+msgid ""
+"Activate the sticky menu. This is a menu that is locked into place so that "
+"it does not disappear when the user scrolls down the page."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1921
+msgid "Menu hide"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1922
+msgid ""
+"Activate the autohide menu. This is a menu that is hiding after the user "
+"have scrolled down the page."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1931
+msgid "Menu shrink"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1932
+msgid ""
+"Activate the shrink menu. This is a menu where the logo shrinks after the "
+"user have scrolled down the page."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1941
+msgid "Menu overlay animation"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1942
+msgid "Specify the overlay menu animation when opening and closing."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1949
+#: core/theme-options/assets/theme-mode/theme-options.php:2036
+msgid "3D"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1953
+#: core/theme-options/assets/theme-mode/theme-options.php:2040
+msgid "Flat"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1961
+msgid "Minimum logo height"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1962
+msgid "Enter the minimal height of the shrinked logo in <b>px</b>."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1977
+msgid "Menu first level uppercase"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1978
+msgid "Activate to transform the first menu level to uppercase."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1985
+msgid "Menu other levels uppercase"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1986
+msgid "Activate to transform all the others menu level to uppercase."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:1993
+#: core/theme-options/assets/theme-mode/theme-options.php:3544
+msgid "Additionals"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2000
+msgid "Hide secondary menu"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2001
+msgid "Activate to hide the secondary menu."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2008
+msgid "Social icons"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2009
+msgid "Activate to show the social connection icons in the menu bar."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2018
+msgid "Search icon"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2019
+msgid "Activate to show the search icon in the menu bar."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2028
+msgid "Search overlay animation"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2029
+msgid "Specify the search overlay animation when opening and closing."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2048
+msgid "Woocommerce cart"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2049
+msgid "Activate to show the Woocommerce icon in the menu bar."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2056
+msgid "Top line text"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2057
+msgid "Insert additional text on top of the menu."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2250
+#, php-format
+msgid "Create here all the %s details label that you need."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2259
+#, php-format
+msgid "Unique %s detail ID"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2260
+#: core/theme-options/assets/theme-mode/theme-options.php:2649
+#: core/theme-options/assets/theme-mode/theme-options.php:2678
+#: core/theme-options/assets/theme-mode/theme-options.php:2767
+#: core/theme-options/assets/theme-mode/theme-options.php:2792
+#: core/theme-options/assets/theme-mode/theme-options.php:2817
+#: core/theme-options/assets/theme-mode/theme-options.php:2914
+#: core/theme-options/assets/theme-mode/theme-options.php:3581
+msgid ""
+"This value is created automatically and it shouldn't be edited unless you "
+"know what you are doing."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2308
+msgid "Specify the sidebar text skin color."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2329
+msgid "Sidebar color"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2637
+msgid "Site sidebars"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2638
+msgid ""
+"Define here all the sidebars you will need. A default sidebar is already "
+"defined."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2648
+msgid "Unique sidebar ID"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2655
+msgid "Custom fonts"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2656
+msgid "Define here all the fonts you will need."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2677
+msgid "Unique font ID"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2682
+msgid "Uncode font"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2683
+msgid "Specify a font."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2689
+msgid "Font family"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2690
+msgid "Enter a font family."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2699
+msgid "Default font size"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2700
+msgid "Font size for p,li,dt,dd,dl,address,label,small,pre in <b>px</b>."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2707
+msgid "Font size H1"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2708
+msgid "Font size for H1 in <b>px</b>."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2715
+msgid "Font size H2"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2716
+msgid "Font size for H2 in <b>px</b>."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2723
+msgid "Font size H3"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2724
+msgid "Font size for H3 in <b>px</b>."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2731
+msgid "Font size H4"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2732
+msgid "Font size for H4 in <b>px</b>."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2739
+msgid "Font size H5"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2740
+msgid "Font size for H5 in <b>px</b>."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2747
+msgid "Font size H6"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2748
+msgid "Font size for H6 in <b>px</b>."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2755
+msgid "Custom font size"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2756
+msgid "Define here all the additional font sizes you will need."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2766
+msgid "Unique font size ID"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2771
+msgid "Font size"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2772
+msgid "Font size in <b>px</b>."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2780
+msgid "Custom line height"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2781
+msgid "Define here all the additional font line heights you will need."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2791
+msgid "Unique font height ID"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2796
+msgid "Font line height"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2797
+msgid "Insert a line height."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2805
+msgid "Custom letter spacing"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2806
+msgid "Define here all the letter spacings you will need."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2816
+msgid "Unique letter spacing ID"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2821
+msgid "Letter spacing"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2822
+msgid "Letter spacing with the unit (em or px). Ex. 0.2em"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2830
+msgid "Color palettes"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2831
+msgid "Define all the colors you will need."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2834
+msgid "Black"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2839
+msgid "Dark 1"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2844
+msgid "Dark 2"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2849
+msgid "Dark 3"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2854
+msgid "Dark 4"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2859
+msgid "White"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2864
+msgid "Light 1"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2869
+msgid "Light 2"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2874
+msgid "Light 3"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2879
+msgid "Light 4"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2884
+msgid "Cerulean"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2889
+msgid "International Orange"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2894
+msgid "Malachite"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2899
+msgid "Sunglow"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2913
+msgid "Unique color ID"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2918
+msgid "Monochrome"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2919
+msgid ""
+"Activate to assign a monochromatic color, otherwise a gradient will be used."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2926
+#: core/theme-options/includes/ot-functions-admin.php:2423
+msgid "Colorpicker"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2927
+msgid ""
+"Specify the color for this palette. You can also define a color with the "
+"alpha value."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2934
+msgid "Gradient"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2935
+msgid ""
+"Specify the gradient color for this palette. NB. You can use a gradient "
+"color only as a background color."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2944
+msgid "Light skin"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2951
+#: core/theme-options/assets/theme-mode/theme-options.php:3046
+msgid "SVG/Text logo color"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2952
+#: core/theme-options/assets/theme-mode/theme-options.php:3047
+msgid "Specify the logo color if it's a SVG or textual."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2959
+#: core/theme-options/assets/theme-mode/theme-options.php:3054
+msgid "Menu text color"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2960
+#: core/theme-options/assets/theme-mode/theme-options.php:3055
+msgid "Specify the menu text color."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2967
+#: core/theme-options/assets/theme-mode/theme-options.php:3062
+msgid "Primary menu background color"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2968
+#: core/theme-options/assets/theme-mode/theme-options.php:3063
+msgid "Specify the primary menu background color."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2975
+#: core/theme-options/assets/theme-mode/theme-options.php:3070
+msgid "Primary menu background opacity"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2976
+#: core/theme-options/assets/theme-mode/theme-options.php:3071
+msgid "Adjust the primary menu background transparency."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2983
+#: core/theme-options/assets/theme-mode/theme-options.php:3078
+msgid "Primary submenu background color"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2984
+#: core/theme-options/assets/theme-mode/theme-options.php:3079
+msgid "Specify the primary submenu text color."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2991
+#: core/theme-options/assets/theme-mode/theme-options.php:3086
+msgid "Primary menu border color"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2992
+#: core/theme-options/assets/theme-mode/theme-options.php:3087
+msgid "Specify the primary menu border color."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:2999
+#: core/theme-options/assets/theme-mode/theme-options.php:3094
+msgid "Primary menu border opacity"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3000
+#: core/theme-options/assets/theme-mode/theme-options.php:3095
+msgid "Adjust the primary menu border transparency."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3007
+#: core/theme-options/assets/theme-mode/theme-options.php:3102
+msgid "Secondary menu background color"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3008
+#: core/theme-options/assets/theme-mode/theme-options.php:3103
+msgid "Specify the secondary menu background color."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3015
+#: core/theme-options/assets/theme-mode/theme-options.php:3110
+msgid "Headings color"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3016
+#: core/theme-options/assets/theme-mode/theme-options.php:3111
+msgid "Specify the headings text color."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3023
+#: core/theme-options/assets/theme-mode/theme-options.php:3118
+msgid "Content text color"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3024
+#: core/theme-options/assets/theme-mode/theme-options.php:3119
+msgid "Specify the content area text color."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3031
+#: core/theme-options/assets/theme-mode/theme-options.php:3126
+msgid "Content background color"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3032
+#: core/theme-options/assets/theme-mode/theme-options.php:3127
+msgid "Specify the content background color."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3039
+msgid "Dark skin"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3141
+msgid "HTML body background"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3156
+msgid "Accent color"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3157
+msgid "Specify the accent color."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3164
+msgid "Body font family"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3165
+msgid "Specify the body font family."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3174
+msgid "UI font family"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3175
+msgid "Specify the UI font family."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3184
+msgid "UI font weight"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3185
+msgid "Specify the UI font weight."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3194
+msgid "Headings font family"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3195
+msgid "Specify the headings font family."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3204
+msgid "Headings font weight"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3205
+msgid "Specify the Headings font weight."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3214
+msgid "Smooth scroller"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3215
+msgid "Activate the enhanced smooth scroller."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3229
+msgid "Overlay menu skin"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3230
+msgid "Specify the overlay menu skin."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3239
+msgid "Menu highlight color"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3240
+msgid ""
+"Specify the menu active and hover effect color (If not specified an opaque "
+"version of the menu color will be used)."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3247
+msgid "Primary menu skin"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3248
+msgid "Specify the primary menu skin."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3256
+msgid "Primary submenu skin"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3257
+msgid "Specify the primary submenu skin."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3265
+msgid "Secondary menu skin"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3266
+msgid "Specify the secondary menu skin."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3276
+msgid "Menu font size"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3277
+msgid "Specify the menu font size."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3284
+msgid "Submenu font size"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3285
+msgid "Specify the submenu font size."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3292
+msgid "Mobile menu font size"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3293
+msgid "Specify the menu font size for mobile."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3300
+msgid "Menu font family"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3301
+msgid "Specify the menu font family."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3310
+msgid "Menu font weight"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3311
+msgid "Specify the menu font weight."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3328
+msgid "Specify the content skin."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3357
+msgid "Buttons"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3364
+msgid "Buttons font family"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3365
+msgid "Specify the buttons font family."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3374
+msgid "Buttons font weight"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3375
+msgid "Specify the buttons font weight."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3384
+msgid "Buttons text transform"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3385
+msgid "Specify the buttons text transform."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3414
+msgid "Copyright area skin"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3415
+msgid "Specify the copyright area skin color."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3425
+msgid "Copyright area custom background color"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3426
+msgid "Specify a custom copyright area background color."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3433
+msgid "CPT"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3440
+msgid "CPT label"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3441
+msgid "Enter a custom portfolio post type label."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3448
+msgid "CPT slug"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3449
+msgid "Enter a custom portfolio post type slug."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3463
+msgid "Footer full width"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3464
+msgid "Expand the footer to full width."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3473
+msgid "Widget area"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3481
+msgid "Specify the Content Block to use as a footer content."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3491
+msgid "Copyright area"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3498
+msgid "Automatic copyright text"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3499
+msgid "Activate to use an automatic copyright text."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3506
+msgid "Custom copyright text"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3507
+msgid "Insert a custom text for the footer copyright area."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3516
+msgid "Specify the footer copyright text alignment."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3537
+msgid "Social links"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3538
+msgid "Activate to have the social icons in the footer copyright area."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3551
+msgid "Scroll up button"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3552
+msgid "Activate to add a scroll up button in the footer."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3559
+msgid "Scroll up button on mobile"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3560
+msgid "Activate to add a scroll up button in the footer for mobile devices."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3569
+msgid "Social Networks"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3570
+msgid "Define here all the social networks you will need."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3580
+msgid "Unique social ID"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3585
+msgid "Social Network Icon"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3586
+msgid "Specify the social network icon."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3592
+msgid "Social Network Link"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3593
+msgid "Enter your social network link."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3601
+msgid "Hide In The Menu"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3602
+msgid ""
+"Activate to hide the social icon in the menu (if the social connections in "
+"the menu is active)."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3612
+#: core/theme-options/includes/ot-functions-admin.php:2426
+msgid "CSS"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3613
+msgid "Enter here your custom CSS."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3623
+msgid "Javascript"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3624
+msgid "Enter here your custom Javacript code."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3634
+msgid "Adaptive images"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3635
+msgid ""
+"Activate to take advantage of the Adaptive Images system. Adaptive Images "
+"detects your visitor's screen size and automatically delivers device "
+"appropriate re-scaled images."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3644
+msgid "Asynchronous adaptive image system"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3645
+msgid ""
+"Activate to load the adaptive images asynchronously, this will improve the "
+"loading performance and it's necessary if using an aggresive caching system."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3654
+msgid "Asynchronous loading blur effect"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3655
+msgid "Activate to use a bluring effect when loading the images."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3664
+msgid "Image quality"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3665
+msgid "Adjust the images compression quality."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3675
+msgid "Image sizes range"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3676
+msgid ""
+"Enter all the image sizes you want use for the Adaptive Images system. NB. "
+"The values needs to be comma separated."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3685
+msgid "Apache Server Configs"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3686
+msgid ""
+"Activate the enhanced .htaccess, this will improve the web site's "
+"performance and security."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3695
+msgid "Production mode"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3696
+msgid ""
+"Activate this to switch to production mode, the CSS and JS will be cached by "
+"the browser and the JS minified."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3705
+msgid "Activate page redirect"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3706
+msgid ""
+"Activate to redirect all the website calls to a specific page. NB. This can "
+"only be visible when the user is not logged in."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3713
+msgid "Redirect page"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3714
+msgid ""
+"Specify the redirect page. NB. This page will be presented without menu and "
+"footer."
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3730
+msgid "WooCommerce"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3734
+#: woocommerce/order/order-details.php:32
+#: woocommerce/single-product-reviews.php:24
+msgid "Product"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3738
+msgid "Products"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3759
+msgid "Social Menu"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3764
+msgid "Cart icon"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3765
+msgid "Specify the cart icon"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3922
+msgid "Justify"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3937
+msgid "Lateral"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3942
+msgid "Offcanvas"
+msgstr ""
+
+#: core/theme-options/assets/theme-mode/theme-options.php:3947
+msgid "Overlay"
+msgstr ""
+
+#: core/theme-options/includes/ot-cleanup-api.php:84
+#: core/theme-options/includes/ot-cleanup-api.php:101
+#: core/theme-options/includes/ot-cleanup-api.php:130
+msgid "OptionTree Cleanup"
+msgstr ""
+
+#: core/theme-options/includes/ot-cleanup-api.php:101
+#, php-format
+msgid ""
+"OptionTree has outdated data that should be removed. Please go to %s for "
+"more information."
+msgstr ""
+
+#: core/theme-options/includes/ot-cleanup-api.php:136
+msgid "Multiple Media Posts"
+msgstr ""
+
+#: core/theme-options/includes/ot-cleanup-api.php:138
+#, php-format
+msgid ""
+"There are currently %s OptionTree media posts in your database. At some "
+"point in the past, a version of OptionTree added multiple %s media post "
+"objects cluttering up your %s table. There is no associated risk or harm "
+"that these posts have caused other than to add size to your overall "
+"database. Thankfully, there is a way to remove all these orphaned media "
+"posts and get your database cleaned up."
+msgstr ""
+
+#: core/theme-options/includes/ot-cleanup-api.php:140
+#, php-format
+msgid ""
+"By clicking the button below, OptionTree will delete %s records and "
+"consolidate them into one single OptionTree media post for uploading "
+"attachments to. Additionally, the attachments will have their parent ID "
+"updated to the correct media post."
+msgstr ""
+
+#: core/theme-options/includes/ot-cleanup-api.php:142
+msgid ""
+"This could take a while to fully process depending on how many records you "
+"have in your database, so please be patient and wait for the script to "
+"finish."
+msgstr ""
+
+#: core/theme-options/includes/ot-cleanup-api.php:144
+#, php-format
+msgid ""
+"%s Your server is running in safe mode. Which means this page will "
+"automatically reload after deleting %s posts, you can filter this number "
+"using %s if your server is having trouble processing that many at one time."
+msgstr ""
+
+#: core/theme-options/includes/ot-cleanup-api.php:146
+msgid "Consolidate Posts"
+msgstr ""
+
+#: core/theme-options/includes/ot-cleanup-api.php:174
+msgid "Reloading..."
+msgstr ""
+
+#: core/theme-options/includes/ot-cleanup-api.php:210
+msgid "Clean up script has completed, the page will now reload..."
+msgstr ""
+
+#: core/theme-options/includes/ot-cleanup-api.php:230
+msgid "Outdated Table"
+msgstr ""
+
+#: core/theme-options/includes/ot-cleanup-api.php:232
+#, php-format
+msgid ""
+"If you have upgraded from an old 1.x version of OptionTree at some point, "
+"you have an extra %s table in your database that can be removed. It's not "
+"hurting anything, but does not need to be there. If you want to remove it. "
+"Click the button below."
+msgstr ""
+
+#: core/theme-options/includes/ot-cleanup-api.php:234
+msgid "Drop Table"
+msgstr ""
+
+#: core/theme-options/includes/ot-cleanup-api.php:238
+#, php-format
+msgid "Deleting the outdated and unused %s table..."
+msgstr ""
+
+#: core/theme-options/includes/ot-cleanup-api.php:244
+#, php-format
+msgid "The %s table has been successfully deleted. The page will now reload..."
+msgstr ""
+
+#: core/theme-options/includes/ot-cleanup-api.php:256
+#, php-format
+msgid "Something went wrong. The %s table was not deleted."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:56
+#: core/theme-options/includes/ot-functions-admin.php:126
+#: core/theme-options/includes/ot-functions-admin.php:220
+msgid "Theme Options updated."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:57
+#: core/theme-options/includes/ot-functions-admin.php:127
+#: core/theme-options/includes/ot-functions-admin.php:221
+msgid "Theme Options reset."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:58
+#: core/theme-options/includes/ot-functions-settings-page.php:94
+#: core/theme-options/includes/ot-functions-settings-page.php:133
+msgid "Save Changes"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:97
+msgid ""
+"The Theme Options UI Builder is being overridden by a custom file in your "
+"theme. Any changes you make via the UI Builder will not be saved."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:109
+#: core/theme-options/includes/ot-functions-admin.php:110
+msgid "OptionTree"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:120
+#: core/theme-options/includes/ot-functions-admin.php:121
+#: core/theme-options/includes/ot-functions-admin.php:163
+#: core/theme-options/includes/ot-functions-admin.php:187
+msgid "Settings"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:128
+#: core/theme-options/includes/ot-functions-admin.php:222
+msgid "Save Settings"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:133
+msgid "Theme Options UI"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:137
+msgid "Import"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:145
+#: core/theme-options/includes/ot-functions-admin.php:175
+#: core/theme-options/includes/ot-functions-admin.php:199
+msgid "Layouts"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:151
+msgid "Theme Options UI Builder"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:157
+msgid "Settings XML"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:181
+msgid "Settings PHP File"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:205
+msgid "Layout Management"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:227
+msgid "Creating Options"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:231
+msgid "Option Types"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:235
+msgid "Function References"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:239
+#: core/theme-options/includes/ot-functions-admin.php:281
+#: core/theme-options/includes/ot-functions-settings-page.php:366
+msgid "Theme Mode"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:243
+#: core/theme-options/includes/ot-functions-admin.php:287
+msgid "Meta Boxes"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:247
+msgid "Code Examples"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:251
+msgid "Layouts Overview"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:257
+msgid "Overview of available Theme Option fields."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:263
+msgid "Option types in alphabetical order & hooks to filter them."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:269
+msgid "Function Reference:ot_get_option()"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:275
+msgid "Function Reference:get_option_tree()"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:293
+msgid "Code examples for front-end development."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:299
+msgid "What's a layout anyhow?"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:502
+#: core/theme-options/includes/ot-functions-admin.php:604
+#: core/theme-options/includes/ot-functions-admin.php:673
+#, php-format
+msgid "The %s input field for %s only allows numeric values."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:563
+#, php-format
+msgid "The %s Colorpicker only allows valid hexadecimal or rgba values."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:848
+msgid "Are you sure you want to reset back to the defaults?"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:849
+msgid "You can't remove this! But you can edit the values."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:850
+msgid "Are you sure you want to remove this?"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:851
+msgid "Are you sure you want to activate this layout?"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:852
+msgid "Sorry, you can't have settings three levels deep."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:853
+#: core/theme-options/includes/ot-functions-option-types.php:1215
+msgid "Delete Gallery"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:854
+#: core/theme-options/includes/ot-functions-option-types.php:1216
+msgid "Edit Gallery"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:855
+#: core/theme-options/includes/ot-functions-option-types.php:1223
+msgid "Create Gallery"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:856
+msgid "Are you sure you want to delete this Gallery?"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:857
+msgid "Today"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:858
+msgid "Now"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:859
+msgid "Close"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:860
+msgid "Featured Image"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:861
+#: core/theme-options/includes/ot-functions-admin.php:3253
+#: core/theme-options/includes/ot-functions-admin.php:3314
+msgid "Image"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:929
+msgid "Option Tree"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:1073
+msgid "Sample Text Field Label"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:1074
+msgid "Description for the sample text field."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2317
+msgid "Settings updated."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2321
+msgid "Settings could not be saved."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2329
+msgid "Settings Imported."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2333
+msgid "Settings could not be imported."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2340
+msgid "Data Imported."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2344
+msgid "Data could not be imported."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2352
+msgid "Layouts Imported."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2356
+msgid "Layouts could not be imported."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2364
+msgid "Layouts Updated."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2368
+msgid "Layouts could not be updated."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2372
+msgid "Layouts have been deleted."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2378
+msgid "Layout activated."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2418
+msgid "Border"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2419
+msgid "Box Shadow"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2420
+msgid "Category Checkbox"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2421
+msgid "Category Select"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2422
+msgid "Checkbox"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2424
+msgid "Gradientpicker"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2425
+msgid "Colorpicker Opacity"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2427
+msgid "Custom Post Type Checkbox"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2428
+msgid "Custom Post Type Select"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2429
+msgid "Date Picker"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2430
+msgid "Date Time Picker"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2431
+msgid "Dimension"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2432
+#: core/theme-options/includes/ot-functions-admin.php:5474
+msgid "Gallery"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2433
+msgid "Google Fonts"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2434
+msgid "JavaScript"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2435
+msgid "Link Color"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2436
+msgid "List Item"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2437
+msgid "Measurement"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2438
+msgid "Numeric Slider"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2439
+msgid "On/Off"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2440
+msgid "Page Checkbox"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2441
+msgid "Page Select"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2442
+msgid "Post Checkbox"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2443
+msgid "Post Select"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2444
+msgid "Radio"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2445
+msgid "Radio Image"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2446
+msgid "Select"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2447
+msgid "Sidebar Select"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2448
+msgid "Slider"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2449
+msgid "Social Links"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2450
+msgid "Spacing"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2451
+msgid "Tab"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2452
+msgid "Tag Checkbox"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2453
+msgid "Tag Select"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2454
+msgid "Taxonomy Checkbox"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2455
+msgid "Taxonomy Select"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2456
+msgid "Text"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2457
+msgid "Textarea"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2458
+msgid "Textarea Simple"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2459
+msgid "Textblock"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2460
+msgid "Textblock Titled"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:2462
+msgid "Upload"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:3198
+msgid "Left Sidebar"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:3203
+msgid "Right Sidebar"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:3208
+msgid "Full Width (no sidebar)"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:3213
+msgid "Dual Sidebar"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:3218
+msgid "Left Dual Sidebar"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:3223
+msgid "Right Dual Sidebar"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:3264
+#: core/theme-options/includes/ot-functions-admin.php:3320
+#: core/theme-options/includes/ot-functions-admin.php:5514
+msgid "Link"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:3390
+#: woocommerce/single-product-reviews.php:65
+msgid "Name"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:3391
+msgid "Enter the name of the social website."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:3399
+msgid "Enter the text shown in the title attribute of the link."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:3405
+#, php-format
+msgid ""
+"Enter a link to the profile or page on the social website. Remember to add "
+"the %s part to the front of the link."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:3762
+#, php-format
+msgid "Unable to write to file %s."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:4032
+msgid "edit"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:4042
+msgid ""
+"<strong>Section Title</strong>: Displayed as a menu item on the Theme "
+"Options page."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:4050
+msgid ""
+"<strong>Section ID</strong>: A unique lower case alphanumeric string, "
+"underscores allowed."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:4111
+msgid ""
+"<strong>Label</strong>: Displayed as the label of a form element on the "
+"Theme Options page."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:4119
+#: core/theme-options/includes/ot-functions-admin.php:4348
+msgid ""
+"<strong>ID</strong>: A unique lower case alphanumeric string, underscores "
+"allowed."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:4127
+msgid ""
+"<strong>Type</strong>: Choose one of the available option types from the "
+"dropdown."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:4138
+msgid ""
+"<strong>Description</strong>: Enter a detailed description for the users to "
+"read on the Theme Options page, HTML is allowed. This is also where you "
+"enter content for both the Textblock & Textblock Titled option types."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:4146
+msgid ""
+"<strong>Choices</strong>: This will only affect the following option types: "
+"Checkbox, Radio, Select & Select Image."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:4151
+msgid "Add Choice"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:4157
+msgid ""
+"<strong>Settings</strong>: This will only affect the List Item option type."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:4162
+#: core/theme-options/includes/ot-functions-settings-page.php:93
+msgid "Add Setting"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:4168
+msgid ""
+"<strong>Standard</strong>: Setting the standard value for your option only "
+"works for some option types. Read the <code>OptionTree->Documentation</code> "
+"for more information on which ones."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:4176
+msgid ""
+"<strong>Rows</strong>: Enter a numeric value for the number of rows in your "
+"textarea. This will only affect the following option types: CSS, Textarea, & "
+"Textarea Simple."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:4184
+msgid ""
+"<strong>Post Type</strong>: Add a comma separated list of post type like "
+"'post,page'. This will only affect the following option types: Custom Post "
+"Type Checkbox, & Custom Post Type Select."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:4192
+msgid ""
+"<strong>Taxonomy</strong>: Add a comma separated list of any registered "
+"taxonomy like 'category,post_tag'. This will only affect the following "
+"option types: Taxonomy Checkbox, & Taxonomy Select."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:4200
+msgid ""
+"<strong>Min, Max, & Step</strong>: Add a comma separated list of options in "
+"the following format <code>0,100,1</code> (slide from <code>0-100</code> in "
+"intervals of <code>1</code>). The three values represent the minimum, "
+"maximum, and step options and will only affect the Numeric Slider option "
+"type."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:4208
+msgid "<strong>CSS Class</strong>: Add and optional class to this option type."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:4216
+#, php-format
+msgid ""
+"<strong>Condition</strong>: Add a comma separated list (no spaces) of "
+"conditions in which the field will be visible, leave this setting empty to "
+"always show the field. In these examples, <code>value</code> is a "
+"placeholder for your condition, which can be in the form of %s."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:4224
+msgid ""
+"<strong>Operator</strong>: Choose the logical operator to compute the result "
+"of the conditions."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:4227
+msgid "and"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:4228
+msgid "or"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:4274
+msgid "Label"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:4284
+msgid "Value"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:4294
+msgid "Image Source (Radio Image only)"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:4340
+msgid ""
+"<strong>Title</strong>: Displayed as a contextual help menu item on the "
+"Theme Options page."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:4356
+msgid ""
+"<strong>Content</strong>: Enter the HTML content about this contextual help "
+"item displayed on the Theme Option page for end users to read."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:4768
+msgid "Save New Layout"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:5523
+msgid "Link URL"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:5530
+msgid "Link Title"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:5560
+msgid "Quote"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:5569
+msgid "Source Name (ex. author, singer, actor)"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:5576
+msgid "Source URL"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:5583
+msgid "Source Title (ex. book, song, movie)"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:5590
+msgid "Source Date"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:5620
+msgid "Video"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:5629
+#, php-format
+msgid ""
+"Embed video from services like Youtube, Vimeo, or Hulu. You can find a list "
+"of supported oEmbed sites in the %1$s. Alternatively, you could use the "
+"built-in %2$s shortcode."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:5629
+#: core/theme-options/includes/ot-functions-admin.php:5668
+msgid "Wordpress Codex"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:5659
+msgid "Audio"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-admin.php:5668
+#, php-format
+msgid ""
+"Embed audio from services like SoundCloud and Rdio. You can find a list of "
+"supported oEmbed sites in the %1$s. Alternatively, you could use the built-"
+"in %2$s shortcode."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:46
+msgid "Sorry, this function does not exist"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:238
+msgid "background-image"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:316
+#: core/theme-options/includes/ot-functions-option-types.php:1101
+msgid "width"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:327
+#: core/theme-options/includes/ot-functions-option-types.php:1121
+#: core/theme-options/includes/ot-functions-option-types.php:1606
+#: core/theme-options/includes/ot-functions-option-types.php:2562
+msgid "unit"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:346
+msgid "style"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:439
+msgid "offset-x"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:448
+msgid "offset-y"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:457
+msgid "blur-radius"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:466
+msgid "spread-radius"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:538
+#: core/theme-options/includes/ot-functions-option-types.php:592
+msgid "No Categories Found"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:587
+#: core/theme-options/includes/ot-functions-option-types.php:926
+#: core/theme-options/includes/ot-functions-option-types.php:1875
+#: core/theme-options/includes/ot-functions-option-types.php:1986
+#: core/theme-options/includes/ot-functions-option-types.php:2702
+#: core/theme-options/includes/ot-functions-option-types.php:2817
+msgid "Choose One"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:874
+#: core/theme-options/includes/ot-functions-option-types.php:932
+#: core/theme-options/includes/ot-functions-option-types.php:1937
+#: core/theme-options/includes/ot-functions-option-types.php:1992
+msgid "No Posts Found"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:1110
+msgid "height"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:1288
+#: core/theme-options/includes/ot-functions-option-types.php:1331
+msgid "Remove Google Font"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:1290
+#: core/theme-options/includes/ot-functions-option-types.php:1333
+msgid "-- Choose One --"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:1354
+msgid "Add Google Font"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:1440
+msgctxt "color picker"
+msgid "Standard"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:1441
+msgctxt "color picker"
+msgid "Hover"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:1442
+msgctxt "color picker"
+msgid "Active"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:1443
+msgctxt "color picker"
+msgid "Visited"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:1444
+msgctxt "color picker"
+msgid "Focus"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:1556
+#: core/theme-options/includes/ot-functions-option-types.php:2305
+#: core/theme-options/includes/ot-functions-option-types.php:2470
+msgid "You can re-order with drag & drop, the order will update after saving."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:1726
+msgid "On"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:1748
+msgid "Off"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:1826
+#: core/theme-options/includes/ot-functions-option-types.php:1881
+msgid "No Pages Found"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:2225
+msgid "Default Sidebar"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:2230
+msgid "No Sidebars"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:2338
+msgid "Facebook"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:2343
+msgid "Twitter"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:2348
+msgid "Google+"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:2353
+msgid "LinkedIn"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:2358
+msgid "Pinterest"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:2368
+msgid "Dribbble"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:2373
+msgid "Github"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:2378
+msgid "Forrst"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:2383
+msgid "Digg"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:2388
+msgid "Delicious"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:2393
+msgid "Tumblr"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:2398
+msgid "Skype"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:2403
+msgid "SoundCloud"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:2418
+msgid "VK.com"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:2524
+msgid "top"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:2533
+msgid "right"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:2542
+msgid "bottom"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:2551
+msgid "left"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:2653
+#: core/theme-options/includes/ot-functions-option-types.php:2707
+msgid "No Tags Found"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-option-types.php:2765
+#: core/theme-options/includes/ot-functions-option-types.php:2822
+msgid "No Taxonomies Found"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:35
+msgid "Warning!"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:36
+#, php-format
+msgid ""
+"Go to the %s page if you want to save data, this page is for adding settings."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:37
+#, php-format
+msgid ""
+"If you're unsure or not completely positive that you should be editing these "
+"settings, you should read the %s first."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:38
+msgid ""
+"Things could break or be improperly displayed to the end-user if you do one "
+"of the following:"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:39
+msgid ""
+"Give two sections the same ID, give two settings the same ID, give two "
+"contextual help content areas the same ID, don't create any settings, or "
+"have a section at the end of the settings list."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:40
+msgid ""
+"You can create as many settings as your project requires and use them how "
+"you see fit. When you add a setting here, it will be available on the Theme "
+"Options page for use in your theme. To separate your settings into sections, "
+"click the \"Add Section\" button, fill in the input fields, and a new "
+"navigation menu item will be created."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:41
+msgid ""
+"All of the settings can be sorted and rearranged to your liking with Drag & "
+"Drop. Don't worry about the order in which you create your settings, you can "
+"always reorder them."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:92
+msgid "Add Section"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:99
+msgid "Contextual Help"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:103
+msgid "Contextual Help Sidebar"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:103
+msgid ""
+"If you decide to add contextual help to the Theme Option page, enter the "
+"optional \"Sidebar\" HTML here. This would be an extremely useful place to "
+"add links to your themes documentation or support forum. Only after you've "
+"added some content below will this display to the user."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:132
+msgid "Add Contextual Help Content"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:168
+msgid ""
+"This import method has been deprecated. That means it has been replaced by a "
+"new method and is no longer supported, and may be removed from future "
+"versions. All themes that use this import method should be converted to use "
+"its replacement below."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:170
+#, php-format
+msgid ""
+"If you were given a Theme Options XML file with a premium or free theme, "
+"locate it on your hard drive and upload that file by clicking the upload "
+"button. A popup window will appear, upload the XML file and click \"%s\". "
+"The file URL should be in the upload input, if it is click \"Import XML\"."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:173
+msgid "Import XML"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:189
+msgid "Add XML"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:226
+msgid ""
+"To import your Settings copy and paste what appears to be a random string of "
+"alpha numeric characters into this textarea and press the \"Import Settings"
+"\" button."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:229
+msgid "Import Settings"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:271
+msgid ""
+"Only after you've imported the Settings should you try and update your Theme "
+"Options."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:273
+msgid ""
+"To import your Theme Options copy and paste what appears to be a random "
+"string of alpha numeric characters into this textarea and press the \"Import "
+"Theme Options\" button."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:276
+msgid "Import Theme Options"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:318
+msgid ""
+"Only after you've imported the Settings should you try and update your "
+"Layouts."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:320
+msgid ""
+"To import your Layouts copy and paste what appears to be a random string of "
+"alpha numeric characters into this textarea and press the \"Import Layouts\" "
+"button. Keep in mind that when you import your layouts, the active layout's "
+"saved data will write over the current data set for your Theme Options."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:323
+msgid "Import Layouts"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:366
+#, php-format
+msgid ""
+"Export your Settings into a fully functional %s file. If you want to add "
+"your own custom %s text domain to the file, enter it into the text field "
+"before exporting. For more information on how to use this file read the "
+"documentation on %s. Remember, you should always check the file for errors "
+"before including it in your theme."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:375
+msgid "Export Settings File"
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:405
+msgid ""
+"Export your Settings by highlighting this text and doing a copy/paste into a "
+"blank .txt file. Then save the file for importing into another install of "
+"WordPress later. Alternatively, you could just paste it into the "
+"<code>Options Utils->Settings->Import</code> <strong>Settings</strong> "
+"textarea on another web site."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:441
+msgid ""
+"Export your Theme Options data by highlighting this text and doing a copy/"
+"paste into a blank .txt file. Then save the file for importing into another "
+"install of WordPress later. Alternatively, you could just paste it into the "
+"<code>Options Utils->Settings->Import</code> <strong>Theme Options</strong> "
+"textarea on another web site."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:477
+msgid ""
+"Export your Layouts by highlighting this text and doing a copy/paste into a "
+"blank .txt file. Then save the file for importing into another install of "
+"WordPress later. Alternatively, you could just paste it into the "
+"<code>Options Utils->Settings->Import</code> <strong>Layouts</strong> "
+"textarea on another web site."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:519
+msgid ""
+"To add a new layout enter a unique lower case alphanumeric string (dashes "
+"allowed) in the text field and click \"Save Layouts\"."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:520
+msgid ""
+"As well, you can activate, remove, and drag & drop the order; all situations "
+"require you to click \"Save Layouts\" for the changes to be applied."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:521
+msgid ""
+"When you create a new layout it will become active and any changes made to "
+"the Theme Options will be applied to it. If you switch back to a different "
+"layout immediately after creating a new layout that new layout will have a "
+"snapshot of the current Theme Options data attached to it."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:522
+msgid ""
+"Visit <code>Options Utils->Documentation->Layouts Overview</code> to see a "
+"more in-depth description of what layouts are and how to use them."
+msgstr ""
+
+#: core/theme-options/includes/ot-functions-settings-page.php:559
+msgid "Save Layouts"
+msgstr ""
+
+#: core/theme-options/includes/ot-settings-api.php:365
+msgid "Reset Options"
+msgstr ""
+
+#: core/theme-options/ot-loader.php:21
+msgid ""
+"OptionTree is installed as a plugin and also embedded in your current theme. "
+"Please deactivate the plugin to load the theme dependent version of "
+"OptionTree, and remove this warning."
+msgstr ""
+
+#: footer.php:76 partials/menus.php:506
+msgid "All rights reserved"
+msgstr ""
+
+#: functions.php:14
+msgid "PHP version obsolete"
+msgstr ""
+
+#: functions.php:15
+msgid "Ooops, obsolete PHP version"
+msgstr ""
+
+#: page.php:288 partials/elements.php:847 single.php:326
+msgid "Pages:"
+msgstr ""
+
+#: partials/elements.php:767
+msgid "Sticky"
+msgstr ""
+
+#: partials/elements.php:878 partials/elements.php:879
+#: woocommerce/single-product/add-to-cart/simple.php:59
+msgid "Read More"
+msgstr ""
+
+#: partials/elements.php:887 partials/elements.php:888
+msgid "by "
+msgstr ""
+
+#: partials/elements.php:909
+msgctxt "comments"
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: partials/elements.php:1130
+msgid "Sale!"
+msgstr ""
+
+#: partials/elements.php:1236 partials/elements.php:1260
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: partials/elements.php:1238 partials/elements.php:1262
+msgid "In "
+msgstr ""
+
+#: partials/elements.php:1241
+msgid "By "
+msgstr ""
+
+#: partials/elements.php:1276
+msgid "Home"
+msgstr ""
+
+#: partials/elements.php:1279
+msgid "Archive by Category "
+msgstr ""
+
+#: partials/elements.php:1282
+msgid "Search Results for "
+msgstr ""
+
+#: partials/elements.php:1285
+msgid "Posts Tagged "
+msgstr ""
+
+#: partials/elements.php:1288
+msgid "Articles Posted by "
+msgstr ""
+
+#: partials/elements.php:1291
+msgid "Error 404"
+msgstr ""
+
+#: partials/menus.php:258 searchform.php:6
+msgid "Search…"
+msgstr ""
+
+#: search.php:90
+msgid "Results for:"
+msgstr ""
+
+#: searchform.php:6 woocommerce/product-searchform.php:26
+msgid "Search for:"
+msgstr ""
+
+#: single-portfolio.php:362 woocommerce/single-product/share.php:20
+msgid "Share"
+msgstr ""
+
+#: vc_templates/uncode_index.php:380
+msgid "Show all"
+msgstr ""
+
+#: vc_templates/uncode_index.php:759
+msgid "Nothing found."
+msgstr ""
+
+#: vc_templates/uncode_index.php:777
+msgid "Load more"
+msgstr ""
+
+#: vc_templates/uncode_index.php:777
+msgid "Loading…"
+msgstr ""
+
+#: vc_templates/vc_accordion_tab.php:5
+msgid "Section"
+msgstr ""
+
+#: vc_templates/vc_accordion_tab.php:18
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: vc_templates/vc_tab.php:15
+msgid "Empty tab. Edit page to add content here."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:48
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:71
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:79
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:22
+msgid "Customer Details"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:27
+msgid "Note:"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:34
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:41
+msgid "Telephone:"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:57
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:60
+#: woocommerce/order/order-details-customer.php:71
+#: woocommerce/single-product/meta.php:27
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:68
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/order/order-details.php:28
+msgid "Order Details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:33
+msgid "Total"
+msgstr ""
+
+#: woocommerce/product-searchform.php:27
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr ""
+
+#: woocommerce/product-searchform.php:27
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:24
+#, php-format
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:67
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/simple.php:55
+msgid "Add to cart"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:31
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:41
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:27
+msgid "SKU"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:32
+msgid "Category"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:32
+msgid "Categories"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:32
+#: woocommerce/single-product/meta.php:37
+msgid "<span class=\"detail-label\">"
+msgid_plural "<span class=\"detail-label\">"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:37
+msgid "Tag"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:37
+msgid "Tags"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:41
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce/single-product/related.php:42
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/review.php:38
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:39
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:48
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:59
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:16
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:16
+msgid "Product Description"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:51
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/widgets/widget-price_filter.php:14
+msgid ""
+"Shows a price filter slider in a widget which lets you narrow down the list "
+"of shown products when viewing product categories."
+msgstr ""
+
+#: woocommerce/widgets/widget-price_filter.php:16
+msgid "WooCommerce Price Filter"
+msgstr ""
+
+#: woocommerce/widgets/widget-price_filter.php:20
+msgid "Filter by price"
+msgstr ""
+
+#: woocommerce/widgets/widget-price_filter.php:157
+msgid "Min price"
+msgstr ""
+
+#: woocommerce/widgets/widget-price_filter.php:158
+msgid "Max price"
+msgstr ""
+
+#: woocommerce/widgets/widget-price_filter.php:159
+msgid "Filter"
+msgstr ""
+
+#: woocommerce/widgets/widget-price_filter.php:161
+msgid "Price:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Uncode"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.undsgn.com/uncode"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Uncode is a pixel perfect WordPress Theme designed with terrific attention "
+"to details"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Undsgn"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.undsgn.com"
+msgstr ""
