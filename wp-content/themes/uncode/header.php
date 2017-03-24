@@ -36,6 +36,9 @@ if (!is_admin() && is_user_logged_in()) $html_class .= ' admin-mode';
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 <?php wp_head(); ?>
+	
+<!-- hello world -->
+	
 </head>
 <?php
 	global $LOGO, $metabox_data, $onepage, $fontsizes, $is_redirect, $menutype;
