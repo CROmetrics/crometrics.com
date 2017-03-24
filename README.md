@@ -18,3 +18,4 @@ This is the official repository for the crometrics.com WordPress theme.
 * For Code Changes (CSS / JS / Theme Header stuff / Etc...), you'll want to do the dev in this repo and submit a PR (if you'd like code review) or push to master if small. Once pushed Staging is auto deploy'ed to via `circle.yml calling ./bin/stage.sh` for every commit on master.
 
 * Once staging looks good, TomF has the ability to `./bin/prod.sh` push. Ping him in slack if you'd like that done.
+
