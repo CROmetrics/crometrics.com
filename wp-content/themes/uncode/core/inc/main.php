@@ -222,7 +222,7 @@ function uncode_equeue()
 	/** JS */
 	$ai_active = ot_get_option('_uncode_adaptive');
 	wp_enqueue_script('wp-mediaelement');
-	wp_enqueue_script('crometrics-optimizely', 'https://cdn.optimizely.com/js/8303139256.js');
+	wp_enqueue_script('crometrics-optimizely', 'https://cdn.optimizely.com/js/3164220185.js');
 	if ($ai_active === 'on' || $ai_active === '') {
 		wp_enqueue_script('ai-uncode', get_template_directory_uri() . '/library/js/min/ai-uncode.min.js', array() , $resources_version, false);
 	}
